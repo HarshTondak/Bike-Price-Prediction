@@ -1,0 +1,1966 @@
+bike_id,model_name,model_year,kms_driven,owner,location,mileage,power
+0,Royal Enfield Thunderbird X 350cc ABS 2019,2019,10500 Km,first owner,delhi, ,19.80 bhp
+1,Bajaj Pulsar 180cc 2010,2010,25000 Km,first owner,bangalore, 65 kmpl,15 bhp
+2,Bajaj Avenger 180cc 2006,2006,57500 Km,first owner,bangalore, 40 kmpl,19 bhp
+3,Yamaha YZF-R15 V3 150CC ABS 2019,2019,7000 Km,first owner,sikar, ,18.70 bhp
+4,Suzuki Gixxer 150cc SP Rear Disc 2018,2018,5300 Km,first owner,indore, 63kmpl,14 bhp
+5,Royal Enfield Thunderbird 350cc 2018,2018,15917 Km,first owner,mumbai, 40 kmpl,19.80 bhp
+6,Royal Enfield Classic 350cc 2015,2015,16500 Km,first owner,pune, 35 kmpl,19.80 Bhp
+7,Hero HF Deluxe Kick Alloy 100cc 2018,2018,11000 Km,first owner,gurgaon, 55 kmpl,6.15kW (8.36 Ps)
+8,Bajaj V15 150cc 2017,2017,4000 Km,first owner,delhi, 57 kmpl,11.80 bhp
+9,Bajaj Pulsar 220F 2016,2016,35000 Km,second owner,jaipur, 38 kmpl,21 bhp
+10,Yamaha YZF-R15 S 150cc 2016,2016,28000 Km,first owner,ludhiana, 42 kmpl,16 bhp
+11,Hero Passion Pro 100cc 2011,2011,46000 Km,first owner,noida, 5 kmpl,8.2 Bhp
+12,Bajaj Pulsar 220F 2016,2016,22000 Km,first owner,bangalore, 38 kmpl,21 bhp
+13,yamaha Libero 110cc 2006,2006,50000 Km,first owner,ghaziabad, ,
+14,Bajaj Pulsar RS200 2015,2015,Mileage 35 Kmpl,first owner,mumbai, 35 Kmpl,24.16 bhp
+15,Royal Enfield‎ Bullet 350cc 1986,1986,8990 Km,second owner,thane, 37 kmpl,19.80 bhp
+16,KTM Duke 200cc 2017,2017,21000 Km,first owner,gurgaon, 35 kmpl,24.60 bhp
+17,KTM RC 125CC 2019,2019,12000 Km,first owner,mumbai, 40-45,14.5hp
+18,Royal Enfield Thunderbird 350cc 2017,2017,16700 Km,first owner,tirunelveli, 40 kmpl,19.80 bhp
+19,Hero Splendor Plus i3s 2019,2019,12300 Km,first owner,delhi, 81 kmpl,8.20 bhp
+20,Bajaj Avenger Cruise 220 2016,2016,13589 Km,first owner,bangalore, 35 kmpl,19 bhp
+21,Yamaha Crux 110cc 2002,2002,Mileage 60 Kmpl,first owner,midnapore, 60 Kmpl,7.5 Bhp
+22,Hero Splendor Plus i3s 2020,2020,5300 Km,first owner,delhi, 81 kmpl,8.20 bhp
+23,Honda CB Hornet 160R  ABS STD 2020,2020,Mileage 52 Kmpl,first owner,delhi, 52 Kmpl,15.44 bhp
+24,TVS Apache RTR 180cc 2017,2017,Mileage 45 Kmpl,first owner,alipore, 45 Kmpl,17.2 bhp
+25,KTM RC 200cc 2017,2017,6010 Km,first owner,delhi, 35 kmpl,25.10 bhp
+26,UM Renegade Commando 2017,2017,800 Km,first owner,tiruvallur, 35 kmpl,24.80 bhp
+27,Bajaj Pulsar RS200 2016,2016,Mileage 35 Kmpl,first owner,pune, 35 Kmpl,24.50 bhp
+28,Royal Enfield Classic Chrome 500cc 2012,2012,24800 Km,first owner,malappuram, 32 kmpl,27.20 bhp
+29,Royal Enfield Thunderbird 350cc ABS 2019,2019,16000 Km,first owner,delhi, 40 kmpl,19.80 bhp
+30,Bajaj Avenger 220cc 2014,2014,15000 Km,first owner,delhi, 40 kmpl,19 bhp
+31,Benelli TNT 600i ABS 2018,2018,11500 Km,second owner,mumbai, 19 kmpl,82.70 bhp
+32,Bajaj Pulsar 125cc Drum BS6 2020,2020,2100 Km,first owner,kharar, 62 kmpl,11.64 bhp
+33,Yamaha MT-15 150cc Special Edition BS6 2020,2020,1400 Km,first owner,hyderabad, ,18.23 bhp
+34,Bajaj CT 100 ES Alloy 2019,2019,5922 Km,first owner,faridabad, 67 kmpl,8.10 bhp
+35,Bajaj Pulsar 180F NEON ABS BS6 2021,2021,1000 Km,first owner,srinagar, 45 kmpl,16.6 bhp
+36,UM Renegade Sport S 2018,2018,5000 Km,first owner,delhi, 35 kmpl,24.80 bhp
+37,TVS Radeon 110CC SELF ALLOY BS6 2020,2020,7000 Km,first owner,delhi, 63.97 kmpl,8 bhp
+38,Mahindra Centuro 110cc 2015,2015,24000 Km,first owner,delhi,  60 kmpl,8.5 Bhp
+39,TVS Apache RTR 160 4V FI 2019,2019,95000 Km,second owner,mumbai, ,16.10 bhp
+40,Hero Karizma ZMR 223cc 2012,2012,1922 Km,first owner,mumbai, 48 kmpl,20 bhp
+41,Bajaj V15 150cc 2017,2017,23000 Km,first owner,delhi, 57 kmpl,11.80 bhp
+42,Suzuki Gixxer SF 150cc SP Rear Disc 2017,2017,31000 Km,second owner,ambala, 40 kmpl,14.60 bhp
+43,Yamaha FZ25 250cc 2017,2017,19050 Km,first owner,bangalore, 43 kmpl,20.30 bhp
+44,KTM Duke 390cc 2017,2017,89000 Km,fourth owner or more,jaipur, 25 kmpl,42.90 bhp
+45,Honda CB Unicorn 150cc 2012,2012,Mileage 60 Kmpl,first owner,mumbai, 60 Kmpl,14 bhp
+46,Royal Enfield Classic 350cc 2016,2016,5800 Km,first owner,delhi, 35 kmpl,19.80 bhp
+47,Suzuki Gixxer SF Fi 150cc ABS 2019,2019,2600 Km,first owner,panvel, 40 kmpl,14.60 bhp
+48,Bajaj Pulsar 180cc 2010,2010,70000 Km,first owner,ahmedabad, 65 kmpl,15 bhp
+49,Bajaj CT 100 ES Alloy 2019,2019,7329 Km,first owner,gurgaon, 67 kmpl,8.10 bhp
+50,Royal Enfield Classic 350cc 2019,2019,12500 Km,first owner,coimbatore, 35 kmpl,19.80 bhp
+51,Royal Enfield Bullet 350cc 1991,1991,1677 Km,first owner,bangalore, 37 kmpl,19.80 bhp
+52,KTM RC 200cc ABS 2020,2020,2900 Km,first owner,mumbai, 35 kmpl,25.10 bhp
+53,Harley-Davidson Street 750 2015,2015,26236 Km,first owner,hyderabad, 20 kmpl,47 bhp
+54,UM Renegade Commando 2017,2017,17544 Km,first owner,pune, 35 kmpl,24.80 bhp
+55,Bajaj Pulsar 180cc 2017,2017,6400 Km,second owner,pali, 65 kmpl,17 bhp
+56,Bajaj Avenger 220cc 2014,2014,30000 Km,first owner,bangalore, 40 kmpl,19 bhp
+57,Suzuki Intruder 150cc 2018,2018,25000 Km,first owner,sachin, ,14.60 bhp
+58,Bajaj Pulsar 150cc 2015,2015,Mileage 65 Kmpl,first owner,jaipur, 65 Kmpl,14.85 bhp
+59,Yamaha YZF-R15 V3 150cc 2018,2018,11000 Km,first owner,mumbai, ,18.70 bhp
+60,Suzuki Gixxer 150cc 2019,2019,23000 Km,first owner,hyderabad, 63kmpl,14 bhp
+61,Royal Enfield‎ Bullet 350cc 1990,1990,30000 Km,third owner,bareilly, 37 kmpl,19.80 bhp
+62,Hero Splendor iSmart 110cc 2016,2016,13000 Km,first owner,chennai, 55 kmpl,9.30 bhp
+63,Harley-Davidson Iron 883 2015,2015,10000 Km,first owner,mumbai, 20 kmpl,50 bhp
+64,Royal Enfield Thunderbird 350cc 2016,2016,10000 Km,first owner,delhi, 40 kmpl,19.80 bhp
+65,KTM Duke 200cc ABS 2019,2019,13000 Km,first owner,mumbai, 35 kmpl,24.6 bhp
+66,Yamaha FZ16 150cc 2010,2010,Mileage 58 Kmpl,first owner,hyderabad, 58 Kmpl,13 bhp
+67,Harley-Davidson Iron 883 2014,2014,27000 Km,first owner,mumbai, 20 kmpl,50 bhp
+68,Bajaj Discover 135cc 2008,2008,90000 Km,first owner,mumbai, 65 kmpl,9.64 kw
+69,TVS Apache RTR 160 4V Carburetor With Rear Disc 2018,2018,16510 Km,first owner,ahmedabad, ,16.10 bhp
+70,Bajaj Dominar 400 2017,2017,Mileage 28 Kms,first owner,faridabad, 28 Kms,34.50 bhp
+71,Bajaj Pulsar 180cc 2019,2019,71000 Km,first owner,delhi, 65 kmpl,17 bhp
+72,Honda CB Hornet 160R CBS 2017,2017,Mileage 52 Kmpl,first owner,bangalore, 52 Kmpl,15.44 bhp
+73,Bajaj Avenger Street 160 ABS 2019,2019,19600 Km,first owner,lucknow, ,15.3 bhp
+74,Hero Achiever 150cc 2012,2012,32000 Km,second owner,varanasi, 45-55,13 bhp
+75,Bajaj Dominar 400 2017,2017,Mileage 28 Kms,first owner,delhi, 28 Kms,34.50 bhp
+76,Hero Honda Splendor Plus 100cc 2011,2011,55000 Km,first owner,hyderabad, 45-60 kmpl,6.15kW (8.36 Ps)
+77,Bajaj Avenger Street 220 2016,2016,9551 Km,first owner,delhi, 53 kmpl,19 bhp
+78,Bajaj Pulsar 150cc 2014,2014,Mileage 65 Kmpl,third owner,jaipur, 65 Kmpl,14.85 bhp
+79,KTM Duke 390cc 2018,2018,4500 Km,first owner,mumbai, 25 kmpl,42.90 bhp
+80,Royal Enfield Classic 350cc 2019,2019,4500 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+81,Bajaj Avenger Street 160 ABS FI BS6 2020,2020,6300 Km,first owner,vaijapur, 53.72 kmpl,14.79 bhp
+82,Hero CD Deluxe 100cc 2006,2006,45000 Km,first owner,ahmedabad, 65 kmpl,7.70 bhp
+83,UM Renegade Commando Classic 2018,2018,10300 Km,first owner,kanpur, 35 kmpl,25 bhp
+84,Hero Hunk 150cc 2009,2009,20000 Km,second owner,delhi, 53kmpl,14 bhp
+85,TVS Apache RTR 200 4V FI 2018,2018,Mileage 40 Kmpl,first owner,delhi, 40 Kmpl,20.70 bhp
+86,TVS Apache RTR 160 4V DISC ABS BS6 2020,2020,7850 Km,first owner,davanagere, ,15.6 bhp
+87,Hero Splendor Plus 100cc 2019,2019,17000 Km,first owner,hyderabad, 81 kmpl,8.20 bhp
+88,Yamaha FZ S V 2.0 150cc 2018,2018,Mileage 58 Kmpl,first owner,jaipur, 58 Kmpl,13 bhp
+89,Royal Enfield Classic Chrome 500cc 2017,2017,5200 Km,first owner,howrah, 32 kmpl,27.20 bhp
+90,Harley-Davidson Street 750 2016,2016,27000 Km,first owner,bangalore, 20 kmpl,47 bhp
+91,Hero Karizma R 223cc 2016,2016,8100 Km,second owner,kasba, 40 kmpl,17 bhp
+92,Honda CB Shine 125cc 2015,2015,Mileage 65 Kmpl,first owner,faridabad, 65 Kmpl,10 bhp
+93,Bajaj Pulsar 180cc 2010,2010,39907 Km,first owner,pune, 65 kmpl,15 bhp
+94,Bajaj Pulsar RS200 ABS 2018,2018,Mileage 35 Kmpl,first owner,bangalore, 35 Kmpl,24.50 bhp
+95,Royal Enfield Classic 500cc 2013,2013,13000 Km,first owner,delhi, 32 kmpl,27.20 bhp
+96,Bajaj Avenger Street 150 2016,2016,45000 Km,first owner,raipur, 50 kmpl,14.30 bhp
+97,Bajaj Pulsar AS200 2015,2015,Mileage 42 Kmpl,first owner,bangalore, 42 Kmpl,23.20 bhp
+98,Royal Enfield Classic 350cc 2014,2014,18000 Km,first owner,gurgaon, 35 kmpl,19.80 Bhp
+99,Bajaj Dominar 400 ABS 2017,2017,Mileage 28 Kms,first owner,salem, 28 Kms,34.50 bhp
+100,Bajaj Avenger Street 150 2016,2016,16470 Km,first owner,pune, 50 kmpl,14.30 bhp
+101,Honda CB Unicorn 160 STD 2017,2017,Mileage 52 Kmpl,first owner,patna, 52 Kmpl,13.82 Bhp
+102,Bajaj CT 100 ES Alloy 2018,2018,13825 Km,second owner,karnal, 67 kmpl,8.10 bhp
+103,Royal Enfield Thunderbird 500cc 2017,2017,900 Km,first owner,roorkee, 25 kmpl,27.20 bhp
+104,Bajaj Avenger Street 150 2017,2017,45000 Km,first owner,hyderabad, 45 kmpl,14.30 bhp
+105,TVS Apache RTR 200 4V Carburetor 2018,2018,Mileage 40 Kmpl,first owner,bahadurgarh, 40 Kmpl,20.70 bhp
+106,Yamaha FZs 150cc 2013,2013,59000 Km,first owner,kalyan, 45 kmpl,13 bhp
+107,Bajaj Pulsar 200 NS 200cc 2012,2012,Mileage 35 Kmpl,second owner,markapur, 35 Kmpl,23.19 bhp
+108,Hero Passion Pro 100cc 2010,2010,22000 Km,first owner,agra, 5 kmpl,8.2 Bhp
+109,Royal Enfield Thunderbird 350cc 2009,2009,69000 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+110,Royal Enfield Himalayan 410cc 2016,2016,3800 Km,first owner,ludhiana, 32 kmpl,24.50 bhp
+111,TVS Apache RTR 180cc 2010,2010,Mileage 45 Kmpl,fourth owner or more,patna, 45 Kmpl,17.2 bhp
+112,Bajaj Pulsar NS160 Rear Disc 2019,2019,7000 Km,first owner,delhi, ,15.5 PS
+113,Hero Splendor Plus i3s 2020,2020,3000 Km,first owner,delhi, 81 kmpl,8.20 bhp
+114,Bajaj Pulsar 150cc 2015,2015,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,14.85 bhp
+115,Bajaj Pulsar RS200 2016,2016,Mileage 35 Kmpl,first owner,mumbai, 35 Kmpl,24.50 bhp
+116,Honda X-Blade 160CC ABS 2019,2019,6700 Km,first owner,bankura, ,13.93 bhp
+117,TVS Apache RTR 180cc 2014,2014,Mileage 45 Kmpl,first owner,bangalore, 45 Kmpl,17.2 bhp
+118,Royal Enfield Thunderbird 350cc 2015,2015,15000 Km,second owner,bangalore, 40 kmpl,19.80 bhp
+119,Royal Enfield Classic 350cc 2012,2012,30000 Km,first owner,zirakpur, 35 kmpl,19.80 Bhp
+120,Royal Enfield Classic Desert Storm 500cc 2015,2015,14000 Km,first owner,mumbai, 32 kmpl,27.20 bhp
+121,TVS Apache RTR 180cc 2012,2012,Mileage 45 Kmpl,first owner,ghaziabad, 45 Kmpl,17.2 bhp
+122,Hero CBZ Xtreme 150cc 2010,2010,30000 Km,first owner,chandigarh, 65kmpl,14.4PS
+123,Royal Enfield Classic Stealth Black 500cc 2018,2018,25050 Km,first owner,delhi, 32 kmpl,27.20 bhp
+124,Bajaj Pulsar AS200 2016,2016,Mileage 42 Kmpl,first owner,delhi, 42 Kmpl,23.20 bhp
+125,TVS Apache RTR 180cc 2016,2016,Mileage 45 Kmpl,first owner,bangalore, 45 Kmpl,17.30 bhp
+126,Honda CB ShineSP 125cc 2016,2016,Mileage 65 Kmpl,second owner,gurgaon, 65 Kmpl,10 bhp
+127,Honda CB300R 2021,2021,500 Km,first owner,bangalore, ,30 bhp
+128,Bajaj Avenger Cruise 220 2016,2016,12500 Km,first owner,delhi, 35 kmpl,19 bhp
+129,Suzuki Gixxer 150cc 2015,2015,32000 Km,first owner,bangalore, 63kmpl,14 bhp
+130,Yamaha YZF-R15 V3 150cc Darknight edition BS6 2020,2020,3000 Km,first owner,ambur, 40 kmpl,18.3 bhp
+131,Yamaha YZF-R15 2.0 150cc 2015,2015,45220 Km,first owner,delhi, 42 kmpl,16.70 bhp
+132,Royal Enfield Standard 350cc 2014,2014,Mileage 40 Kmpl,second owner,bhatinda, 40 Kmpl,19.80 bhp
+133,Yamaha FZs 150cc 2013,2013,49500 Km,first owner,guwahati, 45 kmpl,13 bhp
+134,Royal Enfield Bullet Electra 350cc 2012,2012,15990 Km,first owner,delhi, 40 kmpl,19.8 Bhp
+135,Hero Honda Splendor 100cc 2011,2011,70000 Km,second owner,jodhpur, 45-60 kmpl,6.15kW (8.36 Ps)
+136,Royal Enfield Classic 350cc Dual Disc 2018,2018,8000 Km,first owner,delhi, 35 kmpl,19.80 bhp
+137,Royal Enfield Thunderbird 500cc 2014,2014,17500 Km,first owner,surat, 25 kmpl,27.20 bhp
+138,Royal Enfield Thunderbird 350cc 2016,2016,7000 Km,first owner,mumbai, 40 kmpl,19.80 bhp
+139,Bajaj Discover 125cc 2012,2012,19000 Km,first owner,jaipur, 65 kmpl,12.5 ps
+140,Bajaj Pulsar 220F 2018,2018,37000 Km,first owner,delhi, 38 kmpl,21 bhp
+141,TVS Apache RTR 200 4V Carburetor Pirelli Tyres Race Edition 2.0 2019,2019,17000 Km,first owner,delhi, ,16.10 bhp
+142,Yamaha FZs 150cc 2012,2012,58000 Km,third owner,bangalore, 45 kmpl,13 bhp
+143,Royal Enfield Thunderbird 350cc 2015,2015,23000 Km,first owner,bangalore, 40 kmpl,19.80 bhp
+144,Royal Enfield Bullet Electra 350cc 2011,2011,25000 Km,first owner,delhi, 40 kmpl,19.8 Bhp
+145,Hero HF Deluxe Eco 100cc 2018,2018,7200 Km,first owner,ahmednagar, 65 kmpl,8.10 bhp
+146,Yamaha YZF-R15 2.0 150cc 2011,2011,100000 Km,second owner,bangalore, 42 kmpl,16.70 bhp
+147,Bajaj Dominar 400 ABS 2017,2017,Mileage 28 Kms,first owner,mumbai, 28 Kms,34.50 bhp
+148,Bajaj Pulsar 150cc 2017,2017,Mileage 65 Kmpl,first owner,jaipur, 65 Kmpl,15 bhp
+149,Bajaj Avenger 220cc 2014,2014,15000 Km,first owner,delhi, 40 kmpl,19 bhp
+150,Bajaj Pulsar 220F 2017,2017,44000 Km,first owner,ahmedabad, 38 kmpl,21 bhp
+151,Bajaj Dominar 400 ABS 2019,2019,Mileage 28 Kms,first owner,kannur, 28 Kms,34.50 bhp
+152,Hero Xtreme 200S 2019,2019,6000 Km,first owner,indore, ,18.1 bhp
+153,Hero Super Splendor 125cc 2019,2019,12700 Km,first owner,delhi, 75 kmpl,9 bhp
+154,Bajaj Discover 150F Disc 2016,2016,Mileage 70 Kmpl,first owner,mumbai, 70 Kmpl,13.0 PS
+155,Bajaj Pulsar 150cc 2018,2018,Mileage 65 Kmpl,first owner,chittorgarh, 65 Kmpl,15 bhp
+156,Hyosung Aquila 250 250cc 2015,2015,5000 Km,first owner,mumbai, ,
+157,Bajaj Pulsar 150cc 2016,2016,Mileage 65 Kmpl,first owner,pune, 65 Kmpl,15 bhp
+158,Yamaha YZF-R15 150cc 2014,2014,21580 Km,first owner,faridabad, 42 kmpl,16 bhp
+159,Yamaha FZs 150cc 2015,2015,31000 Km,first owner,kolkata, 45 kmpl,13 bhp
+160,Hero Splendor Plus Self Alloy 100cc IBS BS6 2020,2020,11000 Km,first owner,gautam buddha nagar, 55 kmpl,7.91 bhp
+161,Bajaj Discover 110cc 2018,2018,2000 Km,first owner,pune, ,8.60 bhp
+162,Ducati Scrambler 1100 2018,2018,1500 Km,first owner,mumbai, ,83.2 bhp
+163,Royal Enfield Standard 350cc 1985,1985,Mileage 40 Kmpl,third owner,kolhapur, 40 Kmpl,18 bhp
+164,Royal Enfield Classic Gunmetal Grey 350cc 2017,2017,16805 Km,first owner,delhi, 35 kmpl,19.80 bhp
+165,Bajaj Pulsar RS200 ABS 2015,2015,Mileage 35 Kmpl,first owner,rajkot, 35 Kmpl,24.16 bhp
+166,Bajaj Avenger Street 150 2017,2017,7500 Km,first owner,hyderabad, 45 kmpl,14.30 bhp
+167,Royal Enfield Classic 350cc 2019,2019,700 Km,first owner,chandigarh, 35 kmpl,19.80 bhp
+168,Royal Enfield Classic 350cc 2016,2016,49767 Km,first owner,delhi, 35 kmpl,19.80 bhp
+169,Royal Enfield Continental GT 535cc 2015,2015,1600 Km,first owner,jalandhar, 26 kmpl,29.10 bhp
+170,Bajaj Pulsar RS200 2016,2016,Mileage 35 Kmpl,first owner,delhi, 35 Kmpl,24.50 bhp
+171,Hero Passion Plus 100cc 2006,2006,93000 Km,first owner,bangalore, 55 kmpl,7.5 Bhp
+172,KTM Duke 200cc 2018,2018,8000 Km,first owner,mumbai, 35 kmpl,24.60 bhp
+173,Royal Enfield Thunderbird 350cc 2019,2019,2000 Km,first owner,bangalore, 40 kmpl,19.80 bhp
+174,Bajaj Pulsar NS200 2013,2013,Mileage 35 Kmpl,second owner,panvel, 35 Kmpl,23.19 bhp
+175,Royal Enfield Classic 350cc Signals Edition 2019,2019,6000 Km,first owner,chandigarh, 35 kmpl,19.80 bhp
+176,Hero Splendor iSmart 110cc 2017,2017,35000 Km,first owner,delhi, 55 kmpl,9.30 bhp
+177,Yamaha Fazer 150cc 2014,2014,Mileage 45 Kmpl,first owner,pen, 45 Kmpl,13 bhp
+178,TVS Apache RTR 160 4V DRUM ABS BS6 2020,2020,1900 Km,first owner,delhi, ,15.6 bhp
+179,KTM Duke 125cc 2020,2020,5000 Km,first owner,rajkot, ,14.3 bhp
+180,UM Renegade Sport S 2018,2018,5450 Km,first owner,delhi, 35 kmpl,24.80 bhp
+181,Hero Super Splendor 125cc 2014,2014,10000 Km,first owner,vidisha, 75 kmpl,9 bhp
+182,Hero Xtreme 200R ABS 2019,2019,4350 Km,first owner,surat, 39.4 kmpl,18.1 bhp
+183,Royal Enfield‎ Bullet 350cc 1970,1970,5000 Km,third owner,pune, 25 kmpl,19.80 bhp
+184,Royal Enfield Thunderbird X 350cc 2019,2019,3700 Km,first owner,delhi, ,19.80 bhp
+185,TVS Apache RR310 2018,2018,28000 Km,first owner,delhi, 22 kmpl,33 bhp
+186,Royal Enfield Standard 500cc 2012,2012,7040 Km,first owner,gurgaon, 25 kmpl,26.37 PS
+187,Hero Passion Pro 100cc 2015,2015,27800 Km,second owner,hyderabad, 84 kmpl,8.2 Bhp
+188,Royal Enfield Classic 350cc 2014,2014,14000 Km,first owner,kolkata, 35 kmpl,19.80 Bhp
+189,TVS Apache RTR 180cc ABS 2016,2016,Mileage 45 Kmpl,second owner,delhi, 45 Kmpl,17.30 bhp
+190,Hero Glamour PGM Fi 125cc 2012,2012,46000 Km,first owner,varanasi, 45-55 kmpl,6.72 KW (9.1 Ps)
+191,Suzuki Gixxer SF Fi 150cc ABS 2019,2019,25 Km,first owner,delhi, 40 kmpl,14.60 bhp
+192,Bajaj Pulsar NS160 Rear Disc ABS 2019,2019,22000 Km,first owner,kota, ,15.5 PS
+193,Bajaj Pulsar 180cc 2011,2011,7000 Km,first owner,mumbai, 65 kmpl,15 bhp
+194,Hero HF Deluxe Kick Alloy 100cc 2019,2019,36000 Km,first owner,chittorgarh, 55 kmpl,6.15kW (8.36 Ps)
+195,Suzuki Gixxer 150cc 2014,2014,30102 Km,first owner,sirohi, 63kmpl,14 bhp
+196,KTM RC 200cc 2017,2017,12500 Km,first owner,mumbai, 35 kmpl,25.10 bhp
+197,Royal Enfield Classic Stealth Black 500cc 2018,2018,20500 Km,first owner,mumbai, 32 kmpl,27.20 bhp
+198,Bajaj Pulsar RS200 ABS 2018,2018,Mileage 35 Kmpl,first owner,mumbai, 35 Kmpl,24.50 bhp
+199,Royal Enfield Thunderbird 350cc 2018,2018,12000 Km,first owner,ghaziabad, 40 kmpl,19.80 bhp
+200,Bajaj Pulsar 150cc 2012,2012,Mileage 65 Kmpl,first owner,kurukshetra, 65 Kmpl,14.85 bhp
+201,Bajaj Pulsar 220cc 2014,2014,89000 Km,third owner,jaipur, 38 kmpl,21 bhp
+202,Bajaj Pulsar 220cc 2017,2017,95000 Km,first owner,jaipur, 38 kmpl,21 bhp
+203,Harley-Davidson Street Bob 2015,2015,5200 Km,second owner,ahmedabad, 18 kmpl,65 bhp
+204,Royal Enfield Classic 350cc 2017,2017,14000 Km,second owner,rajkot, 35 kmpl,19.80 bhp
+205,Bajaj Pulsar 220F 2017,2017,19220 Km,second owner,bangalore, 38 kmpl,21 bhp
+206,Bajaj Pulsar 125cc Disc CBS 2019,2019,16000 Km,first owner,delhi, ,11.8 bhp
+207,Yamaha FZs 150cc 2017,2017,14000 Km,first owner,bangalore, 45 kmpl,13 bhp
+208,Jawa Forty Two 295CC 2019,2019,4930 Km,first owner,moradabad, Liquid Cooled,27 bhp
+209,KTM Duke 390cc 2017,2017,12000 Km,first owner,pune, 25 kmpl,42.90 bhp
+210,Harley-Davidson Street 750 2015,2015,1600 Km,first owner,mumbai, 20 kmpl,47 bhp
+211,Harley-Davidson Street Bob 2014,2014,45000 Km,first owner,delhi, 18 kmpl,65 bhp
+212,Hero Hunk 150cc 2013,2013,45000 Km,first owner,haridwar, 53kmpl,14 bhp
+213,Yamaha FZS-FI V 3.0 150cc ABS BS6 2021,2021,5000 Km,first owner,goa-panaji, 58 kmpl,12.2 bhp
+214,TVS Star City Plus 110cc 2015,2015,4500 Km,first owner,jaipur, 85 kmpl,8.2 bhp
+215,Triumph Bonneville T120 2018,2018,3600 Km,second owner,dimapur, 18 kmpl,78.90 bhp
+216,KTM Duke 200cc 2017,2017,23000 Km,first owner,dhamtari, 35 kmpl,24.60 bhp
+217,Honda CB Shine 125cc 2014,2014,Mileage 65 Kmpl,first owner,mandi dabwali, 65 Kmpl,10 bhp
+218,Hero Xpulse 200cc BS6 2021,2021,628 Km,first owner,gwalior, 46.40 kmpl,17.8 bhp
+219,Hero Ignitor 125cc 2014,2014,24800 Km,first owner,howrah, 55 kmpl,11 bhp
+220,Hero Splendor 100cc 1996,1996,75975 Km,first owner,ludhiana, 45 kmpl,7.44bhp
+221,Hero Splendor iSmart 100cc 2016,2016,30000 Km,second owner,ghaziabad, 55 kmpl,8.20 bhp
+222,Bajaj Avenger Street 220 2016,2016,15500 Km,first owner,hyderabad, 53 kmpl,19 bhp
+223,Bajaj Pulsar 220F 2017,2017,18000 Km,first owner,alipore, 38 kmpl,21 bhp
+224,TVS Apache RR310 2018,2018,17000 Km,first owner,chennai, 22 kmpl,33 bhp
+225,TVS Apache RTR 180cc ABS BS6 2020,2020,Mileage 45 Kmpl,first owner,jalandhar, 45 Kmpl,16.3 bhp
+226,KTM Duke 390cc 2013,2013,21421 Km,fourth owner or more,bangalore, 25 kmpl,44 bhp
+227,Honda CB Trigger 150cc 2016,2016,14244 Km,first owner,gurgaon, 60 KMPL,14 bhp
+228,Honda CBR 250R 2014,2014,Mileage 38 Kmpl,second owner,mumbai, 38 Kmpl,26.15 bhp
+229,Bajaj Avenger Cruise 220 2017,2017,14500 Km,first owner,thane, 35 kmpl,19 bhp
+230,Bajaj Discover 125M 2015,2015,16000 Km,first owner,delhi, 65 kmpl,12.5 ps
+231,Bajaj Pulsar RS200 ABS 2018,2018,Mileage 35 Kmpl,first owner,vellore, 35 Kmpl,24.50 bhp
+232,Royal Enfield Bullet 350cc 2019,2017,19000 Km,first owner,delhi, ,19.80 bhp
+233,Bajaj Pulsar 150cc 2005,2005,Mileage 65 Kmpl,first owner,ghaziabad, 65 Kmpl,14.85 bhp
+234,TVS Apache RTR 200 4V Carburetor 2017,2017,Mileage 40 Kmpl,first owner,chandigarh, 40 Kmpl,20.70 bhp
+235,Bajaj Avenger Street 220 2016,2016,15000 Km,first owner,mumbai, 53 kmpl,19 bhp
+236,Yamaha YZF-R15 2.0 150cc 2013,2013,20000 Km,first owner,amritsar, 42 kmpl,16.70 bhp
+237,Bajaj Discover 135cc 2011,2011,13000 Km,first owner,delhi, ,9.64 kw
+238,Bajaj Pulsar 150cc 2014,2014,Mileage 65 Kmpl,first owner,hyderabad, 65 Kmpl,14.85 bhp
+239,Bajaj Pulsar 220cc 2015,2015,67000 Km,first owner,mumbai, 38 kmpl,21 bhp
+240,Bajaj Pulsar 180cc 2016,2016,78000 Km,first owner,jodhpur, 65 kmpl,17 bhp
+241,Royal Enfield Bullet Electra 350cc 2019,2019,7714 Km,first owner,delhi, 40 kmpl,19.8 Bhp
+242,Honda CBR 250R 2011,2011,23000 Km,first owner,mumbai, 29 kmpl,26.15 bhp
+243,Royal Enfield Himalayan 410cc Fi 2018,2018,26000 Km,first owner,vasai, 32 kmpl,24.50 bhp
+244,Hero Splendor 100cc 2008,2008,80000 Km,first owner,durg, 45-60 kmpl,6.15kW (8.36 Ps)
+245,Bajaj CT 100 ES Alloy 2019,2019,15452 Km,first owner,gurgaon, 67 kmpl,8.10 bhp
+246,Bajaj Pulsar 150cc 2017,2017,Mileage 65 Kmpl,first owner,ahmedabad, 65 Kmpl,15 bhp
+247,TVS Apache RTR 200 4V FI 2018,2018,Mileage 40 Kmpl,first owner,hyderabad, 40 Kmpl,20.70 bhp
+248,Bajaj Pulsar RS200 2018,2018,Mileage 35 Kmpl,first owner,gorakhpur, 35 Kmpl,24.50 bhp
+249,UM Renegade Sport S 2017,2017,13000 Km,first owner,mumbai, 35 kmpl,24.80 bhp
+250,Bajaj Pulsar NS200 2017,2017,Mileage 42 Kmpl,first owner,delhi, 42 Kmpl,23.20 bhp
+251,Bajaj Avenger 220cc 2013,2013,7300 Km,first owner,delhi, 40 kmpl,19 bhp
+252,Yamaha FZs 150cc 2013,2013,32200 Km,first owner,mumbai, 45 kmpl,13 bhp
+253,Honda CBR650F 2016,2016,13000 Km,second owner,mumbai, 18 kmpl,85.8 BHP
+254,KTM RC 390cc 2016,2016,13500 Km,first owner,pune, 26kmpl,42.30 bhp
+255,Hero Splendor plus i3s 2018,2018,9000 Km,first owner,delhi, 81 kmpl,8.20 bhp
+256,Hero Splendor iSmart 110cc 2016,2016,18500 Km,first owner,delhi, 55 kmpl,9.30 bhp
+257,Royal Enfield Classic 350cc 2014,2014,10000 Km,first owner,gurgaon, 35 kmpl,19.80 Bhp
+258,TVS Apache RTR 200 4V Carburetor 2018,2018,Mileage 40 Kmpl,first owner,mumbai, 40 Kmpl,20.70 bhp
+259,Suzuki Gixxer 150cc 2016,2016,24950 Km,first owner,bangalore, 63kmpl,14 bhp
+260,Royal Enfield Classic 350cc 2015,2015,35000 Km,second owner,kaithal, 35 kmpl,19.80 Bhp
+261,Hero CBZ Xtreme 150 cc 2012,2012,18000 Km,first owner,delhi, 45-55 kmpl,11.64 KW (15.6 BHP)
+262,Bajaj Dominar 400 ABS 2018,2018,Mileage 28 Kms,first owner,vellore, 28 Kms,34.50 bhp
+263,Bajaj V15 150cc 2017,2017,14000 Km,first owner,delhi, 57 kmpl,11.80 bhp
+264,Yamaha FZs 150cc 2015,2015,26000 Km,second owner,bangalore, 45 kmpl,13 bhp
+265,Bajaj Pulsar 125cc Disc CBS 2019,2019,14000 Km,first owner,bangalore, ,11.8 bhp
+266,Bajaj Avenger Street 220 2018,2018,4060 Km,first owner,mumbai, 53 kmpl,19 bhp
+267,TVS Star City 110cc 2008,2008,35000 Km,first owner,jaipur, 85 kmpl,8.2 bhp
+268,Royal Enfield Thunderbird 350cc 2012,2012,26000 Km,second owner,hyderabad, 40 kmpl,19.80 bhp
+269,Bajaj Pulsar 180cc 2015,2015,29000 Km,first owner,mumbai, 45 kmpl,17 bhp
+270,Royal Enfield Interceptor 650cc 2019,2019,800 Km,first owner,nagpur, ,47 bhp
+271,Hero Passion Pro 100cc 2015,2015,42344 Km,first owner,bangalore, 84 kmpl,8.2 Bhp
+272,Bajaj CT 100 ES Alloy 2019,2019,9000 Km,first owner,gurgaon, 67 kmpl,8.10 bhp
+273,Hero Xtreme Sports 149cc 2015,2015,17330 Km,first owner,jaipur, ,
+274,Bajaj Discover 135cc 2010,2010,25716 Km,first owner,chennai, ,9.64 kw
+275,Bajaj Avenger 220cc 2013,2013,27000 Km,first owner,mumbai, 40 kmpl,19 bhp
+276,Honda CBR 150R 150cc 2013,2013,18950 Km,first owner,kakinada, 38 kmpl,18.28 bhp
+277,Suzuki Gixxer SF 150cc Rear Disc 2018,2018,11000 Km,first owner,srikakulam, 40 kmpl,14.60 bhp
+278,Bajaj Pulsar 220cc 2009,2009,65000 Km,second owner,delhi, 38 kmpl,21 bhp
+279,Royal Enfield Thunderbird 500cc 2014,2014,15471 Km,first owner,pune, 25 kmpl,27.20 bhp
+280,TVS Apache RTR 160 4V DISC ABS 2019,2019,10000 Km,first owner,halisahar, ,16.1 bhp
+281,TVS Apache RTR 160cc 2011,2011,Mileage 60 Kmpl,first owner,delhi, 60 Kmpl,15.2 bhp
+282,Bajaj V15 150cc 2017,2017,22000 Km,first owner,ghaziabad, 57 kmpl,11.80 bhp
+283,Yamaha FZs 150cc 2012,2012,40000 Km,second owner,malout, 45 kmpl,13 bhp
+284,Bajaj CT110 ES Alloy 2019,2019,12500 Km,first owner,hyderabad, ,8.6 bhp
+285,KTM Duke 200cc 2018,2018,20000 Km,first owner,bangalore, 35 kmpl,24.60 bhp
+286,Bajaj Pulsar 180F 2019,2019,9500 Km,first owner,bangalore, ,17 bhp
+287,Bajaj Pulsar 220F 2015,2015,54990 Km,first owner,gurgaon, 38 kmpl,21 bhp
+288,Hero Glamour Disc 125cc 2014,2014,45000 Km,first owner,hyderabad, 55 kmpl,8.90 bhp
+289,Royal Enfield Bullet 350cc 2019,2019,4300 Km,first owner,delhi, ,19.80 bhp
+290,Hero Passion Pro 100cc 2005,2005,27000 Km,first owner,delhi, 5 kmpl,8.2 Bhp
+291,Bajaj Pulsar 220F 2010,2012,35000 Km,first owner,sonipat, 38 kmpl,21 bhp
+292,Royal Enfield Continental GT 535cc 2014,2014,22000 Km,second owner,navi mumbai, 26 kmpl,29.10 bhp
+293,Hero Passion Plus 100cc 2006,2006,99000 Km,first owner,nalgonda, 55 kmpl,7.5 Bhp
+294,TVS Apache RTR 180cc 2019,2019,Mileage 45 Kmpl,second owner,jaipur, 45 Kmpl,17.30 bhp
+295,Bajaj Avenger 220cc 2016,2016,41615 Km,first owner,pune, 40 kmpl,19 bhp
+296,Benelli TNT 300 2017,2017,5000 Km,first owner,delhi, 25 kmpl,37.73 bhp
+297,Bajaj Caliber 110cc 2003,2003,200000 Km,first owner,gwalior, 67 kmpl,7.8 PS
+298,Bajaj Pulsar 150cc 2011,2011,Mileage 65 Kmpl,first owner,mumbai, 65 Kmpl,14.85 bhp
+299,Bajaj Pulsar RS200 2016,2016,Mileage 35 Kmpl,fourth owner or more,bangalore, 35 Kmpl,24.50 bhp
+300,Hero Passion Plus 100cc 2011,2011,51000 Km,first owner,gautam buddha nagar, 55 kmpl,7.5 Bhp
+301,Royal Enfield Thunderbird 350cc 2018,2018,17500 Km,second owner,kukatpally, 40 kmpl,19.80 bhp
+302,Royal Enfield Classic 500cc 2017,2017,29562 Km,first owner,bangalore, 35 kmpl,27.20 bhp
+303,Royal Enfield Classic 350cc 2015,2015,16700 Km,first owner,bhopal, 35 kmpl,19.80 Bhp
+304,Bajaj V15 150cc 2016,2016,30000 Km,first owner,meerut, 57 kmpl,11.80 bhp
+305,Honda Dream Yuga 110cc 2015,2015,18988 Km,first owner,kolhapur, 84 kmpl,8 bhp
+306,Royal Enfield Bullet Electra 350cc 2006,2006,49216 Km,first owner,delhi, 30 kmpl,19.8 Bhp
+307,Honda CD 110 Dream 2015,2015,Mileage 84 Kmpl,first owner,faridabad, 84 Kmpl,8.25 bhp
+308,Royal Enfield Classic 350cc 2015,2015,38000 Km,first owner,chinchwad, 35 kmpl,19.80 Bhp
+309,TVS Apache RTR 160cc 2018,2018,Mileage 60 Kmpl,first owner,delhi, 60 Kmpl,15.2 bhp
+310,Hero Ignitor Disc 125cc 2013,2013,100000 Km,first owner,gurgaon, 55,11 bhp
+311,Royal Enfield Thunderbird X 500cc 2019,2019,4550 Km,first owner,samastipur, ,27.20 bhp
+312,Bajaj Pulsar RS200 2015,2015,Mileage 35 Kmpl,second owner,jalandhar, 35 Kmpl,24.16 bhp
+313,TVS Apache RTR 200 4V Single Channel ABS BS6 2020,2020,Mileage 40 Kmpl,first owner,bangalore, 40 Kmpl,20.21 bhp
+314,Yamaha Gladiator 125cc 2009,2009,34000 Km,second owner,chakan, 64 kmpl,10.8ps
+315,TVS Apache RR310 2017,2017,21500 Km,first owner,patna, 22 kmpl,33 bhp
+316,Royal Enfield Classic Stealth Black 500cc 2018,2018,7000 Km,first owner,bangalore, 32 kmpl,27.20 bhp
+317,Jawa Perak 330cc 2020,2020,750 Km,first owner,delhi, ,30 bhp
+318,Hero Xtreme 200R 2019,2019,1112 Km,first owner,faridabad, 39.4 kmpl,18.1 bhp
+319,Hero Passion Pro 100cc 2012,2012,12000 Km,first owner,ludhiana, 5 kmpl,8.2 Bhp
+320,Royal Enfield Classic Stealth Black 500cc 2019,2019,21000 Km,first owner,islampur, 32 kmpl,27.20 bhp
+321,Hero Achiever 150cc 2019,2019,15000 Km,first owner,jaunpur, 45-55,13 bhp
+322,TVS Apache RTR 200 4V FI 2017,2017,Mileage 40 Kmpl,first owner,delhi, 40 Kmpl,20.70 bhp
+323,Bajaj Avenger Street 220 2016,2016,40000 Km,first owner,noida, 53 kmpl,19 bhp
+324,Royal Enfield Classic Gunmetal Grey 350cc 2018,2018,8000 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+325,Royal Enfield Bullet 350cc 2019,2019,15000 Km,first owner,delhi, ,19.80 bhp
+326,Royal Enfield Classic 500cc 2016,2016,15000 Km,first owner,ranip, 32 kmpl,27.20 bhp
+327,Hero CBZ Xtreme 150cc 2013,2013,113000 Km,first owner,pune, 65kmpl,14.4PS
+328,TVS Apache RTR 160cc 2017,2017,Mileage 60 Kmpl,first owner,chandigarh, 60 Kmpl,15.2 bhp
+329,Husqvarna Svartpilen 250 2020,2020,7000 Km,first owner,mumbai, 31.85 kmpl,29.63 bhp
+330,Bajaj Avenger 220cc 2012,2012,32342 Km,first owner,chennai, 40 kmpl,19 bhp
+331,TVS Apache 150cc 2006,2006,Mileage 45 Kmpl,first owner,bangalore, 45 Kmpl,13.7 Bhp
+332,KTM Duke 250cc 2018,2018,3100 Km,first owner,chennai, ,29.60 bhp
+333,Hero Splendor Plus IBS i3S 100cc 2019,2019,3600 Km,first owner,pune, 55 kmpl,8.20 bhp
+334,Royal Enfield Thunderbird 350cc 2012,2012,22000 Km,second owner,mumbai, 40 kmpl,19.80 bhp
+335,Bajaj Pulsar 220cc 2016,2016,86000 Km,first owner,hyderabad, 38 kmpl,21 bhp
+336,Suzuki Intruder 150cc 2018,2018,16000 Km,first owner,ranchi, ,14.60 bhp
+337,Hero Ignitor Disc 125cc 2017,2017,34000 Km,first owner,kolkata, 55,11 bhp
+338,Hero Ignitor Disc 125cc 2013,2013,25757 Km,first owner,mysore, 55,11 bhp
+339,KTM Duke 200cc 2013,2013,18500 Km,first owner,bangalore, 35 kmpl,25 bhp
+340,Bajaj Platina 100cc 2014,2014,Mileage 104 Kmpl,first owner,chennai, 104 Kmpl,8.20 bhp
+341,TVS Apache RTR 160cc 2014,2014,Mileage 60 Kmpl,first owner,bangalore, 60 Kmpl,15.2 bhp
+342,Royal Enfield Classic 350cc 2015,2015,13452 Km,first owner,kolkata, 35 kmpl,19.80 Bhp
+343,Suzuki Gixxer SF 150cc Special MOTOGP Edition 2017,2017,11000 Km,first owner,mumbai, 40 kmpl,14.60 bhp
+344,Royal Enfield Classic Squadron Blue 500cc 2017,2017,25000 Km,first owner,delhi, 25 kmpl,27.20 bhp
+345,KTM RC 200cc 2015,2015,10500 Km,first owner,mumbai, 35 kmpl,25 bhp
+346,Hero Xtreme 160R Dual Disc BS6 2020,2020,33000 Km,first owner,jaipur, 55.47 kmpl,15 bhp
+347,Bajaj Avenger 220cc 2017,2017,25000 Km,first owner,bangalore, 40 kmpl,19 bhp
+348,Royal Enfield Thunderbird 500cc 2014,2014,16000 Km,first owner,delhi, 25 kmpl,27.20 bhp
+349,TVS Apache 150cc 2006,2006,Mileage 45 Kmpl,second owner,mauranipur, 45 Kmpl,13.7 Bhp
+350,Harley-Davidson Street 750 2015,2015,3100 Km,first owner,mumbai, 20 kmpl,47 bhp
+351,UM Renegade Commando 2018,2018,5000 Km,first owner,delhi, 35 kmpl,24.80 bhp
+352,TVS Apache RTR 180cc 2016,2016,Mileage 45 Kmpl,first owner,faridabad, 45 Kmpl,17.30 bhp
+353,Royal Enfield Classic Chrome 500cc 2014,2014,26100 Km,first owner,hyderabad, 32 kmpl,27.20 bhp
+354,Bajaj Pulsar 125cc Disc CBS 2019,2019,65000 Km,first owner,jaipur, ,11.8 bhp
+355,Bajaj Avenger Street 150 2016,2016,60055 Km,first owner,pune, 50 kmpl,14.30 bhp
+356,Yamaha SZR 150cc 2012,2012,45543 Km,first owner,bangalore, ,12 bhp
+357,Yamaha FZs 150cc 2014,2014,27000 Km,second owner,hyderabad, 45 kmpl,13 bhp
+358,TVS Apache RTR 180cc 2012,2012,Mileage 45 Kmpl,first owner,coimbatore, 45 Kmpl,17.2 bhp
+359,Hero Super Splendor 125cc 2018,2018,8049 Km,first owner,faridabad, 75 kmpl,9 bhp
+360,Royal Enfield Bullet 350cc 2016,2016,23000 Km,first owner,bangalore, 37 kmpl,19.80 bhp
+361,Royal Enfield Classic 500cc 2014,2014,10100 Km,second owner,gurgaon, 32 kmpl,27.20 bhp
+362,Hero Xtreme 160R Dual Disc BS6 2020,2020,25000 Km,first owner,jaipur, 55.47 kmpl,15 bhp
+363,Yamaha FZ S V 2.0 150cc 2018,2018,Mileage 58 Kmpl,first owner,, 58 Kmpl,13 bhp
+364,Bajaj Discover 100cc 2012,2012,Mileage 80 Kmpl,first owner,delhi, 80 Kmpl,7.7
+365,Bajaj Dominar 400 2018,2018,Mileage 28 Kms,first owner,mumbai, 28 Kms,34.50 bhp
+366,TVS Apache RTR 180cc 2016,2016,Mileage 45 Kmpl,first owner,gurgaon, 45 Kmpl,17.30 bhp
+367,Hero Passion Pro i3S Alloy 100cc 2018,2018,28975 Km,first owner,jaipur, 84 kmpl,8.20 bhp
+368,Bajaj Pulsar NS200 ABS 2019,2019,Mileage 42 Kmpl,first owner,pune, 42 Kmpl,23.20 bhp
+369,Bajaj Discover 100cc 2009,2009,Mileage 80 Kmpl,second owner,chandigarh, 80 Kmpl,7.7
+370,Royal Enfield Thunderbird 350cc 2016,2016,20450 Km,first owner,faridabad, 40 kmpl,19.80 bhp
+371,Bajaj Pulsar RS200 ABS 2015,2015,Mileage 35 Kmpl,first owner,navi mumbai, 35 Kmpl,24.16 bhp
+372,Yamaha Fazer 150cc 2013,2013,Mileage 45 Kmpl,first owner,lucknow, 45 Kmpl,13 bhp
+373,TVS Apache RR310 2018,2018,14800 Km,first owner,delhi, 22 kmpl,33 bhp
+374,Royal Enfield Classic 350cc 2015,2015,25000 Km,first owner,jaipur, 35 kmpl,19.80 Bhp
+375,KTM Duke 390cc 2017,2017,10500 Km,first owner,delhi, 25 kmpl,42.90 bhp
+376,Yamaha FZS FI 150cc 2019,2019,14500 Km,first owner,coimbatore, 52 kmpl,12.9 Bhp
+377,Bajaj Avenger 220cc 2018,2018,28331 Km,first owner,delhi, 40 kmpl,19 bhp
+378,KTM RC 390cc 2016,2016,26000 Km,first owner,pune, 26kmpl,42.30 bhp
+379,Bajaj Pulsar AS150 2016,2016,22840 Km,first owner,delhi, 53 kmpl,16.80 bhp
+380,Honda CBR 150R 150cc 2013,2013,16000 Km,first owner,ghaziabad, 38 kmpl,18.28 bhp
+381,Bajaj Pulsar 150cc 2006,2006,Mileage 65 Kmpl,first owner,chennai, 65 Kmpl,14.85 bhp
+382,TVS Apache RTR 160 4V DRUM ABS BS6 2020,2020,5500 Km,first owner,dehradun, ,15.6 bhp
+383,Bajaj Pulsar 150cc 2007,2007,Mileage 65 Kmpl,first owner,jalandhar, 65 Kmpl,14.85 bhp
+384,Royal Enfield Classic Desert Storm 500cc 2014,2014,15000 Km,first owner,bangalore, 32 kmpl,27.20 bhp
+385,Hyosung Aquila Pro GV650 2013,2013,5500 Km,first owner,ahmednagar, 16 kmpl,74 bhp
+386,Hero Passion Pro 110cc Drum 2018,2018,11000 Km,first owner,ahmedabad, ,9.30 bhp
+387,Jawa Forty Two 295CC 2019,2019,7500 Km,first owner,jaipur, Liquid Cooled,27 bhp
+388,Bajaj Discover 125M 2015,2015,40000 Km,first owner,bangalore, 65 kmpl,12.5 ps
+389,Bajaj Pulsar 150cc 2015,2015,Mileage 65 Kmpl,first owner,sikar, 65 Kmpl,14.85 bhp
+390,Honda CB Unicorn 160 ABS BS6 2021,2021,4890 Km,first owner,mumbai, 55 kmpl,12.5 bhp
+391,Royal Enfield Classic 350cc ABS BS6 2020,2020,1400 Km,first owner,chandigarh, 35 kmpl,19.1 bhp
+392,Bajaj Pulsar 180cc 2012,2012,20000 Km,first owner,delhi, 45 kmpl,17 bhp
+393,Hero CBZ Xtreme 150cc 2014,2014,76544 Km,first owner,delhi, 65kmpl,14.4PS
+394,Royal Enfield Thunderbird 350cc 2015,2015,30000 Km,first owner,noida, 40 kmpl,19.80 bhp
+395,Royal Enfield Bullet Electra Twinspark 350cc 2018,2018,9000 Km,first owner,faridabad, 35 kmpl,19.80 bhp
+396,Royal Enfield Classic 350cc-Redditch Edition ABS 2019,2019,12000 Km,first owner,kochi, 35 kmpl,19.80 bhp
+397,Hero Ignitor 125cc 2016,2016,15000 Km,first owner,udaipur, 55 kmpl,11 bhp
+398,Yamaha YZF-R15 150cc 2017,2017,9000 Km,first owner,delhi, 42 kmpl,16 bhp
+399,Honda CB Twister 110cc 2011,2011,Mileage 71 Kmpl,first owner,ajmer, 71 Kmpl,9 bhp
+400,Bajaj Avenger Street 150 2017,2017,30000 Km,first owner,indore, 45 kmpl,14.30 bhp
+401,TVS Apache RTR 180cc 2016,2016,Mileage 45 Kmpl,first owner,raipur, 45 Kmpl,17.2 bhp
+402,TVS Apache RR310 BS6 2021,2021,600 Km,first owner,mumbai, 22 kmpl,33 bhp
+403,Royal Enfield Bullet Electra 350cc 2007,2007,41000 Km,third owner,delhi, 30 kmpl,19.8 Bhp
+404,Royal Enfield Continental GT 535cc 2014,2014,8000 Km,second owner,hyderabad, 26 kmpl,29.10 bhp
+405,Hero Xtreme 200R 2018,2018,3505 Km,first owner,jaipur, 39.4 kmpl,18.1 bhp
+406,Hero Hunk 150cc 2009,2009,20212 Km,first owner,ferozepur, 53kmpl,14 bhp
+407,Royal Enfield Thunderbird 350cc 2013,2013,40000 Km,third owner,nadiad, 40 kmpl,19.80 bhp
+408,Harley-Davidson Street 750 2015,2015,5800 Km,second owner,ambala, 20 kmpl,47 bhp
+409,Royal Enfield Classic 350cc ABS 2019,2019,17520 Km,first owner,ghaziabad, 35 kmpl,19.80 bhp
+410,Bajaj Pulsar 220F 2018,2018,37000 Km,first owner,mumbai, 38 kmpl,21 bhp
+411,Bajaj Avenger 220cc 2013,2013,24000 Km,first owner,mumbai, 40 kmpl,19 bhp
+412,KTM RC 200cc 2017,2017,13900 Km,first owner,chandigarh, 35 kmpl,25.10 bhp
+413,Hero Glamour 125cc 2017,2017,2600 Km,first owner,hyderabad, 45-55 kmpl,6.72 KW (9.1 Ps)
+414,Bajaj Avenger 220cc 2014,2014,43130 Km,first owner,chennai, 40 kmpl,19 bhp
+415,Royal Enfield Classic Gunmetal Grey 350cc 2018,2018,17000 Km,second owner,delhi, 35 kmpl,19.80 bhp
+416,Royal Enfield Thunderbird 350cc 2005,2005,24000 Km,first owner,patna, 30 kmpl,19.80 bhp
+417,Bajaj Avenger Street 220 2016,2016,58000 Km,first owner,jaipur, 53 kmpl,19 bhp
+418,Bajaj XCD 125 2009,2009,25000 Km,first owner,delhi, 60 kmpl,9.4 Bhp
+419,Bajaj Discover 125cc 2007,2007,81481 Km,first owner,mumbai, 65 kmpl,12.5 ps
+420,TVS Victor 110cc 2016,2016,Mileage 74 Kmpl,first owner,jaipur, 74 Kmpl,9.4 bhp
+421,Royal Enfield Thunderbird 500cc 2017,2017,4000 Km,first owner,delhi, 25 kmpl,27.20 bhp
+422,Bajaj Pulsar 220F 2018,2018,18450 Km,first owner,noida, 38 kmpl,21 bhp
+423,Yamaha YZF-R15 150cc 2011,2011,27000 Km,first owner,mumbai, 42 kmpl,16 bhp
+424,KTM Duke 390cc 2018,2018,5610 Km,first owner,delhi, 25 kmpl,42.90 bhp
+425,Bajaj V15 150cc 2018,2018,5984 Km,first owner,navi mumbai, 57 kmpl,11.80 bhp
+426,UM Renegade Commando 2018,2018,14434 Km,first owner,delhi, 35 kmpl,24.80 bhp
+427,Royal Enfield Thunderbird 500cc 2017,2017,21000 Km,first owner,hyderabad, 25 kmpl,27.20 bhp
+428,Royal Enfield Thunderbird 350cc 2012,2012,70000 Km,first owner,salem, 40 kmpl,19.80 bhp
+429,TVS Apache RTR 200 4V FI 2017,2017,Mileage 40 Kmpl,first owner,chennai, 40 Kmpl,20.70 bhp
+430,Bajaj Pulsar 180cc 2009,2009,31000 Km,first owner,mumbai, 65 kmpl,15 bhp
+431,Bajaj Discover 125cc 2016,2016,14000 Km,first owner,bhopal, 65 kmpl,12.5 ps
+432,Yamaha RX 100 100cc 1990,1990,32000 Km,second owner,erode, 40 kmpl,11 BHP
+433,Ideal Jawa Yezdi Delux 250 cc 1978,1978,85000 Km,first owner,chikamaglur, ,
+434,KTM RC 200cc 2015,2015,20000 Km,first owner,pune, 35 kmpl,25 bhp
+435,Hyosung GT250R 2014,2014,5100 Km,first owner,delhi, 30 kmpl,28 bhp
+436,Suzuki Gixxer 150cc 2017,2017,16000 Km,first owner,gurgaon, 63kmpl,14 bhp
+437,Honda CB Hornet 160R CBS 2017,2017,Mileage 52 Kmpl,first owner,mumbai, 52 Kmpl,15.44 bhp
+438,Hyosung GT250R 2016,2016,16500 Km,first owner,ranchi, 30 kmpl,28 bhp
+439,Bajaj Pulsar 150cc 2007,2007,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,14.85 bhp
+440,Yamaha FZ S V 2.0 150cc 2016,2016,Mileage 58 Kmpl,first owner,delhi, 58 Kmpl,13 bhp
+441,Royal Enfield Classic 350cc 2013,2013,36282 Km,first owner,delhi, 35 kmpl,19.80 Bhp
+442,TVS Apache RTR 160 4V DISC ABS 2019,2019,1050 Km,first owner,delhi, ,16.1 bhp
+443,Yamaha YZF-R15 2.0 150cc 2012,2012,28000 Km,first owner,chandigarh, 42 kmpl,16.70 bhp
+444,Bajaj Pulsar 220cc 2015,2015,32057 Km,first owner,mumbai, 38 kmpl,21 bhp
+445,Hero Passion Plus 100cc 2004,2004,54845 Km,first owner,delhi, 55 kmpl,7.5 Bhp
+446,UM Renegade Sport S 2019,2019,8600 Km,third owner,kanpur, 35 kmpl,24.80 bhp
+447,Triumph Tiger Explorer 2015,2015,24000 Km,first owner,bangalore, 19 kmpl,135 bhp
+448,TVS Apache RR310 Slipper Clutch 2019,2019,3852 Km,second owner,pune, 22 kmpl,33 bhp
+449,Honda Livo 110cc 2016,2016,Mileage 55-60 Kmpl,first owner,vadodara, 55-60 Kmpl,8.25 Bhp
+450,Bajaj Discover 100cc 2015,2015,Mileage 80 Kmpl,first owner,ahmednagar, 80 Kmpl,7.7
+451,TVS Apache RTR 160cc 2014,2014,Mileage 60 Kmpl,first owner,delhi, 60 Kmpl,15.2 bhp
+452,Bajaj Discover150 150cc 2015,2015,Mileage 70 Kmpl,first owner,jaipur, 70 Kmpl,13.0 PS
+453,TVS Apache RTR 180cc 2015,2015,Mileage 45 Kmpl,first owner,kapurthala, 45 Kmpl,17.2 bhp
+454,Bajaj Discover 125ST 2013,2013,30000 Km,first owner,swaimadhopur, 65 kmpl,12.5 ps
+455,Yamaha Fazer 150cc 2015,2015,Mileage 45 Kmpl,first owner,chennai, 45 Kmpl,13 bhp
+456,Triumph Thruxton R 1200cc 2016,2016,9000 Km,first owner,bangalore, 15 kmpl,96 bhp
+457,Honda CBR 150R 150cc 2013,2013,12500 Km,first owner,ahmedabad, 38 kmpl,18.28 bhp
+458,Bajaj Pulsar RS200 ABS 2019,2019,Mileage 35 Kmpl,first owner,mumbai, 35 Kmpl,24.50 bhp
+459,Bajaj Dominar 400 2019,2019,Mileage 28 Kms,first owner,patna, 28 Kms,34.50 bhp
+460,Bajaj Pulsar 150cc 2012,2012,Mileage 65 Kmpl,first owner,mumbai, 65 Kmpl,14.85 bhp
+461,Triumph Bonneville T120 2017,2017,4800 Km,second owner,gurgaon, 18 kmpl,78.90 bhp
+462,Yamaha YZF-R15 2.0 150cc 2018,2018,10473 Km,first owner,ludhiana, 42 kmpl,16.70 bhp
+463,Royal Enfield Thunderbird 500cc 2014,2014,9000 Km,first owner,ganganagar, 25 kmpl,27.20 bhp
+464,Yamaha YZF-R15 150cc 2019,2019,81315 Km,first owner,chandigarh, 42 kmpl,16 bhp
+465,Bajaj Avenger Street 180 2018,2018,25000 Km,first owner,nellore, 45 kmpl,15.30 bhp
+466,KTM Duke 200cc 2016,2016,7900 Km,first owner,chennai, 35 kmpl,24.60 bhp
+467,Royal Enfield Continental GT 535cc 2018,2018,2000 Km,first owner,bhatinda, 26 kmpl,29.10 bhp
+468,Bajaj Discover 125cc 2012,2012,4000 Km,first owner,jaipur, 65 kmpl,12.5 ps
+469,UM Renegade Commando 2017,2017,700 Km,first owner,delhi, 35 kmpl,24.80 bhp
+470,Bajaj Discover 135cc 2008,2008,70000 Km,first owner,lucknow, 65 kmpl,9.64 kw
+471,Royal Enfield Bullet 350cc 1994,1994,34000 Km,second owner,ludhiana, 37 kmpl,19.80 bhp
+472,Yamaha FZ 150cc 2016,2016,Mileage 58 Kmpl,first owner,chennai, 58 Kmpl,13 bhp
+473,Hero Xpulse 200T 2020,2020,5000 Km,first owner,chandigarh, ,18.1 bhp
+474,Royal Enfield Classic 350cc 2017,2017,5000 Km,first owner,pune, 35 kmpl,19.80 bhp
+475,Honda CB Shine 125cc 2015,2015,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,10 bhp
+476,Royal Enfield Bullet 350 cc 1982,1982,3000 Km,second owner,lalitpur, ,
+477,TVS Apache RTR 160cc 2011,2011,Mileage 60 Kmpl,first owner,bangalore, 60 Kmpl,15.2 bhp
+478,Bajaj Pulsar NS160 Rear Disc ABS 2020,2020,60000 Km,first owner,mumbai, ,15.5 PS
+479,Hero Splendor+ 100cc 2014,2013,25000 Km,first owner,bahadurpur, 81 kmpl,8.20 bhp
+480,TVS Star City Plus 110cc 2015,2015,35300 Km,first owner,delhi, 85 kmpl,8.2 bhp
+481,Honda CB Shine 125cc 2017,2017,Mileage 65 Kmpl,first owner,mumbai, 65 Kmpl,10 bhp
+482,Royal Enfield Thunderbird 350cc 2005,2005,45000 Km,second owner,chennai, 30 kmpl,19.80 bhp
+483,Royal Enfield Classic 350 S ABS 2020,2020,2500 Km,first owner,kalyan, 35 kmpl,19.80 bhp
+484,Yamaha FZ S V 2.0 150cc 2018,2018,Mileage 58 Kmpl,first owner,ludhiana, 58 Kmpl,13 bhp
+485,Honda CB Trigger 150cc 2015,2015,Mileage 60 Kmpl,first owner,adalaj, 60 Kmpl,14 bhp
+486,Bajaj Avenger Street 150 2016,2016,35000 Km,second owner,indore, 50 kmpl,14.30 bhp
+487,Suzuki Gixxer 150cc Dual Tone Rear Disc 2019,2019,10000 Km,second owner,bangalore, 63kmpl,14 bhp
+488,Yamaha FZ 150cc 2015,2015,Mileage 58 Kmpl,first owner,chennai, 58 Kmpl,13 bhp
+489,Bajaj Pulsar 150cc 2016,2016,Mileage 65 Kmpl,first owner,mangalore, 65 Kmpl,15 bhp
+490,KTM Duke 250cc ABS BS6 2020,2020,1400 Km,first owner,delhi, ,29.6 bhp
+491,TVS Apache 150cc 2014,2014,Mileage 45 Kmpl,first owner,bangalore, 45 Kmpl,13.7 Bhp
+492,Bajaj Pulsar 220F 2017,2017,40000 Km,first owner,mumbai, 38 kmpl,21 bhp
+493,Suzuki GSX-R 1000cc 2010,2010,19298 Km,fourth owner or more,delhi, 12kmpl,160 bhp
+494,Royal Enfield Thunderbird 500cc 2015,2015,18000 Km,first owner,mumbai, 25 kmpl,27.20 bhp
+495,Bajaj Avenger Street 150 2016,2016,50000 Km,second owner,surat, 50 kmpl,14.30 bhp
+496,Bajaj Pulsar 150cc 2010,2010,Mileage 65 Kmpl,first owner,gurgaon, 65 Kmpl,14.85 bhp
+497,Royal Enfield Classic 350cc Dual ABS BS6 2020,2020,7800 Km,first owner,nagpur, 35 kmpl,19.1 bhp
+498,Bajaj Pulsar 150cc 2011,2011,Mileage 65 Kmpl,first owner,jaipur, 65 Kmpl,14.85 bhp
+499,Yamaha YZF-R15 V3 150cc 2018,2018,12000 Km,first owner,chennai, ,18.70 bhp
+500,KTM Duke 250cc 2018,2018,930 Km,first owner,balaghat, ,29.60 bhp
+501,Bajaj Pulsar RS200 ABS 2016,2016,Mileage 35 Kmpl,first owner,bangalore, 35 Kmpl,24.50 bhp
+502,Royal Enfield Classic Desert Storm 500cc 2013,2013,29000 Km,first owner,chandigarh, 32 kmpl,27.20 bhp
+503,Hero Passion Xpro Drum 2018,2018,64000 Km,first owner,dehradun, 55 kmpl,8 bhp
+504,Royal Enfield Classic 350cc 2014,2014,17000 Km,first owner,delhi, 35 kmpl,19.80 Bhp
+505,TVS Apache RTR 160cc Rear Disc 2015,2015,Mileage 60 Kmpl,first owner,delhi, 60 Kmpl,15 bhp
+506,Bajaj Discover 100cc 2013,2013,Mileage 80 Kmpl,first owner,delhi, 80 Kmpl,7.7
+507,Royal Enfield Standard 500cc 2014,2014,9700 Km,first owner,delhi, 25 kmpl,26.10 bhp
+508,KTM RC 200cc ABS 2020,2020,2200 Km,first owner,pune, 35 kmpl,25.10 bhp
+509,KTM RC 390cc 2018,2018,5400 Km,second owner,bangalore, 26kmpl,42.30 bhp
+510,Hero Passion Plus 100cc 2004,2004,57432 Km,first owner,delhi, 55 kmpl,7.5 Bhp
+511,KTM Duke 200cc ABS 2018,2018,17500 Km,first owner,bangalore, 35 kmpl,24.6 bhp
+512,Bajaj Pulsar RS200 2015,2015,Mileage 35 Kmpl,first owner,noida, 35 Kmpl,24.16 bhp
+513,Bajaj Pulsar 220F 2016,2016,30000 Km,first owner,bangalore, 38 kmpl,21 bhp
+514,Honda CB Trigger 150cc 2014,2014,24000 Km,second owner,24 pargana, 60 kmpl,14 bhp
+515,Yamaha FZs 150cc 2015,2015,18000 Km,first owner,bangalore, 45 kmpl,13 bhp
+516,Bajaj V15 150cc 2016,2016,15327 Km,first owner,delhi, 57 kmpl,11.80 bhp
+517,Royal Enfield Classic 350cc 2017,2017,10000 Km,first owner,delhi, 35 kmpl,19.80 bhp
+518,Bajaj Discover 135cc 2005,2005,65000 Km,first owner,thane, 65 kmpl,9.64 kw
+519,Bajaj Avenger 220cc 2013,2013,47000 Km,first owner,delhi, 40 kmpl,19 bhp
+520,Royal Enfield Bullet Electra 350cc 2015,2015,42000 Km,first owner,delhi, 40 kmpl,19.8 Bhp
+521,Yamaha YZF-R3 320cc 2016,2016,24000 Km,first owner,coimbatore, 22 kmpl,41.40 bhp
+522,Bajaj Pulsar AS200 2015,2015,Mileage 42 Kmpl,first owner,mumbai, 42 Kmpl,23.20 bhp
+523,Honda CD 110 Dream 2015,2015,Mileage 84 Kmpl,first owner,jaipur, 84 Kmpl,8.25 bhp
+524,Yamaha YZF-R15 150cc 2017,2017,15000 Km,first owner,chandigarh, 42 kmpl,16 bhp
+525,Royal Enfield Classic Stealth Black 500cc 2018,2018,10050 Km,first owner,bangalore, 32 kmpl,27.20 bhp
+526,Bajaj Pulsar 135LS 2010,2010,20000 Km,first owner,jamshedpur, 64 kmpl,13 bhp
+527,Royal Enfield Himalayan 410cc 2016,2016,7215 Km,first owner,patna, 32 kmpl,24.50 bhp
+528,TVS Apache RTR 180cc 2011,2011,Mileage 45 Kmpl,first owner,thane, 45 Kmpl,17.2 bhp
+529,Bajaj V15 150cc 2017,2017,48200 Km,first owner,begusarai, 57 kmpl,11.80 bhp
+530,Royal Enfield Classic Gunmetal Grey 350cc ABS 2019,2019,21000 Km,second owner,navi mumbai, 35 kmpl,19.80 bhp
+531,Royal Enfield Classic 500cc 2016,2016,45253 Km,first owner,pune, 32 kmpl,27.20 bhp
+532,Honda CB Hornet 160R Special Edition STD 2018,2018,Mileage 52 Kmpl,first owner,thane, 52 Kmpl,15.44 bhp
+533,Hero Xpulse 200cc BS6 2020,2020,9200 Km,first owner,bangalore, 46.40 kmpl,17.8 bhp
+534,Bajaj V15 150cc 2016,2016,12315 Km,first owner,faridabad, 57 kmpl,11.80 bhp
+535,Kawasaki Z650 2020,2020,2000 Km,first owner,kalyan, 30 kmpl,67.20 bhp
+536,Royal Enfield Thunderbird 350cc ABS 2019,2019,6700 Km,first owner,bangalore, 40 kmpl,19.80 bhp
+537,Royal Enfield Electra 350cc 2017,2017,16781 Km,first owner,bangalore, 25 kmpl,19.80 bhp
+538,Royal Enfield Thunderbird 500cc 2014,2014,10000 Km,first owner,mumbai, 25 kmpl,27.20 bhp
+539,Yamaha FZ S V 2.0 150cc 2015,2015,Mileage 58 Kmpl,first owner,thane, 58 Kmpl,13 bhp
+540,Royal Enfield Thunderbird 500cc 2013,2013,20000 Km,first owner,hyderabad, 25 kmpl,27.20 bhp
+541,Hero Passion Plus 100cc 2010,2010,16000 Km,first owner,chennai, 55 kmpl,7.5 Bhp
+542,Royal Enfield Classic 500cc 2010,2010,18000 Km,second owner,belgaum, 32 kmpl,27.20 bhp
+543,Royal Enfield Classic 350cc Dual Disc 2019,2019,26000 Km,first owner,hyderabad, 35 kmpl,19.80 bhp
+544,Royal Enfield Classic Chrome 500cc 2016,2016,7700 Km,first owner,thrissur, 32 kmpl,27.20 bhp
+545,Harley-Davidson Street Rod XG750A ABS 2017,2017,6500 Km,first owner,mumbai, 25 kmpl,70 bhp
+546,Hero Splendor 100cc 2003,2003,60345 Km,first owner,cuttack, 45-60 kmpl,6.15kW (8.36 Ps)
+547,Bajaj Pulsar 220F 2019,2019,63000 Km,fourth owner or more,jaipur, 38 kmpl,21 bhp
+548,Royal Enfield Thunderbird 350cc 2013,2013,23000 Km,first owner,faridabad, 40 kmpl,19.80 bhp
+549,Bajaj V15 150cc 2017,2017,5000 Km,first owner,ajmer, 57 kmpl,11.80 bhp
+550,Bajaj Pulsar 220F 2016,2016,28200 Km,first owner,bangalore, 38 kmpl,21 bhp
+551,Royal Enfield Bullet Twinspark 500cc 2016,2016,45000 Km,first owner,pathanamthitta, 25 kmpl,26.10 bhp
+552,Bajaj Pulsar 150cc 2007,2007,Mileage 65 Kmpl,first owner,greater noida, 65 Kmpl,14.85 bhp
+553,Royal Enfield Thunderbird 350cc 2009,2009,15000 Km,second owner,chennai, 35 kmpl,19.80 bhp
+554,Royal Enfield Thunderbird 350cc 2018,2018,4000 Km,first owner,jalandhar, 40 kmpl,19.80 bhp
+555,Yamaha FZS FI 150cc 2018,2018,18000 Km,first owner,bangalore, 52 kmpl,12.9 Bhp
+556,Bajaj Pulsar 180cc 2011,2011,40000 Km,second owner,ghaziabad, 65 kmpl,15 bhp
+557,Royal Enfield Standard 500cc 2015,2015,33033 Km,first owner,bangalore, 37 kmpl,26.10 bhp
+558,Ducati Monster 821 2018,2018,Mileage 13 Kmpl,first owner,alappuzha, 13 Kmpl,110.40 bhp
+559,Bajaj Pulsar 220F 2018,2018,17900 Km,first owner,bangalore, 38 kmpl,21 bhp
+560,Bajaj Pulsar 200 NS 200cc 2015,2015,Mileage 35 Kmpl,first owner,gurgaon, 35 Kmpl,23.19 bhp
+561,Royal Enfield Thunderbird 500cc 2016,2016,23560 Km,first owner,delhi, 25 kmpl,27.20 bhp
+562,KTM RC 200cc 2018,2018,16000 Km,first owner,delhi, 35 kmpl,25.10 bhp
+563,Bajaj Pulsar RS200 ABS 2018,2018,Mileage 35 Kmpl,first owner,agra, 35 Kmpl,24.50 bhp
+564,Royal Enfield Classic Gunmetal Grey 350cc 2018,2018,13700 Km,first owner,ahmedabad, 35 kmpl,19.80 bhp
+565,Honda H’ness CB 350 DLX Pro 2020,2020,4241 Km,first owner,gurgaon, 45.8 kmpl,20.78 bhp
+566,Yamaha FZ S V 2.0 150cc Rear Disc 2018,2018,Mileage 58 Kmpl,first owner,ahmedabad, 58 Kmpl,13 bhp
+567,Benelli TNT 300 2017,2017,9500 Km,first owner,chennai, 25 kmpl,37.73 bhp
+568,Yamaha FZS FI 150cc 2018,2018,12000 Km,first owner,24 pargana, 52 kmpl,12.9 Bhp
+569,Royal Enfield Thunderbird 350cc 2016,2016,13400 Km,first owner,gurgaon, 40 kmpl,19.80 bhp
+570,Royal Enfield Thunderbird 350cc 2009,2009,34000 Km,first owner,vadodara, 35 kmpl,19.80 bhp
+571,Suzuki Gixxer SF Fi 150cc 2017,2017,11936 Km,first owner,delhi, 40 kmpl,14.60 bhp
+572,Hero HF Deluxe iBS Black self Alloy 100cc 2019,2019,14000 Km,first owner,delhi, 55 kmpl,6.15kW (8.36 Ps)
+573,Honda H’ness CB 350 DLX Pro 2020,2020,8009 Km,first owner,gurgaon, 45.8 kmpl,20.78 bhp
+574,Yamaha FZ16 150cc 2012,2012,Mileage 58 Kmpl,second owner,kochi, 58 Kmpl,13 bhp
+575,Hero Super Splendor 125cc 2010,2010,240000 Km,first owner,shahganj, 75 kmpl,9 bhp
+576,Royal Enfield Classic 350cc 2018,2018,13400 Km,second owner,delhi, 35 kmpl,19.80 bhp
+577,Royal Enfield Thunderbird 350cc 2015,2015,12000 Km,first owner,bangalore, 40 kmpl,19.80 bhp
+578,Bajaj Pulsar 150cc 2007,2007,Mileage 65 Kmpl,first owner,ajmer, 65 Kmpl,14.85 bhp
+579,Honda Dream Neo 110cc 2013,2013,Mileage 84 Kmpl,first owner,delhi, 84 Kmpl,8.25 bhp
+580,Bajaj Avenger Street 150 2016,2016,13500 Km,first owner,gurgaon, 50 kmpl,14.30 bhp
+581,Royal Enfield Classic 350cc 2017,2017,15000 Km,first owner,delhi, 35 kmpl,19.80 bhp
+582,Royal Enfield Bullet Twinspark 350cc 2017,2017,Mileage 37 Kmpl,first owner,bhiwani, 37 Kmpl,19.80 bhp
+583,Bajaj CT 100 100cc 2017,2017,36000 Km,fourth owner or more,delhi, 89 kmpl,8.10 bhp
+584,Bajaj Avenger Street 220 2017,2017,10800 Km,first owner,delhi, 53 kmpl,19 bhp
+585,Royal Enfield Electra 350cc 2017,2017,14000 Km,first owner,delhi, 25 kmpl,19.80 bhp
+586,TVS Apache RTR 200 4V FI 2017,2017,Mileage 40 Kmpl,second owner,mumbai, 40 Kmpl,20.70 bhp
+587,Royal Enfield Bullet Electra Twinspark 350cc 2016,2016,15000 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+588,Hero Super Splendor 125cc 2006,2006,85000 Km,first owner,indore, 75 kmpl,9 bhp
+589,Honda CB Unicorn 150cc 2014,2014,Mileage 60 Kmpl,first owner,hyderabad, 60 Kmpl,14 bhp
+590,Honda CB ShineSP 125cc Disc 2018,2018,Mileage 65 Kmpl,first owner,kukatpally, 65 Kmpl,10 bhp
+591,Yamaha YZF-R15 V3 150cc 2019,2019,12573 Km,first owner,delhi, ,18.70 bhp
+592,Bajaj Pulsar 180cc 2017,2017,45000 Km,first owner,hyderabad, 65 kmpl,17 bhp
+593,Bajaj Dominar 400 ABS 2017,2017,Mileage 28 Kms,first owner,ghaziabad, 28 Kms,34.50 bhp
+594,Bajaj V15 150cc 2016,2016,10924 Km,first owner,rajkot, 57 kmpl,11.80 bhp
+595,UM Renegade Commando 2017,2017,27000 Km,first owner,hyderabad, 35 kmpl,24.80 bhp
+596,Suzuki Gixxer SF 150cc ABS BS6 2021,2021,600 Km,first owner,bangalore, 40 kmpl,14.60 bhp
+597,Harley-Davidson Iron 883 2011,2011,20000 Km,first owner,delhi, 20 kmpl,50 bhp
+598,Bajaj Pulsar NS160 2019,2019,25000 Km,first owner,bhopal, ,15.5 PS
+599,Hero Passion Pro 100cc 2011,2011,32000 Km,first owner,chennai, 5 kmpl,8.2 Bhp
+600,Bajaj Discover 125cc 2007,2007,80000 Km,first owner,mumbai, 65 kmpl,12.5 ps
+601,KTM Duke 125cc 2018,2018,18140 Km,first owner,mumbai, ,14.3 bhp
+602,Bajaj Dominar 400 ABS 2018,2018,Mileage 28 Kms,first owner,kolkata, 28 Kms,34.50 bhp
+603,Harley-Davidson Street 750 2015,2015,29000 Km,first owner,chennai, 20 kmpl,47 bhp
+604,Bajaj Dominar 400 ABS 2018,2018,Mileage 28 Kms,second owner,ajmer, 28 Kms,34.50 bhp
+605,Honda CBF Stunner 125cc 2010,2010,Mileage 65 Kmpl,first owner,pune, 65 Kmpl,11 Bhp
+606,Honda Dream Neo 110cc 2014,2014,Mileage 84 Kmpl,first owner,gurgaon, 84 Kmpl,8.25 bhp
+607,Honda H’ness CB 350 DLX Pro 2020,2020,3500 Km,first owner,mumbai, 45.8 kmpl,20.78 bhp
+608,Royal Enfield Bullet Electra Twinspark 350cc 2017,2017,16090 Km,first owner,hyderabad, 35 kmpl,19.80 bhp
+609,Honda CBR 150R 150cc 2015,2015,Mileage 38 Kmpl,first owner,allahabad, 38 Kmpl,18.28 bhp
+610,Hero Passion Pro 100cc 2015,2015,16754 Km,first owner,faridabad, 84 kmpl,8.2 Bhp
+611,Royal Enfield Classic 350cc Dual ABS BS6 2021,2021,7200 Km,first owner,gurgaon, 35 kmpl,19.1 bhp
+612,Royal Enfield Thunderbird 500cc 2015,2015,11976 Km,third owner,bangalore, 25 kmpl,27.20 bhp
+613,Royal Enfield Thunderbird 350cc ABS 2019,2019,28000 Km,first owner,delhi, 40 kmpl,19.80 bhp
+614,Yamaha RX135 135cc 4-Speed 1998,1998,14000 Km,third owner,allahabad, ,14 BHP
+615,Bajaj Avenger 220cc 2016,2016,16000 Km,first owner,faridabad, 40 kmpl,19 bhp
+616,Bajaj V15 150cc 2016,2016,11500 Km,first owner,gurgaon, 57 kmpl,11.80 bhp
+617,Honda CB Hornet 160R CBS 2016,2016,Mileage 52 Kmpl,first owner,noida, 52 Kmpl,15.44 bhp
+618,Bajaj Pulsar 150cc 2012,2012,Mileage 65 Kmpl,first owner,thanjavur, 65 Kmpl,14.85 bhp
+619,Harley-Davidson Street 750 ABS 2018,2018,5000 Km,first owner,berhampur, 20 kmpl,47 bhp
+620,Yamaha YZF-R15 V3 150cc 2018,2018,19000 Km,first owner,delhi, ,18.70 bhp
+621,Bajaj Avenger Street 220 2016,2016,15000 Km,first owner,mumbai, 53 kmpl,19 bhp
+622,Honda CBR 150R 150cc 2013,2013,12000 Km,first owner,delhi, 38 kmpl,18.28 bhp
+623,Honda CB Shine 125cc 2012,2012,Mileage 65 Kmpl,first owner,ahmedabad, 65 Kmpl,10 bhp
+624,Yamaha FZ25 250cc 2018,2018,14800 Km,first owner,lucknow, 43 kmpl,20.30 bhp
+625,Hero Xtreme 200S 2020,2020,8600 Km,first owner,kolkata, ,18.1 bhp
+626,Royal Enfield Thunderbird 500cc 2016,2016,24500 Km,first owner,guwahati, 25 kmpl,27.20 bhp
+627,Royal Enfield Classic 350cc-Redditch Edition ABS 2019,2019,9301 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+628,Bajaj Pulsar 150cc 2007,2007,Mileage 65 Kmpl,first owner,hyderabad, 65 Kmpl,14.85 bhp
+629,Bajaj V15 150cc 2017,2017,19400 Km,first owner,delhi, 57 kmpl,11.80 bhp
+630,Royal Enfield Classic 350cc 2017,2017,11776 Km,first owner,faridabad, 35 kmpl,19.80 bhp
+631,Bajaj V12 125cc 2016,2016,48628 Km,first owner,chandigarh, 57 kmpl,10.60 bhp
+632,Royal Enfield Classic 500cc 2015,2015,33371 Km,first owner,bangalore, 32 kmpl,27.20 bhp
+633,Hero Passion Plus 100cc 2006,2006,44375 Km,first owner,bangalore, 55 kmpl,7.5 Bhp
+634,Bajaj Pulsar RS200 ABS 2018,2018,Mileage 35 Kmpl,first owner,varanasi, 35 Kmpl,24.50 bhp
+635,TVS Apache RTR 200 4V Carburetor 2019,2019,Mileage 40 Kmpl,first owner,mumbai, 40 Kmpl,20.70 bhp
+636,Royal Enfield Thunderbird 500cc 2013,2013,9450 Km,first owner,allahabad, 25 kmpl,27.20 bhp
+637,Honda CB Shine 125cc 2017,2017,Mileage 65 Kmpl,first owner,vadodara, 65 Kmpl,10 bhp
+638,Yamaha FZ S V 2.0 150cc Rear Disc 2018,2018,Mileage 58 Kmpl,first owner,delhi, 58 Kmpl,13 bhp
+639,UM Renegade Commando 2017,2017,5700 Km,first owner,tiruvallur, 35 kmpl,24.80 bhp
+640,Royal Enfield Himalayan 410cc 2017,2017,21749 Km,first owner,mumbai, 32 kmpl,24.50 bhp
+641,Honda CBR 150R 150cc 2013,2013,28661 Km,third owner,hyderabad, 38 kmpl,18.28 bhp
+642,Yamaha FZs 150cc 2014,2014,21100 Km,second owner,jaipur, 45 kmpl,13 bhp
+643,KTM RC 200cc 2015,2015,34000 Km,second owner,davanagere, 35 kmpl,25 bhp
+644,Bajaj Discover 100M 2014,2014,Mileage 80 Kmpl,first owner,lucknow, 80 Kmpl,9.10 bhp
+645,Royal Enfield Continental GT 650cc 2019,2019,4900 Km,first owner,mumbai, ,47 bhp
+646,Kawasaki Ninja 650cc 2014,2014,30000 Km,second owner,chennai, 21 kmpl,67.20 bhp
+647,KTM Duke 250cc 2017,2017,13300 Km,first owner,varanasi, ,29.60 bhp
+648,Yamaha FZ16 150cc 2017,2017,Mileage 58 Kmpl,first owner,davanagere, 58 Kmpl,13 bhp
+649,Bajaj Avenger 220cc 2015,2015,7606 Km,first owner,bhiwani, 40 kmpl,19 bhp
+650,Bajaj V15 150cc 2016,2016,22000 Km,first owner,delhi, 57 kmpl,11.80 bhp
+651,Yamaha FZ S V 2.0 150cc 2018,2018,Mileage 58 Kmpl,first owner,delhi, 58 Kmpl,13 bhp
+652,Hero Karizma R 223cc 2008,2008,42452 Km,second owner,thane, 40 kmpl,17 bhp
+653,Yamaha Saluto 125cc 2016,2016,Mileage 70 Kmpl,first owner,delhi, 70 Kmpl,6.1 kW (8.3PS)
+654,Bajaj Pulsar 150cc 2005,2005,Mileage 65 Kmpl,first owner,hyderabad, 65 Kmpl,14.85 bhp
+655,Yamaha YZF-R15 V3 150cc 2020,2020,4000 Km,first owner,delhi, ,18.70 bhp
+656,TVS Apache RR310 2018,2018,2200 Km,first owner,jamshedpur, 22 kmpl,33 bhp
+657,Honda Dream Yuga 110cc 2015,2015,31000 Km,first owner,chennai, 84 kmpl,8 bhp
+658,Hero Passion Xpro Disc 2019,2019,10000 Km,first owner,gurgaon, 55 kmpl,8 bhp
+659,Bajaj Pulsar 150cc 2018,2018,Mileage 65 Kmpl,first owner,vadodara, 65 Kmpl,15 bhp
+660,Yamaha YZF-R15 2.0 150cc 2013,2013,26000 Km,second owner,jodhpur, 42 kmpl,16.70 bhp
+661,Bajaj Pulsar 180cc 2016,2016,22000 Km,first owner,rajkot, 65 kmpl,17 bhp
+662,Royal Enfield Classic 350cc 2017,2017,2200 Km,first owner,delhi, 35 kmpl,19.80 bhp
+663,Royal Enfield Thunderbird 500cc 2017,2017,15400 Km,first owner,chennai, 25 kmpl,27.20 bhp
+664,Bajaj Avenger Street 220 ABS 2019,2019,2550 Km,first owner,bangalore, 45 kmpl,14.30 bhp
+665,Yamaha YZF-R15 V3 150cc 2018,2018,30000 Km,first owner,ahmedabad, ,18.70 bhp
+666,Royal Enfield Standard 350cc 2009,2009,Mileage 30 Kmpl,first owner,chandigarh, 30 Kmpl,18 bhp
+667,Bajaj Discover 100cc 2013,2013,Mileage 80 Kmpl,first owner,coimbatore, 80 Kmpl,7.7
+668,KTM RC 390cc 2017,2017,20000 Km,first owner,bangalore, 26kmpl,42.30 bhp
+669,Hero HF Deluxe 100cc 2018,2018,6750 Km,first owner,ahmednagar, 55 kmpl,6.15kW (8.36 Ps)
+670,Yamaha YZF-R15 150cc 2012,2012,37000 Km,first owner,mumbai, 42 kmpl,16 bhp
+671,Yamaha FZ V 2.0 150cc 2018,2018,Mileage 58 Kmpl,second owner,bangalore, 58 Kmpl,13 bhp
+672,TVS Apache RTR 180cc 2017,2017,Mileage 45 Kmpl,second owner,delhi, 45 Kmpl,17.2 bhp
+673,Bajaj Pulsar RS200 ABS 2016,2016,Mileage 35 Kmpl,first owner,hyderabad, 35 Kmpl,24.50 bhp
+674,Royal Enfield Standard 500cc 2016,2016,12000 Km,first owner,bangalore, 25 kmpl,26.10 bhp
+675,Bajaj Pulsar 150cc 2014,2014,Mileage 65 Kmpl,first owner,hyderabad, 65 Kmpl,14.85 bhp
+676,Royal Enfield Himalayan 410cc 2016,2016,27500 Km,first owner,thane, 32 kmpl,24.50 bhp
+677,Suzuki Gixxer SF 150cc ABS 2017,2017,12300 Km,first owner,ajmer, 40 kmpl,14.60 bhp
+678,Yamaha FZs 150cc 2017,2017,400 Km,first owner,delhi, 45 kmpl,13 bhp
+679,Bajaj Avenger Street 180 2018,2018,7000 Km,first owner,delhi, 45 kmpl,15.30 bhp
+680,Bajaj Avenger Cruise 220 2017,2017,3600 Km,first owner,ranchi, 35 kmpl,19 bhp
+681,Jawa Forty Two 295CC 2020,2020,9600 Km,first owner,mumbai, Liquid Cooled,27 bhp
+682,Bajaj Pulsar 220F 2012,2012,25000 Km,first owner,bharatpur, 38 kmpl,21 bhp
+683,Royal Enfield Thunderbird 350cc 2015,2015,18729 Km,first owner,noida, 40 kmpl,19.80 bhp
+684,Bajaj Pulsar 135LS 2010,2010,10495 Km,first owner,ludhiana, 64 kmpl,13 bhp
+685,Hero Splendor Plus i3s 2018,2018,8100 Km,first owner,delhi, 81 kmpl,8.20 bhp
+686,Harley-Davidson Street 750 2016,2016,12000 Km,first owner,rudrapur, 20 kmpl,47 bhp
+687,Hero Splendor Plus Self Alloy 100cc 2018,2018,12000 Km,first owner,gurgaon, 55 kmpl,8.20 bhp
+688,Yamaha Fazer 150cc 2013,2013,Mileage 45 Kmpl,first owner,bangalore, 45 Kmpl,13 bhp
+689,Bajaj  Pulsar 180cc 2008,2008,40000 Km,first owner,gurgaon, 45 kmpl,17 bhp
+690,TVS Apache RTR 200 4V ABS Race Edition 2018,2018,Mileage 40 Kmpl,first owner,chennai, 40 Kmpl,20.23 BHP
+691,Royal Enfield Thunderbird 500cc 2018,2018,4700 Km,second owner,gurgaon, 25 kmpl,27.20 bhp
+692,Royal Enfield Bullet 350cc 2019,2019,27300 Km,first owner,hyderabad, ,19.80 bhp
+693,KTM RC 200cc 2015,2015,6200 Km,first owner,ludhiana, 35 kmpl,25 bhp
+694,KTM Duke 390cc 2016,2016,31000 Km,first owner,mumbai, 25 kmpl,42.90 bhp
+695,Yamaha FZs 150cc 2015,2015,18000 Km,second owner,delhi, 45 kmpl,13 bhp
+696,Bajaj Pulsar 150cc 2014,2014,Mileage 65 Kmpl,first owner,jaipur, 65 Kmpl,14.85 bhp
+697,Bajaj V12 125cc 2017,2017,3300 Km,first owner,delhi, 57 kmpl,12bhp
+698,Royal Enfield Standard 350cc 2015,2015,Mileage 37 Kmpl,first owner,delhi, 37 Kmpl,19.80 bhp
+699,Royal Enfield Classic Gunmetal Grey 350cc 2018,2018,18000 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+700,Royal Enfield Bullet Electra 350cc 2009,2009,10000 Km,first owner,mumbai, 30 kmpl,19.8 Bhp
+701,Royal Enfield Bullet Electra 350cc 2012,2012,16527 Km,second owner,delhi, 40 kmpl,19.8 Bhp
+702,KTM RC 390cc 2017,2017,12400 Km,first owner,balangir, 26kmpl,42.30 bhp
+703,Bajaj Pulsar RS200 ABS 2015,2015,Mileage 35 Kmpl,first owner,sidlaghatta, 35 Kmpl,24.16 bhp
+704,Royal Enfield Bullet Twinspark 350cc 2017,2017,Mileage 37 Kmpl,first owner,jalandhar, 37 Kmpl,19.80 bhp
+705,Royal Enfield Classic 350cc 2016,2016,12500 Km,first owner,chandrapur, 35 kmpl,19.80 bhp
+706,KTM RC 390cc 2017,2017,8000 Km,first owner,bangalore, 26kmpl,42.30 bhp
+707,Royal Enfield Classic 500cc 2017,2017,41877 Km,first owner,noida, 35 kmpl,27.20 bhp
+708,KTM RC 125CC BS6 2020,2020,850 Km,first owner,faridabad, ,14.5 bhp
+709,KTM RC 390cc 2015,2015,97000 Km,fourth owner or more,mumbai, 26kmpl,43 bhp
+710,Bajaj Pulsar 180cc 2010,2010,46000 Km,first owner,jodhpur, 65 kmpl,15 bhp
+711,Royal Enfield Classic 350cc 2018,2018,9000 Km,first owner,ludhiana, 35 kmpl,19.80 bhp
+712,Bajaj Avenger Street 150 2016,2016,22000 Km,first owner,bangalore, 50 kmpl,14.30 bhp
+713,Bajaj Discover 125ST 2013,2013,13299 Km,first owner,ludhiana, 65 kmpl,12.5 ps
+714,Yamaha FZ S V 2.0 150cc 2014,2014,Mileage 58 Kmpl,first owner,hyderabad, 58 Kmpl,13 bhp
+715,Bajaj Pulsar RS200 2016,2016,Mileage 35 Kmpl,first owner,delhi, 35 Kmpl,24.50 bhp
+716,Triumph Bonneville Bobber 1200cc 2018,2018,1300 Km,first owner,mumbai, 29 kmpl,76 bhp
+717,Hero Passion PRO  100 cc 2004,2004,45000 Km,first owner,cuttack, 45-55 kmpl,6.15 kW (8.36 Ps)
+718,KTM RC 125CC 2020,2020,97000 Km,fourth owner or more,bangalore, 40-45,14.5hp
+719,UM Renegade Commando Classic 2018,2018,2911 Km,first owner,delhi, 35 kmpl,25 bhp
+720,Royal Enfield Classic 350 S ABS 2020,2020,17000 Km,first owner,, 35 kmpl,19.80 bhp
+721,Royal Enfield Classic 350cc 2017,2017,33000 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+722,Royal Enfield Standard 350cc 2013,2013,Mileage 37 Kmpl,second owner,delhi, 37 Kmpl,19.80 bhp
+723,Yamaha Fazer 150cc 2010,2010,Mileage 45 Kmpl,first owner,ghaziabad, 45 Kmpl,13 bhp
+724,Royal Enfield Classic Desert Storm 500cc 2015,2015,25600 Km,first owner,rohtak, 32 kmpl,27.20 bhp
+725,Bajaj Pulsar RS200 2015,2015,Mileage 35 Kmpl,first owner,hyderabad, 35 Kmpl,24.16 bhp
+726,Hero Passion Plus 100cc 2006,2006,49000 Km,first owner,raigarh(mh), 55 kmpl,7.5 Bhp
+727,Bajaj V15 150cc 2016,2016,4725 Km,first owner,ludhiana, 57 kmpl,11.80 bhp
+728,TVS Apache RTR 180cc ABS 2019,2019,Mileage 45 Kmpl,first owner,delhi, 45 Kmpl,17.30 bhp
+729,Honda CB Trigger 150cc 2014,2014,30000 Km,first owner,delhi, 60 kmpl,14 bhp
+730,Bajaj Pulsar 220cc 2017,2017,21000 Km,first owner,patna, 38 kmpl,21 bhp
+731,TVS Apache RTR 180cc 2014,2014,Mileage 45 Kmpl,first owner,murshidabad, 45 Kmpl,17.2 bhp
+732,Yamaha Fazer 150cc 2013,2013,Mileage 45 Kmpl,first owner,mumbai, 45 Kmpl,13 bhp
+733,TVS Apache RTR 160 4V Carburetor 2018,2018,11258 Km,first owner,faridabad, ,16.10 bhp
+734,Royal Enfield Classic 350cc 2013,2013,60000 Km,first owner,kolkata, 35 kmpl,19.80 Bhp
+735,Royal Enfield Thunderbird X 350cc 2018,2018,26000 Km,first owner,bangalore, ,19.80 bhp
+736,UM Renegade Sport S 2018,2018,9300 Km,first owner,bangalore, 35 kmpl,24.80 bhp
+737,Bajaj Pulsar NS 200 2014,2014,10000 Km,first owner,thane, 40 kmpl,24.2 BHP
+738,TVS Sport 100cc 2014,2014,43808 Km,first owner,jaipur, 95 kmpl,7.40 bhp
+739,Honda CBF Stunner 125cc 2009,2009,Mileage 65 Kmpl,first owner,jaipur, 65 Kmpl,11 Bhp
+740,KTM RC 200cc 2015,2015,17000 Km,first owner,visakhapatnam, 35 kmpl,25 bhp
+741,Royal Enfield Thunderbird 350cc 2015,2015,25000 Km,first owner,ghaziabad, 40 kmpl,19.80 bhp
+742,Suzuki Gixxer Fi 150cc ABS 2019,2019,8700 Km,first owner,mysore, ,14.6 bhp
+743,Honda CB Hornet 160R CBS 2017,2017,Mileage 52 Kmpl,second owner,bangalore, 52 Kmpl,15.44 bhp
+744,Yamaha FZs 150cc 2010,2010,33000 Km,first owner,chennai, 45 kmpl,13 bhp
+745,KTM Duke 125cc 2019,2019,11000 Km,first owner,delhi, ,14.3 bhp
+746,Royal Enfield Classic 350cc 2013,2013,13880 Km,second owner,delhi, 35 kmpl,19.80 Bhp
+747,Yamaha FZS FI 150cc 2017,2017,Mileage 58 Kmpl,first owner,pune, 58 Kmpl,13 bhp
+748,Yamaha RX135 135cc 4-Speed 1998,1998,1000 Km,first owner,secunderabad, ,14 BHP
+749,Royal Enfield Classic 500cc 2018,2018,20000 Km,first owner,delhi, 35 kmpl,27.20 bhp
+750,Royal Enfield Thunderbird 500cc 2016,2016,4000 Km,first owner,pune, 25 kmpl,27.20 bhp
+751,Honda CB Hornet 160R CBS 2016,2016,Mileage 52 Kmpl,first owner,chennai, 52 Kmpl,15.44 bhp
+752,TVS Sport KS Spoke 2018,2018,8000 Km,first owner,delhi, 95 kmpl,7.40 bhp
+753,Bajaj Pulsar NS200 2017,2017,Mileage 42 Kmpl,first owner,ghaziabad, 42 Kmpl,23.20 bhp
+754,Bajaj Pulsar 220F 2011,2011,89000 Km,third owner,bangalore, 38 kmpl,21 bhp
+755,Bajaj Avenger Street 220 2016,2016,16799 Km,second owner,bangalore, 53 kmpl,19 bhp
+756,Royal Enfield Thunderbird 350cc 2011,2011,29400 Km,first owner,delhi, 35 kmpl,19.80 bhp
+757,Hero Splendor Plus 100cc 2012,2012,21298 Km,first owner,mumbai, 81 kmpl,8.20 bhp
+758,Bajaj Pulsar AS150 2015,2015,19500 Km,first owner,pune, 53 kmpl,16.80 bhp
+759,Bajaj Pulsar AS150 2015,2015,19500 Km,first owner,pune, 53 kmpl,16.80 bhp
+760,Bajaj Pulsar 150cc 2013,2013,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,14.85 bhp
+761,UM Renegade Commando 2018,2018,8000 Km,first owner,lucknow, 35 kmpl,24.80 bhp
+762,Bajaj CT 100 100cc 2020,2020,6500 Km,first owner,jalandhar, 89 kmpl,8.10 bhp
+763,Bajaj Discover 125cc 2004,2004,99999 Km,first owner,alipore, 65 kmpl,12.5 ps
+764,Bajaj Pulsar 150cc 2016,2016,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,15 bhp
+765,Bajaj Avenger Street 150 2016,2016,20232 Km,first owner,bangalore, 50 kmpl,14.30 bhp
+766,Royal Enfield Standard 350cc 2018,2018,Mileage 37 Kmpl,first owner,chandigarh, 37 Kmpl,19.80 bhp
+767,Royal Enfield Thunderbird 350cc 2015,2015,18200 Km,first owner,delhi, 40 kmpl,19.80 bhp
+768,Royal Enfield Electra 350cc 2016,2016,28700 Km,second owner,delhi, 25 kmpl,19.80 bhp
+769,Honda CBR 250R 2014,2014,Mileage 38 Kmpl,first owner,delhi, 38 Kmpl,26.15 bhp
+770,Royal Enfield Continental GT 535cc 2017,2017,5520 Km,first owner,delhi, 26 kmpl,29.10 bhp
+771,Yamaha FZ16 150cc 2016,2016,Mileage 58 Kmpl,first owner,bangalore, 58 Kmpl,13 bhp
+772,Bajaj Pulsar RS200 2019,2019,Mileage 35 Kmpl,first owner,bhopal, 35 Kmpl,24.50 bhp
+773,Royal Enfield Classic 350cc 2017,2017,12000 Km,first owner,delhi, 35 kmpl,19.80 bhp
+774,Honda CBR 250R 2016,2016,Mileage 38 Kmpl,second owner,agartala, 38 Kmpl,26.15 bhp
+775,Bajaj Avenger 220cc 2014,2014,30010 Km,first owner,kota, 40 kmpl,19 bhp
+776,Bajaj Pulsar 220F 2010,2010,46333 Km,third owner,dakshina kannada, 38 kmpl,21 bhp
+777,Bajaj Avenger 220cc 2017,2017,34500 Km,first owner,hyderabad, 40 kmpl,19 bhp
+778,Yamaha SZR 150cc 2012,2012,34000 Km,first owner,bengaluru, ,12 bhp
+779,KTM Duke 250cc ABS BS6 2020,2020,4000 Km,first owner,jalandhar, ,29.6 bhp
+780,Honda CB Shine 125cc 2018,2018,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,10 bhp
+781,KTM Duke 390cc 2018,2018,3648 Km,first owner,noida, 25 kmpl,42.90 bhp
+782,Honda CB Shine 125cc CBS 2019,2019,Mileage 65 Kmpl,first owner,gurgaon, 65 Kmpl,10 bhp
+783,Bajaj Dominar 400 ABS BS6 2021,2021,Mileage 28 Kms,first owner,mumbai, 28 Kms,39.42 bhp
+784,Bajaj Avenger 200cc 2009,2009,50000 Km,third owner,noida, 53 kmpl,19 bhp
+785,Bajaj Pulsar NS200 2018,2018,Mileage 42 Kmpl,third owner,delhi, 42 Kmpl,23.20 bhp
+786,Honda CB Shine 125cc Drum BS6 2020,2020,11037 Km,first owner,jaipur, 60 kmpl,10.59 bhp
+787,Yamaha YZF-R15 V3 150cc ABS Racing Blue BS6 2020,2020,7300 Km,first owner,mumbai, 40 kmpl,18.70 bhp
+788,Bajaj Pulsar 220F 2018,2018,43000 Km,first owner,delhi, 38 kmpl,21 bhp
+789,Bajaj Avenger Cruise 220 ABS FI BS6 2020,2020,2500 Km,first owner,haridwar, 35 kmpl,18.76 bhp
+790,Royal Enfield Classic 500cc 2017,2017,4700 Km,second owner,pinjore, 35 kmpl,27.20 bhp
+791,Royal Enfield Classic 350cc 2014,2014,20000 Km,first owner,delhi, 35 kmpl,19.80 Bhp
+792,Royal Enfield Himalayan 410cc Sleet ABS 2019,2019,7000 Km,first owner,chennai, 32 kmpl,24.50 bhp
+793,Hero CBZ 150cc 2012,2012,43400 Km,first owner,pune, 65kmpl,12.8ps
+794,Royal Enfield Classic 350cc 2016,2016,12500 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+795,TVS Apache RR310 2019,2019,25000 Km,first owner,udaipur, 22 kmpl,33 bhp
+796,Royal Enfield Classic 350cc 2017,2017,16000 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+797,TVS Apache RTR 160cc 2011,2011,Mileage 60 Kmpl,first owner,chennai, 60 Kmpl,15.2 bhp
+798,TVS Apache RTR 180cc 2011,2011,Mileage 45 Kmpl,second owner,pune, 45 Kmpl,17.2 bhp
+799,Hero Passion Xpro 110cc 2015,2015,17500 Km,first owner,delhi, 55 kmpl,6.72 KW (9.1 Ps)
+800,BMW G 310 R 2019,2019,12872 Km,first owner,pune, ,33 bhp
+801,Yamaha FZS FI 150cc 2019,2019,11233 Km,first owner,24 pargana, 52 kmpl,12.9 Bhp
+802,Bajaj Pulsar 150cc 2018,2018,Mileage 65 Kmpl,first owner,bhilwara, 65 Kmpl,15 bhp
+803,Royal Enfield Thunderbird X 350cc ABS 2019,2019,9000 Km,first owner,vidisha, ,19.80 bhp
+804,Bajaj Discover 150cc 2015,2015,Mileage 70 Kmpl,first owner,bangalore, 70 Kmpl,13.0 PS
+805,Bajaj Dominar 400 2017,2017,Mileage 28 Kms,first owner,gurgaon, 28 Kms,34.50 bhp
+806,Hero Splendor Plus 100cc 2015,2015,51576 Km,first owner,ernakulam, 81 kmpl,8.20 bhp
+807,Bajaj V15 150cc 2017,2017,26000 Km,first owner,jaipur, 57 kmpl,11.80 bhp
+808,TVS Apache RTR 200 4V FI 2017,2017,Mileage 40 Kmpl,first owner,morena, 40 Kmpl,20.70 bhp
+809,Yamaha MT-15 150cc Special Edition BS6 2021,2021,500 Km,first owner,hyderabad, ,18.23 bhp
+810,Royal Enfield Thunderbird 350cc 2017,2017,21000 Km,first owner,chennai, 40 kmpl,19.80 bhp
+811,Bajaj Pulsar RS200 2016,2016,Mileage 35 Kmpl,first owner,delhi, 35 Kmpl,24.50 bhp
+812,Hero Hunk 150cc 2017,2017,69787 Km,first owner,kolkata, 53kmpl,14 bhp
+813,Yamaha Fazer 25 250cc 2017,2017,14500 Km,first owner,kadapa, 43 kmpl,20.30 bhp
+814,Yamaha YZF-R15 V3 150cc 2018,2018,20167 Km,first owner,bathinda, ,18.70 bhp
+815,KTM Duke 125cc 2019,2019,2500 Km,first owner,mumbai, ,14.3 bhp
+816,Royal Enfield‎ Bullet 350cc 2014,2014,15300 Km,first owner,delhi, 37 kmpl,19.80 bhp
+817,Royal Enfield Thunderbird 350cc 2015,2015,14000 Km,first owner,surat, 40 kmpl,19.80 bhp
+818,Bajaj Pulsar RS200 2018,2018,Mileage 35 Kmpl,second owner,ropar, 35 Kmpl,24.50 bhp
+819,KTM RC 200cc 2015,2015,13800 Km,first owner,mumbai, 35 kmpl,25 bhp
+820,Hero Splendor Plus 100cc 2011,2011,26886 Km,first owner,gurgaon, 81 kmpl,8.20 bhp
+821,Royal Enfield Bullet 350cc 2019,2019,9000 Km,second owner,chandigarh, ,19.80 bhp
+822,Bajaj Pulsar 220cc 2014,2014,32500 Km,first owner,bangalore, 38 kmpl,21 bhp
+823,KTM RC 200cc ABS 2019,2019,20000 Km,first owner,, 35 kmpl,25.10 bhp
+824,Bajaj Avenger 220cc 2016,2016,10000 Km,first owner,bangarmau, 40 kmpl,19 bhp
+825,Yamaha YZF-R15 S 150cc 2016,2016,3912 Km,second owner,panipat, 42 kmpl,16 bhp
+826,Bajaj Pulsar RS200 2016,2016,Mileage 35 Kmpl,first owner,hamirpur(hp), 35 Kmpl,24.50 bhp
+827,TVS Apache RTR 200 4V ABS 2019,2019,Mileage 40 Kmpl,first owner,delhi, 40 Kmpl,20.23 BHP
+828,Honda CB Trigger 150cc 2013,2013,Mileage 60 Kmpl,third owner,bangalore, 60 Kmpl,14 bhp
+829,Bajaj Discover 100M 2012,2012,Mileage 80 Kmpl,first owner,mumbai, 80 Kmpl,9.10 bhp
+830,Yamaha MT-15 150cc BS6 2021,2021,3500 Km,first owner,bangalore, ,18.23 bhp
+831,Yamaha FZs 150cc 2014,2014,11000 Km,first owner,delhi, 45 kmpl,13 bhp
+832,Yamaha SZR 150cc 2012,2012,37000 Km,first owner,mumbai, ,12 bhp
+833,Royal Enfield Standard 350cc 2009,2009,Mileage 30 Kmpl,fourth owner or more,chandigarh, 30 Kmpl,18 bhp
+834,KTM RC 390cc 2020,2020,930 Km,first owner,hyderabad, 26kmpl,42.30 bhp
+835,Royal Enfield Classic 350cc 2016,2016,39500 Km,first owner,bihar shariff, 35 kmpl,19.80 bhp
+836,Royal Enfield Standard 350cc 2017,2017,Mileage 37 Kmpl,second owner,ambala, 37 Kmpl,19.80 bhp
+837,Kawasaki Z800 2017,2017,25225 Km,first owner,bangalore, 16 kmpl,111 bhp
+838,Royal Enfield Thunderbird X 350cc ABS 2019,2019,20500 Km,first owner,hyderabad, ,19.80 bhp
+839,Benelli 302R 300CC 2018,2018,15025 Km,second owner,mumbai, ,38.26 bhp
+840,TVS Apache RTR 180cc ABS 2017,2017,Mileage 45 Kmpl,third owner,ghaziabad, 45 Kmpl,17.30 bhp
+841,Yamaha YZF-R15 2.0 150cc 2017,2017,28500 Km,first owner,chennai, 42 kmpl,16.70 bhp
+842,Bajaj Avenger Street 220 2016,2016,42754 Km,first owner,pune, 53 kmpl,19 bhp
+843,Yamaha MT-15 150cc 2019,2019,12950 Km,first owner,gurgaon, ,19 bhp
+844,Hero CBZ Xtreme 150cc 2014,2014,22850 Km,second owner,ahmedabad, 65kmpl,14.4PS
+845,Hero Splendor Plus i3s 2019,2019,10428 Km,first owner,dehradun, 81 kmpl,8.20 bhp
+846,Bajaj Pulsar 220cc 2011,2011,57000 Km,first owner,surat, 38 kmpl,21 bhp
+847,Royal Enfield Thunderbird 350cc 2016,2016,33100 Km,first owner,mumbai, 40 kmpl,19.80 bhp
+848,Bajaj Avenger Street 150 2017,2017,7000 Km,first owner,delhi, 45 kmpl,14.30 bhp
+849,Hero Hunk 150cc 2013,2013,24700 Km,first owner,ranchi, 53kmpl,14 bhp
+850,Suzuki Gixxer 150cc 2018,2018,36500 Km,second owner,siddipet, 63kmpl,14 bhp
+851,Honda CBF Stunner 125cc 2013,2013,Mileage 65 Kmpl,first owner,ghaziabad, 65 Kmpl,11 Bhp
+852,Honda CB300R 2019,2019,7000 Km,first owner,delhi, ,30 bhp
+853,Bajaj Avenger Cruise 220 2017,2017,12500 Km,first owner,bangalore, 35 kmpl,19 bhp
+854,Bajaj Pulsar 150cc 2018,2018,Mileage 65 Kmpl,second owner,jaipur, 65 Kmpl,15 bhp
+855,Royal Enfield Thunderbird 350cc 2017,2017,13000 Km,first owner,vadodara, 40 kmpl,19.80 bhp
+856,Hero Passion Pro i3S Disc 100cc 2017,2017,22600 Km,second owner,bhatkal, 84 kmpl,8.20 bhp
+857,TVS Star City Plus 110cc 2015,2015,13000 Km,first owner,gurgaon, 85 kmpl,8.2 bhp
+858,KTM RC 200cc 2018,2018,18000 Km,first owner,hyderabad, 35 kmpl,25.10 bhp
+859,Royal Enfield Bullet 350cc 2015,2015,11000 Km,first owner,pune, 37 kmpl,19.80 bhp
+860,Bajaj Avenger Street 220 2019,2019,23000 Km,first owner,ghaziabad, 45 kmpl,14.30 bhp
+861,Jawa Forty Two 295CC 2019,2019,1600 Km,first owner,mumbai, Liquid Cooled,27 bhp
+862,Royal Enfield Thunderbird 350cc 2015,2015,29000 Km,first owner,thane, 40 kmpl,19.80 bhp
+863,Royal Enfield Bullet Twinspark 500cc 2016,2016,16000 Km,first owner,kochi, 25 kmpl,26.10 bhp
+864,Yamaha YZF-R15 V3 150cc 2018,2018,5500 Km,first owner,hyderabad, ,18.70 bhp
+865,Bajaj Pulsar 150cc 2014,2014,Mileage 65 Kmpl,first owner,deoria, 65 Kmpl,14.85 bhp
+866,Bajaj Avenger 200cc 2008,2008,24000 Km,first owner,delhi, 53 kmpl,19 bhp
+867,Bajaj Pulsar 150cc 2019,2019,Mileage 65 Kmpl,first owner,noida, 65 Kmpl,15 bhp
+868,Suzuki Intruder 150cc 2018,2018,19000 Km,first owner,jajpur, ,14.60 bhp
+869,Bajaj Avenger Street 150 2015,2015,35000 Km,first owner,ratlam, 50 kmpl,14.30 bhp
+870,Hero Glamour i3s 125cc BS6 2020,2020,17000 Km,first owner,delhi, 55 kmpl,10.72 bhp
+871,KTM RC 390cc 2017,2017,2100 Km,first owner,bhilwara, 26kmpl,42.30 bhp
+872,Bajaj Discover 150F 2014,2014,Mileage 70 Kmpl,first owner,delhi, 70 Kmpl,13.0 PS
+873,TVS Apache RTR 180cc 2018,2018,Mileage 45 Kmpl,first owner,ludhiana, 45 Kmpl,17.30 bhp
+874,Bajaj Pulsar 125cc Disc CBS 2019,2019,20000 Km,first owner,chandigarh, ,11.8 bhp
+875,Yamaha FZs 150cc 2015,2015,41000 Km,first owner,gurgaon, 45 kmpl,13 bhp
+876,Yamaha YZF-R3 320cc 2016,2016,35000 Km,fourth owner or more,bangalore, 22 kmpl,41.40 bhp
+877,Bajaj Pulsar RS200 ABS 2018,2018,Mileage 35 Kmpl,first owner,ahmedabad, 35 Kmpl,24.50 bhp
+878,Hero Glamour i3s 125cc BS6 2021,2021,1000 Km,first owner,nagaur, 55 kmpl,10.72 bhp
+879,Royal Enfield Thunderbird 500cc 2015,2015,5000 Km,first owner,vadodara, 25 kmpl,27.20 bhp
+880,Bajaj Discover 100cc 2010,2010,Mileage 80 Kmpl,first owner,delhi, 80 Kmpl,7.7
+881,Royal Enfield Bullet 500cc 2016,2016,13000 Km,first owner,delhi, 25 kmpl,26.37 PS
+882,TVS Apache RTR 160cc 2018,2018,Mileage 60 Kmpl,third owner,jaipur, 60 Kmpl,15.2 bhp
+883,Honda CB Hornet 160R  ABS STD 2019,2019,Mileage 52 Kmpl,first owner,thane, 52 Kmpl,15.44 bhp
+884,Bajaj Pulsar 135LS 2012,2012,18000 Km,second owner,delhi, 64 kmpl,13 bhp
+885,Benelli TNT 25 250cc 2017,2017,33500 Km,first owner,chennai, 25 kmpl,28.16 bhp
+886,KTM RC 200cc 2017,2017,9000 Km,first owner,madurai, 35 kmpl,25.10 bhp
+887,Bajaj Dominar 400 ABS BS6 2021,2021,Mileage 28 Kms,first owner,ghaziabad, 28 Kms,39.42 bhp
+888,TVS Apache 150cc 2012,2012,Mileage 45 Kmpl,fourth owner or more,madikeri, 45 Kmpl,13.7 Bhp
+889,Bajaj V15 150cc 2016,2016,10000 Km,first owner,pune, 57 kmpl,11.80 bhp
+890,Bajaj Pulsar 180cc 2012,2012,38000 Km,first owner,jaipur, 45 kmpl,17 bhp
+891,Harley-Davidson Street 750 2016,2016,10000 Km,first owner,delhi, 20 kmpl,47 bhp
+892,Bajaj Pulsar RS200 ABS 2016,2016,Mileage 35 Kmpl,third owner,anand, 35 Kmpl,24.50 bhp
+893,Hero Passion Pro 110cc Disc 2018,2018,23000 Km,first owner,chanpatia, ,9.30 bhp
+894,Bajaj Pulsar RS200 2016,2016,Mileage 35 Kmpl,first owner,hyderabad, 35 Kmpl,24.50 bhp
+895,Yamaha YZF-R15 S 150cc 2016,2016,23911 Km,first owner,gurgaon, 42 kmpl,16 bhp
+896,Royal Enfield Classic 350cc 2015,2015,50000 Km,first owner,ludhiana, 35 kmpl,19.80 Bhp
+897,Bajaj Pulsar 220cc 2010,2010,38000 Km,second owner,dehradun, 38 kmpl,21 bhp
+898,Bajaj Pulsar RS200 2018,2018,Mileage 35 Kmpl,first owner,chandigarh, 35 Kmpl,24.50 bhp
+899,Harley-Davidson Iron 883 2016,2016,4764 Km,first owner,mumbai, 20 kmpl,50 bhp
+900,Royal Enfield Thunderbird 350cc 2011,2011,38000 Km,first owner,noida, 35 kmpl,19.80 bhp
+901,KTM RC 200cc ABS 2019,2019,20990 Km,second owner,hyderabad, 35 kmpl,25.10 bhp
+902,Bajaj Pulsar 220cc 2014,2014,30000 Km,first owner,mumbai, 38 kmpl,21 bhp
+903,Hero Karizma ZMR 223cc 2011,2011,66780 Km,first owner,alipore, 48 kmpl,20 bhp
+904,Royal Enfield Interceptor 650cc 2019,2019,5200 Km,second owner,delhi, ,47 bhp
+905,Yamaha Fazer 150cc 2012,2012,Mileage 45 Kmpl,first owner,madurai, 45 Kmpl,13 bhp
+906,KTM RC 125CC 2019,2019,5000 Km,first owner,mumbai, 40-45,14.5hp
+907,Kawasaki Ninja 650 KRT Edition 2018,2018,5500 Km,first owner,pune, 21 kmpl,67.20 bhp
+908,Honda CB Trigger 150cc 2014,2014,20000 Km,first owner,ambala, 60 kmpl,14 bhp
+909,Royal Enfield Thunderbird 350cc 2012,2012,15215 Km,first owner,mumbai, 40 kmpl,19.80 bhp
+910,UM Renegade Commando Classic 2019,2019,11000 Km,first owner,mumbai, 35 kmpl,25 bhp
+911,Bajaj Pulsar 220F 2016,2016,26000 Km,first owner,indore, 38 kmpl,21 bhp
+912,Yamaha YZF-R15 V3 150cc 2019,2019,2800 Km,first owner,delhi, ,18.70 bhp
+913,Bajaj Pulsar 180cc 2016,2016,19456 Km,first owner,bangalore, 65 kmpl,17 bhp
+914,Suzuki Intruder 150cc 2018,2018,20200 Km,first owner,pune, ,14.60 bhp
+915,Bajaj Pulsar 150cc 2012,2012,Mileage 65 Kmpl,first owner,ghaziabad, 65 Kmpl,14.85 bhp
+916,Royal Enfield Thunderbird 350cc 2018,2018,17225 Km,first owner,delhi, 40 kmpl,19.80 bhp
+917,Honda CBR 250R 2011,2011,22000 Km,first owner,thane, 29 kmpl,26.15 bhp
+918,Royal Enfield Classic 350cc Dual Disc 2018,2018,6700 Km,first owner,bathinda, 35 kmpl,19.80 bhp
+919,Bajaj Pulsar 220F 2016,2016,26683 Km,first owner,delhi, 38 kmpl,21 bhp
+920,Bajaj Pulsar 150cc 2019,2019,Mileage 65 Kmpl,first owner,jaipur, 65 Kmpl,15 bhp
+921,Bajaj Avenger Street 150 2017,2017,8000 Km,first owner,vadodara, 45 kmpl,14.30 bhp
+922,Royal Enfield Standard 350cc 2014,2014,Mileage 40 Kmpl,first owner,noida, 40 Kmpl,19.80 bhp
+923,Hero Splendor Plus 100cc 2008,2008,26000 Km,first owner,mandi dabwali, 81 kmpl,8.20 bhp
+924,Bajaj V15 150cc 2017,2017,28000 Km,second owner,, 57 kmpl,11.80 bhp
+925,Bajaj Pulsar 220F 2015,2015,46740 Km,first owner,mumbai, 38 kmpl,21 bhp
+926,Bajaj V15 150cc 2016,2016,13320 Km,first owner,nashik, 57 kmpl,11.80 bhp
+927,Hero Super Splendor 125cc 2010,2010,38385 Km,first owner,surat, 75 kmpl,9 bhp
+928,Royal Enfield Bullet Electra 350cc 2019,2019,4100 Km,first owner,kanpur, 40 kmpl,19.8 Bhp
+929,KTM Duke 250cc 2019,2019,5000 Km,first owner,mumbai, ,29.60 bhp
+930,Yamaha FZ S V 2.0 150cc Rear Disc 2019,2019,Mileage 58 Kmpl,first owner,firozabad, 58 Kmpl,13 bhp
+931,Bajaj Avenger Cruise 220 ABS FI BS6 2020,2020,3000 Km,first owner,mohali, 35 kmpl,18.76 bhp
+932,Bajaj Pulsar 150cc 2005,2005,Mileage 65 Kmpl,first owner,alibag, 65 Kmpl,14.85 bhp
+933,TVS Apache RTR 200 4V SmartXonnect 2020,2020,Mileage 40 Kmpl,first owner,baghpat, 40 Kmpl,20.23 BHP
+934,TVS Apache RTR 200 4V ABS 2018,2018,Mileage 40 Kmpl,second owner,mumbai, 40 Kmpl,20.23 BHP
+935,KTM RC 390cc 2017,2017,9000 Km,second owner,jalandhar, 26kmpl,42.30 bhp
+936,Hero Passion Pro 100cc 2009,2009,22000 Km,second owner,delhi, 5 kmpl,8.2 Bhp
+937,TVS Star City Plus 110cc 2018,2018,1363 Km,first owner,chitradurga, 85 kmpl,8.2 bhp
+938,Bajaj Avenger Street 150 2016,2016,4900 Km,first owner,mumbai, 50 kmpl,14.30 bhp
+939,Bajaj Pulsar RS200 ABS 2016,2016,Mileage 35 Kmpl,first owner,mumbai, 35 Kmpl,24.50 bhp
+940,TVS Apache RTR 180cc 2018,2018,Mileage 45 Kmpl,first owner,bangalore, 45 Kmpl,17.30 bhp
+941,Bajaj Pulsar NS160 2018,2018,8100 Km,first owner,delhi, ,15.5 PS
+942,Kawasaki Ninja 300 ABS 2019,2019,11000 Km,first owner,mumbai, 25 kmpl,39 bhp
+943,Royal Enfield Standard 350cc 2018,2018,Mileage 37 Kmpl,first owner,delhi, 37 Kmpl,19.80 bhp
+944,Bajaj V15 150cc 2018,2018,15000 Km,second owner,kakinada, 57 kmpl,11.80 bhp
+945,Royal Enfield Classic 350cc ABS Stealth Black BS6 2020,2020,1200 Km,first owner,asansol, 35 kmpl,19.1 bhp
+946,Hero CBZ Xtreme 150cc 2011,2011,13421 Km,third owner,delhi, 65kmpl,14.4PS
+947,Bajaj Pulsar NS200 2012,2012,Mileage 35 Kmpl,first owner,bangalore, 35 Kmpl,23.19 bhp
+948,Hyosung GT250R 2012,2012,97772 Km,first owner,hyderabad, 30 kmpl,28 bhp
+949,TVS Apache RTR 160cc FRONT DISC ABS 2020,2020,Mileage 60 Kmpl,first owner,kanpur nagar, 60 Kmpl,15.2 bhp
+950,TVS Apache RTR 160 4V Disc 2019,2019,25000 Km,first owner,hathras, ,16.10 bhp
+951,Royal Enfield Bullet Electra 350cc 2008,2008,8500 Km,first owner,lucknow, 30 kmpl,19.8 Bhp
+952,Harley-Davidson Street 750 2016,2016,14000 Km,first owner,bangalore, 20 kmpl,47 bhp
+953,TVS Apache RR310 2018,2018,11000 Km,first owner,pune, 22 kmpl,33 bhp
+954,Bajaj Pulsar RS200 ABS 2015,2015,Mileage 35 Kmpl,first owner,gurgaon, 35 Kmpl,24.16 bhp
+955,Yamaha SZ-RR 150cc 2012,2012,12000 Km,first owner,delhi, 55 kmpl,12 Bhp
+956,Bajaj Discover 125cc 2013,2013,20000 Km,second owner,palwal, 65 kmpl,12.5 ps
+957,Royal Enfield‎ Bullet 350cc 2012,2012,8200 Km,first owner,haldwani, 37 kmpl,19.80 bhp
+958,KTM RC 125CC 2019,2019,10283 Km,first owner,mumbai, 40-45,14.5hp
+959,Bajaj Avenger Cruise 220 2017,2017,3500 Km,first owner,kalyan, 35 kmpl,19 bhp
+960,Royal Enfield Bullet Electra 350cc 2013,2013,57000 Km,first owner,chennai, 40 kmpl,19.8 Bhp
+961,TVS Apache RR310 2018,2018,11000 Km,first owner,pune, 22 kmpl,33 bhp
+962,Bajaj Pulsar NS160 2017,2017,22000 Km,second owner,panipat, ,15.5 PS
+963,Royal Enfield Classic Gunmetal Grey 350cc 2019,2019,5966 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+964,Hero Passion Pro 100cc 2010,2010,253621 Km,first owner,chennai, 5 kmpl,8.2 Bhp
+965,Royal Enfield Classic 500cc 2017,2017,17400 Km,first owner,pune, 35 kmpl,27.20 bhp
+966,Royal Enfield Thunderbird 350cc 2006,2006,26000 Km,first owner,mysore, 30 kmpl,19.80 bhp
+967,Bajaj Dominar 400 2018,2018,Mileage 28 Kms,first owner,theni, 28 Kms,34.50 bhp
+968,Yamaha FZ S V 2.0 150cc 2017,2017,Mileage 58 Kmpl,first owner,gurgaon, 58 Kmpl,13 bhp
+969,Hero CD Deluxe 100cc 2006,2006,60000 Km,first owner,delhi, 65 kmpl,7.70 bhp
+970,Bajaj Avenger Street 220 2017,2017,20000 Km,first owner,mumbai, 53 kmpl,19 bhp
+971,Hero Passion Pro 100cc 2017,2017,29000 Km,first owner,delhi, 5 kmpl,8.2 Bhp
+972,Honda SP125 Drum BS6 2020,2020,7000 Km,first owner,bangalore, ,10.72 bhp
+973,Yamaha FZ S V 2.0 150cc 2018,2018,Mileage 58 Kmpl,first owner,hyderabad, 58 Kmpl,13 bhp
+974,Suzuki Intruder 150cc FI 2018,2018,700 Km,first owner,meerut, ,14.60 bhp
+975,Bajaj Pulsar 180cc 2017,2017,28000 Km,second owner,jaipur, 65 kmpl,17 bhp
+976,TVS Apache RTR 160cc 2019,2019,Mileage 60 Kmpl,first owner,jaipur, 60 Kmpl,15.2 bhp
+977,Hero Passion Pro 100cc 2016,2016,25000 Km,first owner,kurukshetra, 5 kmpl,8.2 Bhp
+978,Bajaj Dominar 400 ABS 2019,2019,Mileage 28 Kms,first owner,mumbai, 28 Kms,34.50 bhp
+979,Bajaj Pulsar 150cc 2010,2010,Mileage 65 Kmpl,first owner,jaipur, 65 Kmpl,14.85 bhp
+980,Hero Hunk 150cc 2015,2015,41734 Km,first owner,gurgaon, 53kmpl,14 bhp
+981,Yamaha SZ RR V 2.0 150cc 2013,2013,37788 Km,first owner,siliguri, 50 kmpl,11.90 bhp
+982,Bajaj Pulsar 180cc 2014,2014,25600 Km,first owner,bihar shariff, 45 kmpl,17 bhp
+983,KTM Duke 390cc 2019,2019,8265 Km,first owner,bangalore, 25 kmpl,42.90 bhp
+984,Bajaj Dominar 400 ABS 2018,2018,Mileage 28 Kms,first owner,hyderabad, 28 Kms,34.50 bhp
+985,Bajaj Discover 100M 2014,2014,Mileage 80 Kmpl,first owner,howrah, 80 Kmpl,9.10 bhp
+986,Royal Enfield Electra 350cc 2019,2019,2500 Km,first owner,delhi, 25 kmpl,19.80 bhp
+987,Triumph Street Triple 765 2017,2017,30000 Km,first owner,pune, 20 kmpl,111 bhp
+988,Royal Enfield Classic 350cc ABS 2019,2019,13230 Km,first owner,barabanki, 35 kmpl,19.80 bhp
+989,Suzuki Gixxer SF 150cc 2016,2016,18000 Km,second owner,chennai, 40 kmpl,14.60 bhp
+990,UM Renegade Commando Classic 2018,2018,9513 Km,first owner,delhi, 35 kmpl,25 bhp
+991,Bajaj Pulsar 150cc 2010,2010,Mileage 65 Kmpl,first owner,haldwani, 65 Kmpl,14.85 bhp
+992,Royal Enfield Himalayan 410cc 2017,2017,11000 Km,first owner,delhi, 32 kmpl,24.50 bhp
+993,Bajaj Pulsar 180cc 2014,2014,65000 Km,first owner,jaipur, 45 kmpl,17 bhp
+994,Bajaj Pulsar 180cc 2010,2010,45000 Km,first owner,patna, 65 kmpl,15 bhp
+995,Hero HF Deluxe self Alloy 100cc 2017,2017,15456 Km,first owner,gurgaon, 55 kmpl,6.15kW (8.36 Ps)
+996,KTM Duke 200cc 2014,2014,20000 Km,first owner,bangalore, 35 kmpl,25 bhp
+997,Kawasaki Ninja 300cc 2015,2015,5000 Km,first owner,satna, 25 kmpl,39 bhp
+998,UM Renegade Commando Classic 2018,2018,6988 Km,first owner,pune, 35 kmpl,25 bhp
+999,TVS Apache RTR 160cc 2013,2013,Mileage 60 Kmpl,third owner,agra, 60 Kmpl,15.2 bhp
+1000,Hyosung Aquila Pro GV650 2013,2013,7350 Km,second owner,pune, 16 kmpl,74 bhp
+1001,Hero Splendor iSmart 100cc 2015,2015,46453 Km,first owner,bangalore, 55 kmpl,8.20 bhp
+1002,Bajaj Pulsar 150cc 2014,2014,Mileage 65 Kmpl,first owner,pune, 65 Kmpl,14.85 bhp
+1003,Mahindra Centuro 110cc 2013,2013,50000 Km,first owner,delhi,  60 kmpl,8.5 Bhp
+1004,Royal Enfield Classic 350cc 2018,2018,18000 Km,first owner,delhi, 35 kmpl,19.80 bhp
+1005,Yamaha YZF-R15 V3 150cc 2018,2018,9200 Km,first owner,pune, ,18.70 bhp
+1006,Yamaha YZF-R15 V3 150cc 2018,2018,22555 Km,second owner,pune, ,18.70 bhp
+1007,Honda Dream Yuga 110cc 2019,2019,Mileage 84 Kmpl,first owner,kolkata, 84 Kmpl,8.25 bhp
+1008,Harley-Davidson Iron 883 2017,2017,27000 Km,first owner,mumbai, 20 kmpl,50 bhp
+1009,Royal Enfield Standard 350cc 2018,2018,Mileage 37 Kmpl,first owner,chandigarh, 37 Kmpl,19.80 bhp
+1010,Bajaj Pulsar 200 NS 200cc 2015,2015,Mileage 35 Kmpl,first owner,delhi, 35 Kmpl,23.19 bhp
+1011,Bajaj V15 150cc 2018,2018,15047 Km,first owner,gurgaon, 57 kmpl,11.80 bhp
+1012,Royal Enfield Classic Squadron Blue 500cc 2016,2016,14000 Km,first owner,jalandhar, 25 kmpl,27.20 bhp
+1013,Yamaha FZS FI 150cc 2015,2015,Mileage 58 Kmpl,first owner,akola, 58 Kmpl,13 bhp
+1014,Bajaj Pulsar 180cc 2010,2010,45635 Km,first owner,delhi, 65 kmpl,15 bhp
+1015,Royal Enfield Thunderbird 350cc 2017,2017,19224 Km,first owner,chennai, 40 kmpl,19.80 bhp
+1016,TVS Apache RTR 200 4V SmartXonnect 2020,2020,Mileage 40 Kmpl,first owner,hyderabad, 40 Kmpl,20.23 BHP
+1017,Royal Enfield Classic 350cc 2017,2017,26000 Km,first owner,delhi, 35 kmpl,19.80 bhp
+1018,Yamaha Gladiator 125cc 2011,2011,20000 Km,first owner,chennai, 64 kmpl,10.8ps
+1019,KTM Duke 125cc 2019,2019,5000 Km,second owner,delhi, ,14.3 bhp
+1020,Hero Passion Pro 100cc 2014,2014,9000 Km,first owner,delhi, 5 kmpl,8.2 Bhp
+1021,BMW G 310 R 2019,2019,1500 Km,first owner,chandigarh, ,33 bhp
+1022,TVS Victor 110cc 2016,2016,Mileage 74 Kmpl,first owner,bhubaneshwar, 74 Kmpl,9.4 bhp
+1023,Yamaha YZF-R15 V3 150CC Dual Channel ABS BS6 2020,2020,15000 Km,first owner,gurgaon, 40 kmpl,18.3 bhp
+1024,Bajaj Pulsar 150cc 2013,2013,Mileage 65 Kmpl,first owner,jaipur, 65 Kmpl,14.85 bhp
+1025,Suzuki Gixxer SF 150cc 2015,2015,49000 Km,first owner,lucknow, 40 kmpl,14.60 bhp
+1026,Hero Passion 100cc 2006,2006,20000 Km,first owner,ghaziabad, 45-60 kmpl,7.5 Bhp
+1027,Yamaha YZFR15 2.0 150 2016,2016,22000 Km,first owner,bijapur, 42 kmpl,16.70 bhp
+1028,Honda CB Hornet 160R  ABS DLX 2019,2019,Mileage 52 Kmpl,first owner,erode, 52 Kmpl,15.44 bhp
+1029,Bajaj Platina Alloy ES-110cc 2019,2019,Mileage 104 Kmpl,first owner,kolkata, 104 Kmpl,8.20 bhp
+1030,Yamaha YZF-R15 2.0 150cc 2014,2014,57000 Km,second owner,warangal, 42 kmpl,16.70 bhp
+1031,Suzuki Gixxer 150cc Dual Tone Rear Disc 2017,2017,15600 Km,first owner,hyderabad, 63kmpl,14 bhp
+1032,Honda CB 1000R 2010,2010,22000 Km,second owner,ghaziabad, 16 kmpl,129 bhp
+1033,Honda CB Shine 125cc 2019,2019,Mileage 65 Kmpl,first owner,gurgaon, 65 Kmpl,10 bhp
+1034,Bajaj Pulsar 220F 2014,2014,28989 Km,first owner,chennai, 38 kmpl,21 bhp
+1035,Hero Xtreme 150cc 2014,2014,20000 Km,first owner,chittorgarh, 50 kmpl,14.20 bhp
+1036,Bajaj Dominar 400 2018,2018,Mileage 28 Kms,first owner,madurai, 28 Kms,34.50 bhp
+1037,Hero Splendor Plus i3s 2018,2018,19781 Km,first owner,mumbai, 81 kmpl,8.20 bhp
+1038,Husqvarna Svartpilen 250 2020,2020,3000 Km,first owner,delhi, 31.85 kmpl,29.63 bhp
+1039,Bajaj Discover 150F 2015,2015,Mileage 70 Kmpl,second owner,mumbai, 70 Kmpl,13.0 PS
+1040,TVS Victor 110cc 2017,2017,Mileage 74 Kmpl,first owner,indore, 74 Kmpl,9.4 bhp
+1041,Honda CBR 150R 150cc 2014,2014,23800 Km,first owner,jammu, 38 kmpl,18.28 bhp
+1042,Bajaj Pulsar AS150 2015,2015,33000 Km,first owner,gurgaon, 53 kmpl,16.80 bhp
+1043,Royal Enfield Thunderbird 350cc 2013,2013,38000 Km,first owner,mumbai, 40 kmpl,19.80 bhp
+1044,Yamaha FZ S V 2.0 150cc 2015,2015,Mileage 58 Kmpl,first owner,mumbai, 58 Kmpl,13 bhp
+1045,Bajaj Platina 100cc 2014,2014,Mileage 104 Kmpl,first owner,gurgaon, 104 Kmpl,8.20 bhp
+1046,Yamaha SZR 150cc 2011,2011,12500 Km,second owner,delhi, ,12 bhp
+1047,Hero Splendor Plus 100cc 2017,2017,27000 Km,first owner,delhi, 81 kmpl,8.20 bhp
+1048,Honda CBF Stunner 125cc 2014,2014,Mileage 65 Kmpl,first owner,satna, 65 Kmpl,11 Bhp
+1049,Bajaj Pulsar 150cc Rear Disc ABS FI BS6 2020,2020,Mileage 65 Kmpl,fourth owner or more,delhi, 65 Kmpl,13.8 bhp
+1050,Bajaj Avenger Street 220 2017,2017,17900 Km,first owner,bangalore, 53 kmpl,19 bhp
+1051,Suzuki Gixxer 150cc SP ABS 2019,2019,15500 Km,first owner,mumbai, 63kmpl,14 bhp
+1052,Bajaj Pulsar 220F 2018,2018,30000 Km,first owner,bangalore, 38 kmpl,21 bhp
+1053,TVS Apache RTR 160 4V DRUM ABS BS6 2020,2020,14000 Km,first owner,kadapa, ,15.6 bhp
+1054,Royal Enfield Thunderbird 350cc 2017,2017,17000 Km,first owner,vadodara, 40 kmpl,19.80 bhp
+1055,Hero Hunk 150cc 2008,2008,28945 Km,first owner,patiala, 53kmpl,14 bhp
+1056,KTM RC 200cc ABS 2019,2019,6000 Km,first owner,mumbai, 35 kmpl,25.10 bhp
+1057,Royal Enfield Thunderbird 350cc 2010,2010,60000 Km,first owner,ahmedabad, 35 kmpl,19.80 bhp
+1058,Bajaj Pulsar 180cc 2013,2013,25000 Km,first owner,delhi, 65 kmpl,15 bhp
+1059,Royal Enfield Thunderbird 500cc 2013,2013,10000 Km,first owner,mumbai, 25 kmpl,27.20 bhp
+1060,TVS Apache RTR 180cc 2016,2016,Mileage 45 Kmpl,first owner,balangir, 45 Kmpl,17.30 bhp
+1061,Hero Karizma R 223cc 2009,2009,36826 Km,first owner,dewas, 40 kmpl,17 bhp
+1062,Royal Enfield Thunderbird X 350cc ABS 2019,2019,9000 Km,first owner,noida, ,19.80 bhp
+1063,KTM RC 200cc 2016,2016,9500 Km,first owner,mumbai, 35 kmpl,25.10 bhp
+1064,Bajaj Platina 100cc 2007,2007,Mileage 104 Kmpl,first owner,bangalore, 104 Kmpl,8.20 bhp
+1065,Royal Enfield Bullet 350cc 2019,2019,2500 Km,first owner,chandigarh, ,19.80 bhp
+1066,Yamaha FZ S V 2.0 150cc 2015,2015,Mileage 58 Kmpl,first owner,bangalore, 58 Kmpl,13 bhp
+1067,KTM Duke 250cc 2018,2018,10000 Km,second owner,puttur, ,29.60 bhp
+1068,Royal Enfield Classic 350cc 2014,2014,40679 Km,first owner,bangalore, 35 kmpl,19.80 Bhp
+1069,Hero Karizma ZMR 223cc 2010,2010,46000 Km,second owner,chennai, 48 kmpl,20 bhp
+1070,Hero Xtreme 150cc 2014,2014,54000 Km,first owner,gandhinagar, 50 kmpl,14.20 bhp
+1071,Royal Enfield Thunderbird 350cc 2018,2018,8100 Km,first owner,mumbai, 40 kmpl,19.80 bhp
+1072,KTM RC 390cc 2015,2015,9500 Km,first owner,delhi, 26kmpl,43 bhp
+1073,Harley-Davidson Street 750 2014,2014,2400 Km,first owner,delhi, 20 kmpl,47 bhp
+1074,Bajaj Pulsar RS200 2015,2015,Mileage 35 Kmpl,first owner,ahmedabad, 35 Kmpl,24.16 bhp
+1075,Bajaj V15 150cc 2016,2016,15000 Km,first owner,bangalore, 57 kmpl,11.80 bhp
+1076,KTM Duke 250cc 2019,2019,2100 Km,first owner,kolkata, ,29.60 bhp
+1077,Hero Xtreme 200R ABS 2020,2020,950 Km,first owner,guna, 39.4 kmpl,18.1 bhp
+1078,Suzuki Gixxer 150cc 2015,2015,39000 Km,first owner,bangalore, 63kmpl,14 bhp
+1079,Honda CBR 250R ABS 2014,2014,Mileage 38 Kmpl,first owner,hyderabad, 38 Kmpl,26.15 bhp
+1080,Bajaj Discover 100cc 2011,2011,Mileage 80 Kmpl,first owner,ahmedabad, 80 Kmpl,7.7
+1081,Royal Enfield Continental GT 535cc 2017,2017,7582 Km,first owner,chennai, 26 kmpl,29.10 bhp
+1082,Bajaj Discover 100cc 2013,2013,Mileage 80 Kmpl,first owner,jaipur, 80 Kmpl,7.7
+1083,Yamaha YZF-R15 2.0 150cc 2016,2016,9800 Km,first owner,pune, 42 kmpl,16.70 bhp
+1084,Ducati Monster 821 2017,2017,Mileage 13 Kmpl,second owner,mumbai, 13 Kmpl,110.40 bhp
+1085,Bajaj Avenger 220cc 2014,2014,32000 Km,first owner,baramati, 40 kmpl,19 bhp
+1086,UM Renegade Sport S 2018,2018,4400 Km,first owner,delhi, 35 kmpl,24.80 bhp
+1087,Harley-Davidson Superlow 2014,2014,18000 Km,second owner,pune, 20 kmpl,50 bhp
+1088,KTM RC 200cc 2015,2015,16000 Km,first owner,adyar, 35 kmpl,25 bhp
+1089,Royal Enfield Thunderbird 350cc 2017,2017,10100 Km,first owner,chennai, 40 kmpl,19.80 bhp
+1090,TVS Apache RTR 200 4V Fi 2016,2016,Mileage 40 Kmpl,first owner,bangalore, 40 Kmpl,20.23 BHP
+1091,Bajaj Pulsar AS150 2015,2015,25000 Km,first owner,delhi, 53 kmpl,16.80 bhp
+1092,Royal Enfield Classic 350cc 2015,2015,15182 Km,first owner,chennai, 35 kmpl,19.80 Bhp
+1093,Kawasaki Ninja 300cc 2016,2016,12000 Km,first owner,mumbai, 25 kmpl,39 bhp
+1094,Bajaj Pulsar 150cc 2008,2008,Mileage 65 Kmpl,first owner,pune, 65 Kmpl,14.85 bhp
+1095,Bajaj Pulsar 220cc 2011,2011,34000 Km,first owner,mumbai, 38 kmpl,21 bhp
+1096,Royal Enfield Classic 350cc 2017,2017,26500 Km,first owner,baleshwar, 35 kmpl,19.80 bhp
+1097,Bajaj Dominar 400 ABS 2017,2017,Mileage 28 Kms,first owner,chandigarh, 28 Kms,34.50 bhp
+1098,Yamaha YZF-R15 150cc 2008,2008,42821 Km,first owner,mumbai, 42 kmpl,16 bhp
+1099,TVS Apache 150cc 2006,2006,Mileage 45 Kmpl,first owner,delhi, 45 Kmpl,13.7 Bhp
+1100,TVS Apache RTR 160cc 2016,2016,Mileage 60 Kmpl,first owner,mumbai, 60 Kmpl,15.2 bhp
+1101,TVS Apache RTR 160cc 2016,2016,Mileage 60 Kmpl,first owner,jaipur, 60 Kmpl,15.2 bhp
+1102,Hero Karizma ZMR 223cc 2019,2019,9000 Km,first owner,kolkata, 48 kmpl,20 bhp
+1103,Hero Passion Xpro 110cc 2018,2018,15000 Km,first owner,delhi, 55 kmpl,6.72 KW (9.1 Ps)
+1104,Bajaj Pulsar ABS 150cc 2019,2019,Mileage 65 Kmpl,first owner,hyderabad, 65 Kmpl,15 bhp
+1105,Bajaj Pulsar RS200 ABS 2016,2016,Mileage 35 Kmpl,first owner,bangalore, 35 Kmpl,24.50 bhp
+1106,Harley-Davidson Breakout 2016,2016,9000 Km,first owner,ahmedabad, 17.85 kmpl,
+1107,TVS Apache RTR 200 4V ABS 2018,2018,Mileage 40 Kmpl,first owner,delhi, 40 Kmpl,20.23 BHP
+1108,Honda Dream Yuga 110cc 2018,2018,Mileage 84 Kmpl,first owner,hyderabad, 84 Kmpl,8.25 bhp
+1109,Yamaha FZs 150cc 2019,2019,21709 Km,first owner,mumbai, 45 kmpl,13 bhp
+1110,Royal Enfield Classic 350cc 2016,2016,21000 Km,first owner,delhi, 35 kmpl,19.80 bhp
+1111,Royal Enfield Himalayan 410cc 2016,2016,2000 Km,first owner,navi mumbai, 32 kmpl,24.50 bhp
+1112,Bajaj Pulsar 150cc 2009,2009,Mileage 65 Kmpl,first owner,jalandhar, 65 Kmpl,14.85 bhp
+1113,Bajaj CT 100 KS Alloy 2019,2019,4000 Km,first owner,delhi, 67 kmpl,8.10 bhp
+1114,Honda Dream Yuga 110cc 2015,2015,29000 Km,first owner,hyderabad, 84 kmpl,8 bhp
+1115,Royal Enfield Bullet Electra 350cc 2007,2007,41000 Km,second owner,delhi, 30 kmpl,19.8 Bhp
+1116,Yamaha YZF-R15 2.0 150cc 2016,2016,25700 Km,first owner,ahmedabad, 42 kmpl,16.70 bhp
+1117,Hero Splendor Plus 100cc 2006,2006,45852 Km,third owner,vaniyambadi, 81 kmpl,8.20 bhp
+1118,Bajaj Dominar 400 ABS 2019,2019,Mileage 28 Kms,first owner,mumbai, 28 Kms,34.50 bhp
+1119,Royal Enfield Classic 350cc 2018,2018,21600 Km,first owner,hyderabad, 35 kmpl,19.80 bhp
+1120,Hero Passion Xpro 110cc 2013,2013,26000 Km,first owner,nanjangud, 55 kmpl,6.72 KW (9.1 Ps)
+1121,Royal Enfield Classic 500cc 2013,2013,11000 Km,second owner,delhi, 32 kmpl,27.20 bhp
+1122,TVS Apache RTR 160 4V DISC ABS 2019,2019,20000 Km,first owner,delhi, ,16.1 bhp
+1123,Harley-Davidson Street 750 2015,2015,9300 Km,first owner,bhavnagar, 20 kmpl,47 bhp
+1124,Royal Enfield Classic 350cc 2015,2015,18000 Km,first owner,delhi, 35 kmpl,19.80 Bhp
+1125,Royal Enfield Thunderbird 500cc 2014,2014,50000 Km,second owner,chennai, 25 kmpl,27.20 bhp
+1126,Honda X-Blade 160cc 2019,2019,30000 Km,first owner,tiruppur, ,13.93 bhp
+1127,Hero Super Splendor Self Drum Alloy 125cc BS6 2021,2021,850 Km,second owner,jaipur, 75 kmpl,10.72 bhp
+1128,Bajaj Pulsar 220cc 2009,2009,35000 Km,first owner,pune, 38 kmpl,21 bhp
+1129,Honda CBR 150R 150cc 2015,2015,Mileage 38 Kmpl,first owner,karur, 38 Kmpl,18.28 bhp
+1130,Royal Enfield Himalayan 410cc 2016,2016,30000 Km,first owner,gopalganj, 32 kmpl,24.50 bhp
+1131,KTM Duke 200cc 2017,2017,20000 Km,first owner,bangalore, 35 kmpl,24.60 bhp
+1132,Yamaha YZF-R15 150cc 2011,2011,7000 Km,first owner,agra, 42 kmpl,16 bhp
+1133,Royal Enfield Thunderbird 350cc 2013,2013,9100 Km,first owner,bangalore, 40 kmpl,19.80 bhp
+1134,Royal Enfield Himalayan 410cc Fi ABS 2020,2020,9000 Km,first owner,motihari, 32 kmpl,24.50 bhp
+1135,Royal Enfield Classic 350cc 2017,2017,8500 Km,first owner,hyderabad, 35 kmpl,19.80 bhp
+1136,TVS Apache RTR 160 4V FI 2018,2018,95000 Km,first owner,mumbai, ,16.10 bhp
+1137,Harley-Davidson Street Rod 2017,2017,3000 Km,first owner,delhi, 25 kmpl,70 bhp
+1138,TVS Apache RTR 200 4V Dual Channel ABS BS6 2019,2019,Mileage 40 Kmpl,first owner,bangalore, 40 Kmpl,20.2 bhp
+1139,Royal Enfield Thunderbird 350cc 2016,2016,32000 Km,first owner,vadodara, 40 kmpl,19.80 bhp
+1140,Hero Splendor Plus 100 2009,2009,32332 Km,first owner,chennai, 45-60 kmpl,6.15kW (8.36 Ps)
+1141,Bajaj Pulsar AS150 2015,2015,34000 Km,first owner,mumbai, 53 kmpl,16.80 bhp
+1142,Royal Enfield Classic 350cc 2014,2014,20500 Km,first owner,delhi, 35 kmpl,19.80 Bhp
+1143,Bajaj Pulsar RS200 ABS 2017,2017,Mileage 35 Kmpl,first owner,gorakhpur, 35 Kmpl,24.50 bhp
+1144,Royal Enfield Bullet Electra 350cc 2018,2018,10000 Km,first owner,hyderabad, 40 kmpl,19.8 Bhp
+1145,Royal Enfield Himalayan 410cc Fi ABS 2019,2019,8000 Km,first owner,chandigarh, 32 kmpl,24.50 bhp
+1146,Royal Enfield Thunderbird 350cc 2018,2018,20000 Km,first owner,mumbai, 40 kmpl,19.80 bhp
+1147,Yamaha FZ 150cc 2012,2012,Mileage 58 Kmpl,first owner,ludhiana, 58 Kmpl,13 bhp
+1148,Bajaj Platina 125cc 2009,2009,Mileage 82 Kmpl,second owner,yemmiganur, 82 Kmpl,8.5 PS
+1149,TVS Apache RTR 180cc 2016,2016,Mileage 45 Kmpl,first owner,mumbai, 45 Kmpl,17.30 bhp
+1150,Bajaj Pulsar 150cc 2006,2006,Mileage 65 Kmpl,first owner,thane, 65 Kmpl,14.85 bhp
+1151,Bajaj Pulsar 220cc 2010,2010,25000 Km,first owner,gurgaon, 38 kmpl,21 bhp
+1152,Yamaha Fazer 25 250cc 2017,2017,18000 Km,first owner,chandigarh, 43 kmpl,20.30 bhp
+1153,Bajaj Pulsar AS150 2015,2015,16834 Km,first owner,bangalore, 53 kmpl,16.80 bhp
+1154,Yamaha FZ16 150cc 2015,2015,Mileage 58 Kmpl,first owner,tezpur, 58 Kmpl,13 bhp
+1155,Royal Enfield Classic Desert Storm 500cc 2015,2015,8000 Km,first owner,delhi, 32 kmpl,27.20 bhp
+1156,Yamaha SS 125 125cc 2011,2011,Mileage 68 Kmpl,first owner,24 pargana, 68 Kmpl,10.70 bhp
+1157,Suzuki Gixxer SF 150cc SP Rear Disc 2017,2017,24487 Km,first owner,delhi, 40 kmpl,14.60 bhp
+1158,Yamaha FZs 150cc 2016,2016,38000 Km,third owner,bangalore, 45 kmpl,13 bhp
+1159,Royal Enfield Classic Gunmetal Grey 350cc ABS Alloy BS6 2020,2020,7500 Km,first owner,mumbai, 35 kmpl,19.1 bhp
+1160,Bajaj Avenger Street 220 2016,2016,39000 Km,second owner,hyderabad, 53 kmpl,19 bhp
+1161,Hero Passion Pro 100cc 2013,2013,21000 Km,first owner,vadodara, 5 kmpl,8.2 Bhp
+1162,Honda Livo 110cc 2018,2018,28000 Km,first owner,karnal, ,8.25 Bhp
+1163,Suzuki Gixxer 150cc 2015,2015,40000 Km,first owner,delhi, 63kmpl,14 bhp
+1164,Bajaj Pulsar 150cc 2019,2019,Mileage 65 Kmpl,first owner,ahmedabad, 65 Kmpl,15 bhp
+1165,Bajaj Platina 100cc 2009,2009,Mileage 104 Kmpl,first owner,gurgaon, 104 Kmpl,8.20 bhp
+1166,Hero Splendor 100cc 2016,2016,6500 Km,first owner,akkalkot, 45-60 kmpl,6.15kW (8.36 Ps)
+1167,Royal Enfield Standard 500cc 2016,2016,12417 Km,first owner,delhi, 25 kmpl,26.10 bhp
+1168,Bajaj V15 150cc 2016,2016,23492 Km,first owner,gurgaon, 57 kmpl,11.80 bhp
+1169,KTM Duke 250cc 2017,2017,29700 Km,first owner,mumbai, ,29.60 bhp
+1170,Bajaj Pulsar 180cc 2017,2017,12000 Km,second owner,chandigarh, 65 kmpl,17 bhp
+1171,Honda CB Unicorn Dazzler 150cc 2011,2011,Mileage 60 Kmpl,first owner,bhubaneshwar, 60 Kmpl,14 bhp
+1172,Royal Enfield Thunderbird X 350cc 2018,2018,21500 Km,first owner,mumbai, ,19.80 bhp
+1173,Bajaj Pulsar AS150 2015,2015,28000 Km,first owner,pune, 53 kmpl,16.80 bhp
+1174,Yamaha Fazer 150cc 2010,2010,Mileage 45 Kmpl,first owner,jamshedpur, 45 Kmpl,13 bhp
+1175,Bajaj Pulsar NS160 2018,2018,20200 Km,first owner,delhi, ,15.5 PS
+1176,Bajaj Pulsar 180cc 2016,2016,22000 Km,second owner,delhi, 65 kmpl,17 bhp
+1177,Suzuki Gixxer 250cc 2019,2019,3574 Km,first owner,delhi, ,26.1 bhp
+1178,Kawasaki Z800 2016,2016,10500 Km,first owner,mumbai, 16 kmpl,111 bhp
+1179,Royal Enfield Interceptor 650cc 2019,2019,10000 Km,first owner,bangalore, ,47 bhp
+1180,Jawa Forty Two 295CC Dual ABS BS6 2020,2020,1100 Km,first owner,delhi, Liquid Cooled,27 bhp
+1181,Harley-Davidson Street Rod 2017,2017,3000 Km,first owner,jalandhar, 25 kmpl,70 bhp
+1182,Royal Enfield Bullet Electra 350cc 2013,2013,38150 Km,first owner,hyderabad, 40 kmpl,19.8 Bhp
+1183,Yamaha YZF-R15 2.0 150cc 2016,2016,26000 Km,first owner,bangalore, 42 kmpl,16.70 bhp
+1184,Royal Enfield Classic Gunmetal Grey 350cc ABS 2019,2019,11000 Km,first owner,chandigarh, 35 kmpl,19.80 bhp
+1185,Bajaj V12 125cc 2017,2017,31220 Km,first owner,gurgaon, 57 kmpl,12bhp
+1186,TVS Apache RTR 200 4V Carburetor 2017,2017,Mileage 40 Kmpl,first owner,24 pargana, 40 Kmpl,20.70 bhp
+1187,KTM RC 390cc 2018,2018,23400 Km,first owner,rahuri, 26kmpl,42.30 bhp
+1188,Bajaj Avenger Street 150 2016,2016,23156 Km,first owner,ghaziabad, 50 kmpl,14.30 bhp
+1189,Royal Enfield Classic 350cc 2019,2019,7500 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+1190,KTM Duke 200cc 2016,2016,10500 Km,first owner,dharmapuri, 35 kmpl,24.60 bhp
+1191,Hero Passion Xpro 110cc 2015,2015,23000 Km,first owner,delhi, 55 kmpl,6.72 KW (9.1 Ps)
+1192,Mahindra Mojo 300cc 2017,2017,15000 Km,second owner,delhi, 35 kmpl,26.45 bhp
+1193,Bajaj Pulsar 180cc 2010,2010,95000 Km,first owner,delhi, 65 kmpl,15 bhp
+1194,Royal Enfield Classic 350cc 2017,2017,20000 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+1195,Royal Enfield Thunderbird 350cc 2017,2017,19000 Km,first owner,kolkata, 40 kmpl,19.80 bhp
+1196,Bajaj Pulsar 180cc 2013,2013,34000 Km,first owner,phagwara, 65 kmpl,15 bhp
+1197,KTM RC 200cc 2016,2016,12000 Km,first owner,chandigarh, 35 kmpl,25.10 bhp
+1198,KTM RC 200cc 2018,2018,3500 Km,first owner,mumbai, 35 kmpl,25.10 bhp
+1199,Yamaha FZs 150cc 2014,2014,18000 Km,first owner,bangalore, 45 kmpl,13 bhp
+1200,Harley-Davidson Street 750 2016,2016,2230 Km,first owner,delhi, 20 kmpl,47 bhp
+1201,Royal Enfield Bullet Twinspark 500cc 2015,2015,41036 Km,first owner,delhi, 25 kmpl,26.10 bhp
+1202,Harley-Davidson Street Rod XG750A ABS 2017,2017,3000 Km,first owner,mumbai, 25 kmpl,70 bhp
+1203,TVS Apache RTR 200 4V ABS 2018,2018,Mileage 40 Kmpl,first owner,bangalore, 40 Kmpl,20.23 BHP
+1204,TVS Radeon 110cc Drum SBT 2019,2019,16000 Km,first owner,delhi, ,8.2 bhp
+1205,Bajaj Discover 150F 2015,2015,Mileage 70 Kmpl,first owner,kolkata, 70 Kmpl,13.0 PS
+1206,Kawasaki Z650 2019,2019,3100 Km,first owner,bangalore, 30 kmpl,67.20 bhp
+1207,Bajaj Pulsar 220F 2014,2014,41000 Km,first owner,delhi, 38 kmpl,21 bhp
+1208,KTM Duke 250cc 2018,2018,28000 Km,first owner,nashik, ,29.60 bhp
+1209,Suzuki Gixxer 150cc 2016,2016,18000 Km,second owner,delhi, 63kmpl,14 bhp
+1210,Hero Xtreme 200R 2019,2019,20000 Km,first owner,jalpaiguri, 39.4 kmpl,18.1 bhp
+1211,Yamaha FZs 150cc 2013,2013,19214 Km,first owner,ludhiana, 45 kmpl,13 bhp
+1212,Honda CB ShineSP 125cc 2018,2018,Mileage 65 Kmpl,first owner,bangalore, 65 Kmpl,10 bhp
+1213,Harley-Davidson Street 750 2015,2015,6500 Km,first owner,delhi, 20 kmpl,47 bhp
+1214,Yamaha YZF-R15 2.0 150cc 2017,2017,21500 Km,first owner,howrah, 42 kmpl,16.70 bhp
+1215,Royal Enfield Himalayan 410cc Sleet ABS 2019,2019,9000 Km,first owner,mumbai, 32 kmpl,24.50 bhp
+1216,Royal Enfield Classic 350cc 2015,2015,30000 Km,first owner,mumbai, 35 kmpl,19.80 Bhp
+1217,Royal Enfield Classic 350cc 2017,2017,7800 Km,first owner,coimbatore, 35 kmpl,19.80 bhp
+1218,Bajaj Pulsar RS200 2019,2019,Mileage 35 Kmpl,first owner,gurgaon, 35 Kmpl,24.50 bhp
+1219,Triumph Street Triple 765 2019,2019,750 Km,first owner,rajkot, 20 kmpl,111 bhp
+1220,Jawa Forty Two 295CC 2020,2020,1100 Km,first owner,ahmedabad, Liquid Cooled,27 bhp
+1221,Bajaj Pulsar RS200 2017,2017,Mileage 35 Kmpl,first owner,mysore, 35 Kmpl,24.50 bhp
+1222,KTM Duke 200cc 2019,2019,13000 Km,first owner,sambalpur, 35 kmpl,24.60 bhp
+1223,Yamaha SZX 150cc 2016,2016,Mileage 55-60 Kmpl,first owner,panchkula, 55-60 Kmpl,12 bhp
+1224,Bajaj Pulsar 180F NEON ABS BS6 2020,2020,1800 Km,first owner,agartala, 45 kmpl,16.6 bhp
+1225,Bajaj Dominar 400 2018,2018,Mileage 28 Kms,first owner,chennai, 28 Kms,34.50 bhp
+1226,UM Renegade Commando 2018,2018,16000 Km,first owner,mumbai, 35 kmpl,24.80 bhp
+1227,Bajaj Dominar 400 ABS 2019,2019,Mileage 28 Kms,first owner,jamshedpur, 28 Kms,34.50 bhp
+1228,Hyosung GT650R 2016,2016,5600 Km,second owner,jaipur, 20 kmpl,72.68 bhp
+1229,Honda CB Hornet 160R Special Edition-CBS 2017,2017,Mileage 52 Kmpl,first owner,chennai, 52 Kmpl,15.44 bhp
+1230,Harley-Davidson Street 750 2014,2014,11000 Km,first owner,jabalpur, 20 kmpl,47 bhp
+1231,Yamaha YZF-R15 150cc 2011,2011,33000 Km,first owner,chennai, 42 kmpl,16 bhp
+1232,Hero Passion Plus 100cc 2004,2004,57000 Km,first owner,aligarh, 55 kmpl,7.5 Bhp
+1233,Hero Super Splendor 125cc 2018,2018,7329 Km,first owner,ludhiana, 75 kmpl,9 bhp
+1234,Royal Enfield Classic 350cc 2014,2014,15000 Km,first owner,delhi, 35 kmpl,19.80 Bhp
+1235,Royal Enfield Classic 350cc 2012,2012,25000 Km,first owner,delhi, 35 kmpl,19.80 Bhp
+1236,Hero Passion Plus 100cc 2008,2008,39000 Km,third owner,ahmedabad, 55 kmpl,7.5 Bhp
+1237,Bajaj Pulsar 220cc 2012,2012,25000 Km,first owner,gurgaon, 38 kmpl,21 bhp
+1238,Hero Passion Plus 100cc 2005,2005,47000 Km,first owner,jaipur, 55 kmpl,7.5 Bhp
+1239,Bajaj Pulsar NS200 2013,2013,Mileage 35 Kmpl,first owner,patna, 35 Kmpl,23.19 bhp
+1240,Honda CB Trigger 150cc 2014,2014,28900 Km,first owner,pune, 60 kmpl,14 bhp
+1241,Royal Enfield Classic 350cc 2018,2018,12500 Km,first owner,bangalore, 35 kmpl,19.80 bhp
+1242,Suzuki Slingshot Plus 125cc 2016,2016,32568 Km,first owner,bangalore, 59 kmpl,8.50 bhp
+1243,Bajaj Discover 100M 2014,2014,Mileage 80 Kmpl,first owner,chennai, 80 Kmpl,9.10 bhp
+1244,Bajaj Pulsar 150cc 2010,2010,Mileage 65 Kmpl,first owner,kota, 65 Kmpl,14.85 bhp
+1245,KTM RC 390cc BS6 2021,2021,1600 Km,first owner,mumbai, 26 kmpl,42.3 bhp
+1246,Hero Glamour 125cc 2013,2013,20000 Km,first owner,delhi, 55 kmpl,8.90 bhp
+1247,KTM Duke 390cc 2018,2018,2300 Km,first owner,mumbai, 25 kmpl,42.90 bhp
+1248,Royal Enfield Classic 350cc 2015,2015,31000 Km,second owner,pune, 35 kmpl,19.80 Bhp
+1249,TVS Apache RTR 160cc 2008,2008,Mileage 60 Kmpl,first owner,delhi, 60 Kmpl,15.2 bhp
+1250,Suzuki Gixxer SF 150cc Rear Disc 2016,2016,24500 Km,third owner,delhi, 40 kmpl,14.60 bhp
+1251,Yamaha Saluto RX 110cc 2017,2017,Mileage 70 Kmpl,first owner,jaipur, 70 Kmpl,7 bhp
+1252,TVS Apache RTR 160 4V FI 2019,2019,2500 Km,first owner,chennai, ,16.10 bhp
+1253,Yamaha YBR 110cc 2014,2014,42000 Km,second owner,shimoga, 55 kmpl,7.60 bhp
+1254,Royal Enfield Classic Desert Storm 500cc 2014,2014,28411 Km,first owner,indi, 32 kmpl,27.20 bhp
+1255,KTM RC 390cc 2017,2017,17700 Km,first owner,pune, 26kmpl,42.30 bhp
+1256,UM Renegade Commando 2017,2017,4973 Km,first owner,delhi, 35 kmpl,24.80 bhp
+1257,Hero Hunk 150cc 2013,2013,40900 Km,first owner,pune, 53kmpl,14 bhp
+1258,Bajaj Pulsar NS200 2017,2017,Mileage 42 Kmpl,first owner,bangalore, 42 Kmpl,23.20 bhp
+1259,Honda CBR 250R 2016,2016,Mileage 38 Kmpl,second owner,pune, 38 Kmpl,26.15 bhp
+1260,Husqvarna Vitpilen 250 2020,2020,2500 Km,first owner,mumbai, ,29.2 bhp
+1261,Harley-Davidson Street 750 ABS 2017,2017,200 Km,first owner,delhi, 20 kmpl,47 bhp
+1262,Honda CB Hornet 160R CBS 2018,2018,Mileage 52 Kmpl,first owner,krishna, 52 Kmpl,15.44 bhp
+1263,Royal Enfield Bullet Electra 350cc 2009,2009,14000 Km,second owner,chandigarh, 30 kmpl,19.8 Bhp
+1264,Bajaj Pulsar 150cc 2008,2008,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,14.85 bhp
+1265,Bajaj Pulsar RS200 ABS 2015,2015,Mileage 35 Kmpl,fourth owner or more,mumbai, 35 Kmpl,24.16 bhp
+1266,Hero Splendor Plus Black and Accent Edition 2020,2020,10000 Km,first owner,ahmedabad, 55 kmpl,7.91 bhp
+1267,UM Renegade Commando 2017,2017,12000 Km,first owner,delhi, 35 kmpl,24.80 bhp
+1268,Bajaj Pulsar RS200 ABS 2017,2017,Mileage 35 Kmpl,first owner,bhiwandi, 35 Kmpl,24.50 bhp
+1269,Royal Enfield Classic 350cc 2019,2019,15500 Km,first owner,indore, 35 kmpl,19.80 bhp
+1270,Yamaha Fazer 150cc 2011,2011,Mileage 45 Kmpl,first owner,pune, 45 Kmpl,13 bhp
+1271,Hyosung Aquila 250 250cc 2015,2015,17000 Km,first owner,bangalore, ,
+1272,TVS Apache RTR 180cc 2016,2016,Mileage 45 Kmpl,first owner,ahmedabad, 45 Kmpl,17.30 bhp
+1273,Bajaj Dominar 400 ABS 2018,2018,Mileage 28 Kms,first owner,delhi, 28 Kms,34.50 bhp
+1274,Yamaha FZ16 150cc 2009,2009,Mileage 58 Kmpl,fourth owner or more,kochi, 58 Kmpl,13 bhp
+1275,Royal Enfield Thunderbird 500cc 2014,2014,12000 Km,first owner,bangalore, 25 kmpl,27.20 bhp
+1276,Honda CBR 250R 2011,2011,35000 Km,second owner,delhi, 29 kmpl,26.15 bhp
+1277,KTM RC 390cc 2016,2016,3400 Km,second owner,gurgaon, 26kmpl,42.30 bhp
+1278,TVS Apache RTR 180cc ABS 2015,2015,Mileage 45 Kmpl,first owner,bangalore, 45 Kmpl,17.2 bhp
+1279,Harley-Davidson Street 750 ABS 2017,2017,6200 Km,first owner,bangalore, 20 kmpl,47 bhp
+1280,Honda CBR 150R 150cc 2015,2015,Mileage 38 Kmpl,second owner,delhi, 38 Kmpl,18.28 bhp
+1281,Bajaj Dominar 400 2017,2017,Mileage 28 Kms,first owner,pune, 28 Kms,34.50 bhp
+1282,Royal Enfield Classic 350cc 2016,2016,16000 Km,second owner,hyderabad, 35 kmpl,19.80 bhp
+1283,Harley-Davidson Street 750 2016,2016,14200 Km,first owner,kurukshetra, 20 kmpl,47 bhp
+1284,Royal Enfield Bullet Electra 350cc 2008,2008,37000 Km,first owner,delhi, 30 kmpl,19.8 Bhp
+1285,TVS Apache RTR 200 4V Carburetor 2017,2017,Mileage 40 Kmpl,first owner,mohali, 40 Kmpl,20.70 bhp
+1286,Royal Enfield Classic Squadron Blue 500cc 2016,2016,16700 Km,first owner,navi mumbai, 25 kmpl,27.20 bhp
+1287,Hero Splendor Pro 100cc 2015,2015,11000 Km,first owner,ludhiana, 81 kmpl,8.20 bhp
+1288,Suzuki Gixxer SF Fi 150cc 2017,2017,3200 Km,first owner,pune, 40 kmpl,14.60 bhp
+1289,Honda CB Unicorn Dazzler 150cc 2010,2010,Mileage 60 Kmpl,first owner,gautam buddha nagar, 60 Kmpl,14 bhp
+1290,TVS Apache RTR 160cc 2016,2016,Mileage 60 Kmpl,first owner,bangalore, 60 Kmpl,15.2 bhp
+1291,Bajaj V15 150cc 2016,2016,15000 Km,first owner,delhi, 57 kmpl,11.80 bhp
+1292,Bajaj Pulsar ABS 220F 2019,2019,6460 Km,first owner,hyderabad, 38 kmpl,21 bhp
+1293,Bajaj Avenger Cruise 220 2017,2017,21000 Km,first owner,jaipur, 35 kmpl,19 bhp
+1294,Yamaha YZF-R15 V3 150cc 2018,2018,3000 Km,first owner,kolkata, ,18.70 bhp
+1295,Bajaj Pulsar 220cc 2015,2015,65000 Km,first owner,madurai, 38 kmpl,21 bhp
+1296,Harley-Davidson Street 750 ABS 2018,2018,1174 Km,second owner,delhi, 20 kmpl,47 bhp
+1297,KTM Duke 200cc 2016,2016,19000 Km,first owner,delhi, 35 kmpl,24.60 bhp
+1298,Royal Enfield Classic 350cc Signals Edition 2019,2019,6700 Km,first owner,delhi, 35 kmpl,19.80 bhp
+1299,Hero HF Deluxe 100cc 2013,2013,16615 Km,first owner,jaipur, 83 kmpl,7.70 bhp
+1300,KTM Duke 125cc 2018,2018,11000 Km,first owner,mumbai, ,14.3 bhp
+1301,Royal Enfield Classic 350cc 2018,2018,7000 Km,first owner,jalandhar, 35 kmpl,19.80 bhp
+1302,Royal Enfield Classic 500cc 2017,2017,800 Km,first owner,kanpur nagar, 35 kmpl,27.20 bhp
+1303,Bajaj V15 150cc 2017,2017,9186 Km,first owner,howrah, 57 kmpl,11.80 bhp
+1304,Royal Enfield Continental GT Twin 650cc 2017,2017,3900 Km,first owner,bangalore, ,47 bhp
+1305,Bajaj Avenger Street 150 2017,2017,23250 Km,first owner,bangalore, 45 kmpl,14.30 bhp
+1306,TVS Apache RTR 160 4V Disc 2018,2018,20000 Km,first owner,hyderabad, ,16.10 bhp
+1307,Yamaha YZF-R15 S 150cc 2017,2017,40000 Km,first owner,ghaziabad, 42 kmpl,16 bhp
+1308,Yamaha YZF-R15 150cc 2017,2017,16300 Km,first owner,bangalore, 42 kmpl,16 bhp
+1309,Bajaj Platina 110 H Gear Disc BS6 2020,2020,20200 Km,first owner,rewari, 84 kmpl,8.44 bhp
+1310,Bajaj XCD 125 2007,2007,26000 Km,first owner,bhopal, 60 kmpl,9.4 Bhp
+1311,Royal Enfield Classic 350cc 2014,2014,17000 Km,first owner,rajkot, 35 kmpl,19.80 Bhp
+1312,Bajaj Dominar 400 ABS 2019,2019,Mileage 28 Kms,first owner,mumbai, 28 Kms,34.50 bhp
+1313,Yamaha FZs 150cc 2014,2014,12000 Km,first owner,ghaziabad, 45 kmpl,13 bhp
+1314,Yamaha FZ V 2.0 150cc 2018,2018,Mileage 58 Kmpl,first owner,delhi, 58 Kmpl,13 bhp
+1315,Bajaj Pulsar 135LS 2014,2014,31000 Km,first owner,pune, 64 kmpl,13 bhp
+1316,Honda SP125 Disc BS6 2020,2020,145990 Km,first owner,sri ganganagar, ,10.72 bhp
+1317,Royal Enfield Classic 350cc 2018,2018,15000 Km,first owner,delhi, 35 kmpl,19.80 bhp
+1318,Bajaj Discover 125cc 2011,2011,27962 Km,first owner,karnal, 65 kmpl,12.5 ps
+1319,Bajaj Pulsar RS200 ABS 2020,2020,Mileage 35 Kmpl,second owner,bangalore, 35 Kmpl,24.50 bhp
+1320,Bajaj Pulsar NS160 2018,2018,40000 Km,first owner,kanpur, ,15.5 PS
+1321,Yamaha YZF-R15 150cc 2013,2013,30000 Km,third owner,delhi, 42 kmpl,16 bhp
+1322,Hero Passion Pro i3S Alloy 100cc 2018,2018,17123 Km,first owner,varanasi, 84 kmpl,8.20 bhp
+1323,Bajaj Pulsar 220F ABS FI BS6 2021,2021,1400 Km,first owner,villupuram, 38.5 kmpl,20.11 bhp
+1324,Yamaha YZF-R15 150cc 2016,2016,36226 Km,first owner,faridabad, 42 kmpl,16 bhp
+1325,Royal Enfield Bullet 500cc 2016,2016,16000 Km,second owner,kochi, 25 kmpl,26.37 PS
+1326,Bajaj Pulsar 220F 2017,2017,92000 Km,first owner,delhi, 38 kmpl,21 bhp
+1327,KTM Duke 390cc 2018,2018,7520 Km,first owner,delhi, 25 kmpl,42.90 bhp
+1328,KTM Duke 200cc 2017,2017,13795 Km,first owner,faridabad, 35 kmpl,24.60 bhp
+1329,Yamaha YZF-R15 2.0 150cc 2017,2017,12250 Km,first owner,chennai, 42 kmpl,16.70 bhp
+1330,Bajaj CT 100 ES Alloy 2018,2018,24233 Km,first owner,gurgaon, 67 kmpl,8.10 bhp
+1331,Bajaj Pulsar 150cc 2013,2013,Mileage 65 Kmpl,first owner,kanpur, 65 Kmpl,14.85 bhp
+1332,Benelli TNT 300 ABS 2019,2019,10700 Km,first owner,hyderabad, 25 kmpl,37.73 bhp
+1333,Honda Dream Yuga 110cc 2016,2016,Mileage 84 Kmpl,first owner,bangalore, 84 Kmpl,8.25 bhp
+1334,Yamaha FZ16 150cc 2014,2014,Mileage 58 Kmpl,second owner,thalassery, 58 Kmpl,13 bhp
+1335,Bajaj Pulsar 150cc 2004,2004,80070 Km,second owner,bangalore, 65 kmpl,15 bhp
+1336,Benelli TNT 300 2017,2017,11000 Km,first owner,mumbai, 25 kmpl,37.73 bhp
+1337,TVS Apache RTR 160 4V DISC ABS 2019,2019,6810 Km,first owner,chennai, ,16.1 bhp
+1338,Royal Enfield Classic 350cc 2018,2018,4500 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+1339,Bajaj Platina 125cc 2010,2010,Mileage 82 Kmpl,first owner,chennai, 82 Kmpl,8.20 bhp
+1340,Bajaj Dominar 400 ABS 2018,2018,Mileage 28 Kms,first owner,jalandhar, 28 Kms,34.50 bhp
+1341,Royal Enfield Classic 350cc 2015,2015,3467 Km,first owner,jaipur, 35 kmpl,19.80 Bhp
+1342,Bajaj Pulsar 180F 2019,2019,22000 Km,first owner,hyderabad, ,17 bhp
+1343,TVS Apache RTR 180cc 2017,2017,Mileage 45 Kmpl,first owner,gurgaon, 45 Kmpl,17.2 bhp
+1344,Bajaj Avenger Street 150 2016,2016,19500 Km,first owner,hyderabad, 50 kmpl,14.30 bhp
+1345,Yamaha YZF-R15 2.0 150cc 2014,2014,34000 Km,first owner,guwahati, 42 kmpl,16.70 bhp
+1346,Bajaj Pulsar RS200 ABS 2016,2016,Mileage 35 Kmpl,second owner,bangalore, 35 Kmpl,24.50 bhp
+1347,Bajaj Pulsar RS200 ABS 2017,2017,Mileage 35 Kmpl,fourth owner or more,jaipur, 35 Kmpl,24.50 bhp
+1348,Bajaj Pulsar 200cc 2007,2007,Mileage 40Kmpl,first owner,kochi, 40Kmpl,16.78 bhp
+1349,Bajaj Pulsar RS200 ABS 2015,2015,Mileage 35 Kmpl,first owner,navi mumbai, 35 Kmpl,24.16 bhp
+1350,Bajaj Pulsar 150cc 2016,2016,Mileage 65 Kmpl,first owner,belgaum, 65 Kmpl,15 bhp
+1351,Benelli TNT 25 250cc 2016,2016,25000 Km,second owner,pune, 25 kmpl,28.16 bhp
+1352,Royal Enfield Interceptor 650cc 2019,2019,6500 Km,first owner,mumbai, ,47 bhp
+1353,Hero CBZ Xtreme 150cc 2011,2011,60000 Km,first owner,pune, 65kmpl,14.4PS
+1354,Hero Karizma R 223cc 2015,2015,11045 Km,second owner,gurgaon, 40 kmpl,17 bhp
+1355,Yamaha SZ RR V 2.0 150cc 2016,2016,27900 Km,first owner,faridabad, 55 kmpl,12 bhp
+1356,Royal Enfield Thunderbird 350cc 2012,2012,21000 Km,first owner,faridabad, 40 kmpl,19.80 bhp
+1357,Bajaj Discover 125cc Disc 2018,2018,9946 Km,first owner,gurgaon, 65 kmpl,10.90 bhp
+1358,Yamaha FZs 150cc 2013,2013,27744 Km,first owner,bangalore, 45 kmpl,13 bhp
+1359,Bajaj Pulsar AS150 2015,2015,23000 Km,first owner,delhi, 53 kmpl,16.80 bhp
+1360,Honda CB Unicorn 150cc 2017,2017,Mileage 60 Kmpl,first owner,mumbai, 60 Kmpl,14 bhp
+1361,Royal Enfield Thunderbird 350cc 2017,2017,5000 Km,first owner,bangalore, 40 kmpl,19.80 bhp
+1362,Jawa Forty Two Dual ABS 295CC 2020,2020,419 Km,first owner,chennai, Liquid Cooled,27 bhp
+1363,Hero HF Dawn 100cc 2003,2003,1000000 Km,first owner,ahmednagar, 83 kmpl,7.70 bhp
+1364,TVS Apache RTR 160cc 2011,2011,Mileage 60 Kmpl,first owner,bangalore, 60 Kmpl,15.2 bhp
+1365,Honda CB ShineSP 125cc Disc 2018,2018,Mileage 65 Kmpl,first owner,mumbai, 65 Kmpl,10 bhp
+1366,Royal Enfield Classic 350cc 2015,2015,70000 Km,second owner,patna, 35 kmpl,19.80 Bhp
+1367,Hero HF Deluxe Eco 100cc 2018,2018,7259 Km,first owner,delhi, 65 kmpl,8.10 bhp
+1368,KTM RC 390cc 2017,2017,89000 Km,fourth owner or more,jaipur, 26kmpl,42.30 bhp
+1369,Bajaj Avenger 220cc 2013,2013,29800 Km,first owner,bangalore, 40 kmpl,19 bhp
+1370,Royal Enfield Thunderbird 350cc 2014,2014,49000 Km,second owner,bangalore, 40 kmpl,19.80 bhp
+1371,Royal Enfield Classic 350cc 2017,2017,13000 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+1372,Bajaj Discover 110cc 2019,2019,40000 Km,first owner,chittorgarh, ,8.60 bhp
+1373,Bajaj Pulsar 180cc 2019,2019,15000 Km,first owner,delhi, 65 kmpl,17 bhp
+1374,Hero Splendor Plus Black and Accent Edition 2021,2021,12500 Km,first owner,hardoi, 55 kmpl,7.91 bhp
+1375,Suzuki Gixxer SF Fi 150cc 2018,2018,5500 Km,first owner,bangalore, 40 kmpl,14.60 bhp
+1376,Honda CB Unicorn 160 CBS 2016,2016,Mileage 52 Kmpl,second owner,kamareddy, 52 Kmpl,13.82 Bhp
+1377,Royal Enfield Interceptor 650cc 2019,2019,19000 Km,first owner,chengannur, ,47 bhp
+1378,Bajaj Pulsar 180cc 2019,2019,89000 Km,first owner,jaipur, 65 kmpl,17 bhp
+1379,Yamaha FZ 150cc 2017,2009,Mileage 58 Kmpl,first owner,ahmedabad, 58 Kmpl,13 bhp
+1380,Hero HF Deluxe 100cc 2014,2014,31281 Km,first owner,jaipur, 83 kmpl,7.70 bhp
+1381,Royal Enfield Interceptor 650cc BS6 2020,2020,Mileage 25 Kmpl,first owner,goregaon, 25 Kmpl,47 bhp
+1382,KTM RC 390cc 2019,2019,14000 Km,first owner,gurgaon, 26kmpl,42.30 bhp
+1383,Royal Enfield Electra 350cc 2017,2017,22000 Km,first owner,gurgaon, 25 kmpl,19.80 bhp
+1384,Royal Enfield Classic 350cc Signals Edition 2019,2019,9500 Km,first owner,panipat, 35 kmpl,19.80 bhp
+1385,Bajaj Avenger 220cc 2015,2015,2877 Km,first owner,mumbai, 40 kmpl,19 bhp
+1386,Triumph Thunderbird LT 2015,2015,21000 Km,first owner,coimbatore, 12 kmpl,93 bhp
+1387,Yamaha YZF-R3 320cc 2019,2019,205 Km,first owner,ahmednagar, 22 kmpl,41.40 bhp
+1388,Bajaj Dominar 400 2017,2017,Mileage 28 Kms,first owner,bhatinda, 28 Kms,34.50 bhp
+1389,Bajaj Pulsar 200cc 2011,2010,Mileage 40Kmpl,first owner,panipat, 40Kmpl,16.78 bhp
+1390,Royal Enfield Thunderbird 500cc 2015,2015,2300 Km,first owner,rampur, 25 kmpl,27.20 bhp
+1391,Yamaha YZF-R15 2.0 150cc 2018,2018,7850 Km,first owner,gurgaon, 42 kmpl,16.70 bhp
+1392,TVS Victor 110cc 2017,2017,Mileage 74 Kmpl,first owner,ghaziabad, 74 Kmpl,9.4 bhp
+1393,UM Renegade Sport S 2019,2019,500 Km,first owner,mumbai, 35 kmpl,24.80 bhp
+1394,Royal Enfield Classic 350cc ABS BS6 2021,2021,1035 Km,first owner,kharagpur, 35 kmpl,19.1 bhp
+1395,Yamaha YZF-R15 V3 150cc 2018,2018,10000 Km,first owner,surat, ,18.70 bhp
+1396,Bajaj Discover 125cc 2007,2007,34163 Km,first owner,bangalore, 65 kmpl,12.5 ps
+1397,Bajaj Dominar 400 2017,2017,Mileage 28 Kms,first owner,delhi, 28 Kms,34.50 bhp
+1398,TVS Star Sport 100cc 2010,2010,49730 Km,first owner,faridabad, 95 kmpl,7.40 bhp
+1399,Yamaha Saluto 125cc 2017,2017,Mileage 70 Kmpl,first owner,delhi, 70 Kmpl,6.1 kW (8.3PS)
+1400,Honda CB Hornet 160R CBS 2016,2016,Mileage 52 Kmpl,first owner,delhi, 52 Kmpl,15.44 bhp
+1401,Bajaj Pulsar 180cc 2007,2007,35000 Km,first owner,patna, 65 kmpl,15 bhp
+1402,Bajaj Platina 100cc 2016,2016,Mileage 104 Kmpl,first owner,gurgaon, 104 Kmpl,8.10 bhp
+1403,Bajaj Pulsar 180cc 2018,2018,65000 Km,fourth owner or more,bangalore, 65 kmpl,17 bhp
+1404,Ducati Monster 821 2018,2018,Mileage 13 Kmpl,first owner,bangalore, 13 Kmpl,110.40 bhp
+1405,Bajaj Avenger 220cc 2013,2013,17200 Km,first owner,chennai, 40 kmpl,19 bhp
+1406,Kawasaki Z900 2018,2018,6500 Km,first owner,delhi, 25 kmpl,123.30 bhp
+1407,Bajaj V15 150cc 2018,2018,5187 Km,first owner,delhi, 57 kmpl,11.80 bhp
+1408,Hero Super Splendor 125cc 2019,2019,948 Km,first owner,ernakulam, 75 kmpl,9 bhp
+1409,Kawasaki Ninja 300cc 2019,2019,11500 Km,first owner,bangalore, 25 kmpl,39 bhp
+1410,Bajaj Platina 100cc 2011,2011,Mileage 104 Kmpl,first owner,gurgaon, 104 Kmpl,8.20 bhp
+1411,Yamaha YZF-R15 V3 150CC ABS 2019,2019,5700 Km,first owner,gurgaon, ,18.70 bhp
+1412,KTM Duke 200cc 2017,2017,4500 Km,first owner,kalyan, 35 kmpl,24.60 bhp
+1413,Royal Enfield Continental GT 535cc 2014,2014,23000 Km,first owner,pune, 26 kmpl,29.10 bhp
+1414,Bajaj Pulsar RS200 ABS 2018,2018,Mileage 35 Kmpl,first owner,bangalore, 35 Kmpl,24.50 bhp
+1415,Yamaha YZF-R15 2.0 150cc 2014,2014,40000 Km,first owner,ahmedabad, 42 kmpl,16.70 bhp
+1416,Suzuki Intruder 150cc FI 2018,2018,34000 Km,first owner,surat, ,14.60 bhp
+1417,Royal Enfield Classic 500cc 2010,2010,19500 Km,first owner,delhi, 32 kmpl,27.20 bhp
+1418,Yamaha YZF-R3 320cc 2016,2016,11000 Km,first owner,mumbai, 22 kmpl,41.40 bhp
+1419,Royal Enfield Classic Gunmetal Grey 350cc ABS Alloy BS6 2020,2020,1736 Km,first owner,delhi, 35 kmpl,19.1 bhp
+1420,Yamaha FZs 150cc 2015,2015,25000 Km,first owner,delhi, 45 kmpl,13 bhp
+1421,Honda CB Hornet 160R CBS 2018,2018,Mileage 52 Kmpl,second owner,bhopal, 52 Kmpl,15.44 bhp
+1422,UM Renegade Sport S 2019,2019,668 Km,first owner,delhi, 35 kmpl,24.80 bhp
+1423,Yamaha FZs 150cc 2011,2011,82898 Km,first owner,udaipur, 45 kmpl,13 bhp
+1424,Royal Enfield Thunderbird 350cc ABS 2019,2019,4525 Km,first owner,delhi, 40 kmpl,19.80 bhp
+1425,Honda CBR 250R 2014,2014,Mileage 38 Kmpl,first owner,bellary, 38 Kmpl,26.15 bhp
+1426,Yamaha MT-15 150cc 2019,2019,1500 Km,first owner,delhi, ,19 bhp
+1427,Bajaj Platina 110 H Gear Disc BS6 2020,2020,1600 Km,first owner,mysore, 84 kmpl,8.44 bhp
+1428,Yamaha YZF-R15 2.0 150cc 2015,2015,12500 Km,first owner,kolkata, 42 kmpl,16.70 bhp
+1429,Hyosung Aquila Pro GV650 2016,2016,3200 Km,first owner,delhi, 16 kmpl,74 bhp
+1430,Honda CB Shine 125cc 2011,2011,Mileage 65 Kmpl,first owner,chennai, 65 Kmpl,10 bhp
+1431,Honda CB Shine 125cc 2012,2012,Mileage 65 Kmpl,first owner,kolkata, 65 Kmpl,10 bhp
+1432,Harley-Davidson Street 750 2016,2016,600 Km,first owner,delhi, 20 kmpl,47 bhp
+1433,Royal Enfield Classic 350cc 2016,2016,19500 Km,first owner,ghaziabad, 35 kmpl,19.80 bhp
+1434,Royal Enfield Classic 350cc 2016,2016,11300 Km,first owner,hyderabad, 35 kmpl,19.80 bhp
+1435,Bajaj Avenger Street 150 2015,2015,53000 Km,first owner,thane, 50 kmpl,14.30 bhp
+1436,Hero Karizma ZMR 223cc 2012,2012,53000 Km,first owner,jodhpur, 48 kmpl,20 bhp
+1437,Benelli TNT 300 2017,2017,11700 Km,second owner,mumbai, 25 kmpl,37.73 bhp
+1438,TVS Apache RTR 200 4V ABS Race Edition 2018,2018,Mileage 40 Kmpl,second owner,delhi, 40 Kmpl,20.23 BHP
+1439,Royal Enfield Thunderbird 350cc 2017,2017,10000 Km,first owner,chennai, 40 kmpl,19.80 bhp
+1440,Royal Enfield Thunderbird X 350cc ABS 2019,2019,8000 Km,first owner,mumbai, ,19.80 bhp
+1441,Bajaj Pulsar 150cc 2012,2012,Mileage 65 Kmpl,first owner,pune, 65 Kmpl,14.85 bhp
+1442,Yamaha Fazer 150cc 2011,2011,Mileage 45 Kmpl,first owner,surat, 45 Kmpl,13 bhp
+1443,TVS Apache RTR 160 4V Disc 2018,2018,9385 Km,first owner,faridabad, ,16.10 bhp
+1444,Hero Passion Xpro Disc 2018,2018,23789 Km,first owner,delhi, 55 kmpl,8 bhp
+1445,Bajaj Pulsar 150cc 2018,2018,Mileage 65 Kmpl,first owner,ludhiana, 65 Kmpl,15 bhp
+1446,Hero Karizma R 223cc 2009,2009,17299 Km,first owner,delhi, 40 kmpl,17 bhp
+1447,Hero HF Deluxe 100cc 2017,2017,20000 Km,first owner,gurgaon, 55 kmpl,6.15kW (8.36 Ps)
+1448,Royal Enfield Classic 350cc 2015,2015,28500 Km,first owner,bangalore, 35 kmpl,19.80 Bhp
+1449,BenelliImperiale 400 BS6 2020,2020,2800 Km,first owner,mumbai, 35 kmpl,20.7 bhp
+1450,TVS Apache RTR 200 4V ABS 2018,2018,Mileage 40 Kmpl,first owner,mumbai, 40 Kmpl,20.23 BHP
+1451,Royal Enfield Classic 350cc ABS 2019,2019,11000 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+1452,Bajaj Discover 125ST 2013,2013,17000 Km,second owner,faridabad, 65 kmpl,12.5 ps
+1453,Honda CBR 250R 2012,2012,Mileage 29 Kmpl,first owner,indore, 29 Kmpl,26.15 bhp
+1454,Royal Enfield Thunderbird 350cc 2004,2004,48000 Km,first owner,bangalore, 30 kmpl,19.80 bhp
+1455,Royal Enfield Classic 350cc ABS BS6 2021,2021,900 Km,first owner,mumbai, 35 kmpl,19.1 bhp
+1456,Royal Enfield Classic 350cc 2015,2015,9000 Km,first owner,delhi, 35 kmpl,19.80 Bhp
+1457,Bajaj Discover 110cc 2018,2018,6415 Km,first owner,bangalore, ,8.60 bhp
+1458,Honda CB Unicorn 150cc 2014,2014,Mileage 60 Kmpl,first owner,delhi, 60 Kmpl,14 bhp
+1459,TVS Apache RTR 200 4V ABS 2018,2018,Mileage 40 Kmpl,first owner,thane, 40 Kmpl,20.23 BHP
+1460,Royal Enfield Classic 350cc 2018,2018,17000 Km,first owner,patna, 35 kmpl,19.80 bhp
+1461,Hero Passion Pro 100cc 2017,2017,15000 Km,first owner,bangalore, 5 kmpl,8.2 Bhp
+1462,Royal Enfield Classic 500cc 2016,2016,10600 Km,first owner,pune, 32 kmpl,27.20 bhp
+1463,Royal Enfield Classic 500cc 2016,2016,16000 Km,first owner,mumbai, 32 kmpl,27.20 bhp
+1464,KTM Duke 390cc 2017,2017,10111 Km,first owner,raipur, 25 kmpl,42.90 bhp
+1465,Bajaj Pulsar RS200 2015,2015,Mileage 35 Kmpl,first owner,bangalore, 35 Kmpl,24.16 bhp
+1466,Honda CBF Stunner 125cc 2012,2012,Mileage 65 Kmpl,first owner,bhiwani, 65 Kmpl,11 Bhp
+1467,Bajaj Pulsar 220F 2010,2010,14800 Km,first owner,margao, 38 kmpl,21 bhp
+1468,Bajaj Dominar 400 ABS 2017,2017,Mileage 28 Kms,first owner,chennai, 28 Kms,34.50 bhp
+1469,TVS Apache RTR 160cc 2016,2016,Mileage 60 Kmpl,first owner,ahmedabad, 60 Kmpl,15.2 bhp
+1470,Yamaha YZF-R15 150cc 2010,2010,20000 Km,third owner,gurgaon, 42 kmpl,16 bhp
+1471,Suzuki Gixxer SF 150cc SP Rear Disc 2017,2017,23833 Km,first owner,delhi, 40 kmpl,14.60 bhp
+1472,Royal Enfield Classic 350cc Signals Edition 2019,2019,20000 Km,first owner,indore, 35 kmpl,19.80 bhp
+1473,TVS Radeon 110cc DISC BS6 2020,2020,15000 Km,first owner,delhi, 63.97 kmpl,8 bhp
+1474,Royal Enfield Thunderbird 350cc 2016,2016,35000 Km,second owner,ahmedabad, 40 kmpl,19.80 bhp
+1475,Bajaj Pulsar 220cc 2008,2008,10000 Km,first owner,mumbai, 38 kmpl,21 bhp
+1476,Honda CB Trigger 150cc 2014,2014,23000 Km,first owner,mumbai, 60 kmpl,14 bhp
+1477,Yamaha FZ16 150cc 2011,2011,Mileage 58 Kmpl,first owner,pune, 58 Kmpl,13 bhp
+1478,Royal Enfield Thunderbird X 350cc 2018,2018,9130 Km,first owner,chennai, ,19.80 bhp
+1479,Honda CB Shine 125cc 2014,2014,Mileage 65 Kmpl,first owner,hyderabad, 65 Kmpl,10 bhp
+1480,Bajaj Pulsar 180cc 2013,2013,82000 Km,first owner,chandigarh,,"15 bhp @ 9,000 rpm"
+1481,Honda CBF Stunner 125cc 2009,2009,Mileage 65 Kmpl,first owner,chennai, 65 Kmpl,11 Bhp
+1482,Hero Splendor Plus 100cc 2013,2013,30000 Km,first owner,pune, 81 kmpl,8.20 bhp
+1483,Royal Enfield Thunderbird X 350cc 2018,2018,9000 Km,first owner,mumbai, ,19.80 bhp
+1484,Hyosung GT250R 2018,2018,4200 Km,first owner,bangalore, 30 kmpl,28 bhp
+1485,Honda CB Unicorn 160 STD 2019,2019,Mileage 52 Kmpl,first owner,mumbai, 52 Kmpl,13.82 Bhp
+1486,Royal Enfield Classic 350cc 2014,2014,19000 Km,first owner,bangalore, 35 kmpl,19.80 Bhp
+1487,Yamaha YZF-R15 V3 150cc 2019,2019,10000 Km,first owner,chennai, ,18.70 bhp
+1488,Bajaj Avenger Street 150 2016,2016,98000 Km,second owner,jaipur, 50 kmpl,14.30 bhp
+1489,Hero Passion Pro 100cc 2012,2012,90000 Km,first owner,chennai, 5 kmpl,8.2 Bhp
+1490,Royal Enfield Classic 350cc 2013,2013,26700 Km,first owner,kanchipuram, 35 kmpl,19.80 Bhp
+1491,KTM Duke 390cc 2016,2016,15500 Km,second owner,jaipur, 25 kmpl,42.90 bhp
+1492,Royal Enfield Classic Stealth Black 500cc 2018,2018,20100 Km,first owner,kolkata, 32 kmpl,27.20 bhp
+1493,Hero Passion Pro 100cc 2013,2013,21000 Km,first owner,bangalore, 5 kmpl,8.2 Bhp
+1494,Royal Enfield Classic Gunmetal Grey 350cc ABS Spoke BS6 2020,2020,3649 Km,first owner,delhi, 35 kmpl,19.1 bhp
+1495,Royal Enfield Interceptor 650cc 2019,2019,8500 Km,first owner,mumbai, ,47 bhp
+1496,Hero Karizma 223cc 2006,2006,40000 Km,first owner,bangalore, 40 kmpl,17 bhp
+1497,TVS Apache RTR 180cc ABS 2017,2017,Mileage 45 Kmpl,second owner,mumbai, 45 Kmpl,17.30 bhp
+1498,Royal Enfield Classic 350cc Signals Edition 2018,2018,46000 Km,first owner,chitradurga, 35 kmpl,19.80 bhp
+1499,Bajaj Pulsar NS200 ABS 2018,2018,Mileage 42 Kmpl,first owner,thane, 42 Kmpl,23.20 bhp
+1500,Bajaj Pulsar 150cc 2013,2013,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,14.85 bhp
+1501,Bajaj Dominar 400 ABS 2017,2017,Mileage 28 Kms,first owner,delhi, 28 Kms,34.50 bhp
+1502,Royal Enfield Bullet 500cc 2018,2018,6850 Km,first owner,rohtak, 25 kmpl,26.10 bhp
+1503,Yamaha YZF-R15 150cc 2017,2017,25000 Km,first owner,surat, 42 kmpl,16 bhp
+1504,Hero Passion XPRO 110 cc 2014,2014,42000 Km,first owner,jaipur, 45-55 kmpl,6.72 KW (9.1 Ps)
+1505,UM Renegade Commando 2017,2017,19300 Km,first owner,hyderabad, 35 kmpl,24.80 bhp
+1506,Bajaj Discover 100M 2014,2014,Mileage 80 Kmpl,first owner,ludhiana, 80 Kmpl,9.10 bhp
+1507,TVS Apache RTR 180cc 2018,2018,Mileage 45 Kmpl,first owner,sonipat, 45 Kmpl,17.30 bhp
+1508,Royal Enfield Thunderbird 350cc 2015,2015,24000 Km,first owner,bangalore,,"19.80 bhp @ 5,250 rpm"
+1509,Bajaj Discover 125cc 2016,2016,15000 Km,first owner,pratapgarh, 65 kmpl,12.5 ps
+1510,Yamaha YZF-R15 150cc 2009,2009,29570 Km,third owner,bangalore, 42 kmpl,16 bhp
+1511,Hero Passion Pro 100cc 2016,2016,45000 Km,first owner,hyderabad, 5 kmpl,8.2 Bhp
+1512,Bajaj Pulsar 150cc 2019,2019,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,15 bhp
+1513,Bajaj Avenger Street 220 2015,2015,20300 Km,first owner,lucknow, 53 kmpl,19 bhp
+1514,Bajaj Pulsar RS200 ABS 2016,2016,Mileage 35 Kmpl,first owner,mumbai, 35 Kmpl,24.50 bhp
+1515,Suzuki Gixxer SF 150cc ABS BS6 2020,2020,6000 Km,first owner,mumbai, 40 kmpl,14.60 bhp
+1516,Yamaha FZs 150cc 2012,2012,47500 Km,first owner,bangalore, 45 kmpl,13 bhp
+1517,Bajaj Avenger Cruise 220 2017,2017,17000 Km,first owner,hyderabad, 35 kmpl,19 bhp
+1518,Honda CB Shine 125cc 2014,2014,Mileage 65 Kmpl,first owner,ahmedabad, 65 Kmpl,10 bhp
+1519,Honda CB Trigger 150cc 2014,2014,60000 Km,third owner,gurgaon, 60 kmpl,14 bhp
+1520,Bajaj Pulsar 135LS 2013,2013,110000 Km,first owner,pune, 64 kmpl,13 bhp
+1521,Ducati Panigale 959 2019,2019,1300 Km,first owner,delhi, 17 kmpl,154.85 bhp
+1522,Yamaha YZF-R15 V3 150cc 2018,2018,10000 Km,first owner,delhi, ,18.70 bhp
+1523,TVS Apache RTR 200 4V FI 2017,2017,Mileage 40 Kmpl,second owner,delhi, 40 Kmpl,20.70 bhp
+1524,Royal Enfield Standard 350cc 2019,2019,Mileage 30 Kmpl,first owner,delhi, 30 Kmpl,18 bhp
+1525,Bajaj V15 150cc 2016,2016,74500 Km,first owner,, 57 kmpl,11.80 bhp
+1526,Yamaha YZF-R15 2.0 150cc 2011,2011,18550 Km,first owner,delhi, 42 kmpl,16.70 bhp
+1527,TVS Star Sport 100cc 2010,2010,50000 Km,first owner,kanpur nagar, 95 kmpl,7.40 bhp
+1528,Hero Passion Pro 100cc Drum Alloy 2018,2018,18000 Km,first owner,ahmedabad, 5 kmpl,8.2 Bhp
+1529,KTM Duke 390cc 2018,2018,1350 Km,first owner,jaipur, 25 kmpl,42.90 bhp
+1530,Hyosung Aquila GV250 2014,2014,10120 Km,first owner,bangalore, 27 kmpl,26.21 bhp
+1531,Royal Enfield Continental GT 650cc 2019,2019,11000 Km,first owner,navi mumbai, ,47 bhp
+1532,Honda CB Hornet 160R  ABS STD 2019,2019,Mileage 52 Kmpl,first owner,thane, 52 Kmpl,15.44 bhp
+1533,Yamaha YZF-R15 150cc 2019,2019,14500 Km,first owner,adilabad, 42 kmpl,16 bhp
+1534,Royal Enfield Classic 350cc 2015,2015,13000 Km,first owner,delhi, 35 kmpl,19.80 Bhp
+1535,Bajaj Pulsar 180cc 2012,2012,51000 Km,first owner,moga, 45 kmpl,17 bhp
+1536,Royal Enfield Thunderbird 350cc 2017,2017,32000 Km,first owner,bardhaman, 40 kmpl,19.80 bhp
+1537,Bajaj Pulsar RS200 ABS 2016,2016,Mileage 35 Kmpl,first owner,ahmednagar, 35 Kmpl,24.50 bhp
+1538,Royal Enfield Thunderbird 350cc 2012,2012,85000 Km,first owner,chennai, 40 kmpl,19.80 bhp
+1539,Royal Enfield Classic 350cc 2018,2018,9100 Km,first owner,delhi, 35 kmpl,19.80 bhp
+1540,Bajaj Discover 100cc 2011,2011,Mileage 80 Kmpl,first owner,mumbai, 80 Kmpl,7.7
+1541,Yamaha FZs 150cc 2016,2016,32000 Km,first owner,delhi, 45 kmpl,13 bhp
+1542,Bajaj Platina 100cc 2012,2012,Mileage 104 Kmpl,first owner,chennai, 104 Kmpl,8.20 bhp
+1543,UM Renegade Commando Classic 2018,2018,7500 Km,first owner,ahmedabad, 35 kmpl,25 bhp
+1544,Yamaha FZ 150cc 2014,2014,Mileage 58 Kmpl,second owner,bangalore, 58 Kmpl,13 bhp
+1545,Hero Splendor Plus 100cc 2010,2010,23000 Km,first owner,delhi, 81 kmpl,8.20 bhp
+1546,TVS Apache RTR 180cc ABS 2015,2015,Mileage 45 Kmpl,first owner,delhi, 45 Kmpl,17.2 bhp
+1547,Yamaha FZ 150cc 2012,2012,Mileage 58 Kmpl,first owner,ahmedabad, 58 Kmpl,13 bhp
+1548,Jawa Perak 330cc 2020,2020,2000 Km,first owner,gurgaon, ,30 bhp
+1549,KTM Duke 250cc 2017,2017,20000 Km,first owner,bangalore, ,29.60 bhp
+1550,Bajaj Pulsar 150cc 2008,2008,Mileage 65 Kmpl,second owner,hyderabad, 65 Kmpl,14.85 bhp
+1551,Hero Passion 100cc  2005,2005,38000 Km,first owner,vadodara, 55 kmpl,7.5 Bhp
+1552,Bajaj Pulsar 220F 2016,2016,23000 Km,first owner,sibsagar, 38 kmpl,21 bhp
+1553,Bajaj Pulsar 150cc 2013,2013,Mileage 65 Kmpl,first owner,jaipur, 65 Kmpl,14.85 bhp
+1554,Bajaj CT 100 100cc 2016,2016,32604 Km,first owner,bangalore, 89 kmpl,8.10 bhp
+1555,Suzuki Hayate 110cc 2014,2014,24943 Km,first owner,, 69 kmpl,8.3 bhp
+1556,Honda CB Unicorn 150cc 2007,2007,Mileage 60 Kmpl,first owner,bahadurgarh, 60 Kmpl,14 bhp
+1557,Bajaj Avenger Street 150 2018,2018,32000 Km,first owner,bhiwani, 45 kmpl,14.30 bhp
+1558,Bajaj Pulsar 150cc 2016,2016,Mileage 65 Kmpl,first owner,bangalore, 65 Kmpl,15 bhp
+1559,Bajaj V15 150cc 2016,2016,35600 Km,first owner,kolkata, 57 kmpl,11.80 bhp
+1560,Bajaj Discover 125cc Disc 2018,2018,23000 Km,first owner,pune, 65 kmpl,10.90 bhp
+1561,Bajaj Platina 100cc 2010,2010,Mileage 104 Kmpl,first owner,delhi, 104 Kmpl,8.20 bhp
+1562,UM Renegade Commando 2018,2018,1788 Km,first owner,jaipur, 35 kmpl,24.80 bhp
+1563,Royal Enfield Classic Gunmetal Grey 350cc 2018,2018,7000 Km,first owner,dibrugarh, 35 kmpl,19.80 bhp
+1564,Bajaj Dominar 250 BS6 2020,2020,3000 Km,first owner,mumbai, ,26.63 bhp
+1565,Bajaj Discover 125cc 2004,2004,99890 Km,first owner,alipore, 65 kmpl,12.5 ps
+1566,Bajaj Pulsar 150cc 2009,2009,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,14.85 bhp
+1567,Kawasaki Ninja 650cc 2016,2016,26500 Km,first owner,mumbai, 21 kmpl,67.20 bhp
+1568,Suzuki Intruder 150cc 2018,2018,2809 Km,first owner,delhi, ,14.60 bhp
+1569,Yamaha YZF-R15 V3 150cc 2018,2018,10000 Km,first owner,chandigarh, ,18.70 bhp
+1570,Bajaj Pulsar 150cc 2008,2008,Mileage 65 Kmpl,first owner,ranga reddy, 65 Kmpl,14.85 bhp
+1571,Bajaj Pulsar 150cc 2008,2008,Mileage 65 Kmpl,second owner,kanchipuram, 65 Kmpl,14.85 bhp
+1572,Royal Enfield Classic 500cc 2015,2015,8866 Km,first owner,jalandhar, 32 kmpl,27.20 bhp
+1573,Yamaha FZ16 150cc 2012,2012,Mileage 58 Kmpl,first owner,bangalore, 58 Kmpl,13 bhp
+1574,UM Renegade Commando 2017,2017,6200 Km,first owner,jaipur, 35 kmpl,24.80 bhp
+1575,Royal Enfield Thunderbird 350cc 2003,2003,68000 Km,third owner,bangalore, 30 kmpl,19.80 bhp
+1576,TVS Apache RTR 160 4V DISC ABS 2019,2019,3000 Km,first owner,delhi, ,16.1 bhp
+1577,Royal Enfield Classic 350cc 2017,2017,20500 Km,second owner,delhi, 35 kmpl,19.80 bhp
+1578,Aprilia RSV4 R APRC 1000cc 2014,2014,15000 Km,first owner,kanchipuram, 12 kmpl,181.44 bhp
+1579,Bajaj Pulsar 150cc 2014,2014,Mileage 65 Kmpl,first owner,noida, 65 Kmpl,14.85 bhp
+1580,Bajaj Pulsar 150cc 2013,2013,Mileage 65 Kmpl,first owner,jaipur, 65 Kmpl,14.85 bhp
+1581,Bajaj Pulsar 150cc 2014,2014,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,14.85 bhp
+1582,Yamaha YZF-R15 2.0 150cc 2013,2013,49000 Km,first owner,bangalore, 42 kmpl,16.70 bhp
+1583,UM Renegade Commando 2017,2017,9000 Km,first owner,madurai, 35 kmpl,24.80 bhp
+1584,Royal Enfield Thunderbird 350cc 2015,2015,22749 Km,first owner,faridabad, 40 kmpl,19.80 bhp
+1585,KTM Duke 200cc 2014,2014,29000 Km,second owner,chennai, 35 kmpl,25 bhp
+1586,Yamaha YZF-R15 2.0 150cc 2013,2013,31000 Km,first owner,hubli, 42 kmpl,16.70 bhp
+1587,Hero Karizma R 223cc 2014,2014,38000 Km,first owner,hyderabad, 40 kmpl,17 bhp
+1588,Hero Splendor Plus i3s 2018,2018,16000 Km,first owner,delhi, 81 kmpl,8.20 bhp
+1589,Bajaj Pulsar NS200 2017,2017,Mileage 42 Kmpl,third owner,jaipur, 42 Kmpl,23.20 bhp
+1590,Jawa Forty Two 295CC Dual ABS BS6 2020,2020,5500 Km,first owner,mohali, Liquid Cooled,27 bhp
+1591,Bajaj Discover 150cc 2011,2011,Mileage 70 Kmpl,first owner,jaipur, 70 Kmpl,13.0 PS
+1592,Jawa Standard 295CC 2020,2020,1003 Km,first owner,hyderabad, Liquid Cooled,27 bhp
+1593,Suzuki Hayate 110cc 2012,2012,69600 Km,first owner,delhi, 69 kmpl,8.3 bhp
+1594,Bajaj Pulsar 150cc 2010,2010,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,14.85 bhp
+1595,Yamaha YZF-R15 2.0 150cc 2014,2014,29000 Km,second owner,pune, 42 kmpl,16.70 bhp
+1596,Bajaj Pulsar NS160 2018,2018,14500 Km,first owner,indore, ,15.5 PS
+1597,KTM Duke 200cc 2016,2016,10000 Km,second owner,delhi, 35 kmpl,24.60 bhp
+1598,Mahindra Centuro 110cc 2014,2014,40900 Km,first owner,patna,  60 kmpl,8.5 Bhp
+1599,TVS Apache RTR 160 4V Carburetor With Rear Disc 2019,2019,15490 Km,first owner,pune, ,16.10 bhp
+1600,UM Renegade Commando 2018,2018,10000 Km,first owner,noida, 35 kmpl,24.80 bhp
+1601,Royal Enfield Classic 350cc 2017,2017,9000 Km,first owner,lucknow, 35 kmpl,19.80 bhp
+1602,Royal Enfield Thunderbird 350cc 2015,2015,40000 Km,first owner,kanpur, 40 kmpl,19.80 bhp
+1603,Royal Enfield Classic 350cc 2019,2019,5000 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+1604,KTM RC 200cc 2015,2015,17000 Km,first owner,delhi, 35 kmpl,25 bhp
+1605,Yamaha Fazer 150cc 2012,2012,Mileage 45 Kmpl,first owner,bangalore, 45 Kmpl,13 bhp
+1606,Royal Enfield Himalayan 410cc 2018,2018,9600 Km,first owner,mumbai, 32 kmpl,24.50 bhp
+1607,Royal Enfield Thunderbird 350cc 2017,2017,10400 Km,first owner,bangalore, 40 kmpl,19.80 bhp
+1608,Bajaj Pulsar RS200 2015,2015,Mileage 35 Kmpl,first owner,patna, 35 Kmpl,24.16 bhp
+1609,Bajaj Dominar 400 ABS 2018,2018,Mileage 28 Kms,first owner,mumbai, 28 Kms,34.50 bhp
+1610,Royal Enfield Classic 350 S ABS 2019,2019,12000 Km,first owner,delhi, 35 kmpl,19.80 bhp
+1611,Bajaj Pulsar RS200 ABS 2015,2015,Mileage 35 Kmpl,first owner,thane, 35 Kmpl,24.16 bhp
+1612,Harley-Davidson Iron 883 2015,2015,2500 Km,first owner,mumbai, 20 kmpl,50 bhp
+1613,Royal Enfield Himalayan 410cc 2017,2017,19829 Km,first owner,noida, 32 kmpl,24.50 bhp
+1614,TVS Apache RTR 160 4V DRUM ABS 2019,2019,7500 Km,second owner,patna, ,16.1 bhp
+1615,Bajaj Pulsar NS200 2013,2013,Mileage 35 Kmpl,second owner,howrah, 35 Kmpl,23.19 bhp
+1616,KTM Duke 200cc 2014,2014,30000 Km,second owner,hyderabad, 35 kmpl,25 bhp
+1617,Bajaj Pulsar 220F 2013,2013,50000 Km,second owner,kochi, 38 kmpl,21 bhp
+1618,TVS Apache RTR 200 4V Carburetor 2017,2017,Mileage 40 Kmpl,first owner,pune, 40 Kmpl,20.70 bhp
+1619,Mahindra Centuro 110cc 2015,2015,24000 Km,first owner,vadodara,  60 kmpl,8.5 Bhp
+1620,Bajaj Pulsar RS200 2016,2016,Mileage 35 Kmpl,first owner,delhi, 35 Kmpl,24.50 bhp
+1621,KTM RC 200cc 2015,2015,15000 Km,first owner,bangalore, 35 kmpl,25 bhp
+1622,Bajaj Discover 125cc 2013,2013,43840 Km,first owner,kanyakumari, 65 kmpl,12.5 ps
+1623,TVS Apache RTR 200 4V Carburetor 2017,2017,Mileage 40 Kmpl,first owner,chennai, 40 Kmpl,20.70 bhp
+1624,Suzuki Gixxer 150cc 2018,2018,10815 Km,first owner,pune, 63kmpl,14 bhp
+1625,Hero Karizma ZMR 223cc 2016,2016,17000 Km,first owner,faridabad, 48 kmpl,20 bhp
+1626,UM Renegade Commando Mojave 2018,2018,13000 Km,first owner,hyderabad, 35 kmpl,24.80 bhp
+1627,KTM Duke 200cc 2019,2019,27900 Km,first owner,bhubaneshwar, 35 kmpl,24.60 bhp
+1628,Bajaj Pulsar 180cc 2017,2017,3500 Km,first owner,gurgaon, 65 kmpl,17 bhp
+1629,Hero Glamour 125cc 2010,2010,39778 Km,first owner,chennai, 55 kmpl,8.90 bhp
+1630,Bajaj Platina 100cc 2015,2015,Mileage 104 Kmpl,first owner,chandigarh, 104 Kmpl,8.20 bhp
+1631,TVS Apache RTR 160cc 2014,2014,Mileage 60 Kmpl,first owner,chennai, 60 Kmpl,15.2 bhp
+1632,Bajaj Pulsar 200 NS 200cc 2014,2014,12700 Km,first owner,valsad, 40 kmpl,24.2 BHP
+1633,Bajaj Avenger 220cc 2017,2017,3100 Km,first owner,virar, 40 kmpl,19 bhp
+1634,Royal Enfield Classic 350cc 2013,2013,14000 Km,second owner,mohali, 35 kmpl,19.80 Bhp
+1635,Yamaha FZS-FI V 3.0 150cc ABS BS6 2020,2020,9600 Km,first owner,noida, 58 kmpl,12.2 bhp
+1636,Bajaj Dominar 400 2019,2019,Mileage 28 Kms,first owner,bangalore, 28 Kms,34.50 bhp
+1637,Bajaj Pulsar 180cc 2014,2014,9300 Km,third owner,pune, 45 kmpl,17 bhp
+1638,KTM Duke 200cc 2019,2019,4900 Km,first owner,gaya, 35 kmpl,24.60 bhp
+1639,Royal Enfield Classic 350cc ABS 2019,2019,6500 Km,first owner,chandigarh, 35 kmpl,19.80 bhp
+1640,UM Renegade Sport S 2017,2017,8500 Km,first owner,faridabad, 35 kmpl,24.80 bhp
+1641,Royal Enfield Classic 350cc 2014,2014,21000 Km,first owner,gurgaon, 35 kmpl,19.80 Bhp
+1642,Honda CB Trigger 150cc 2013,2013,Mileage 60 Kmpl,first owner,chennai, 60 Kmpl,14 bhp
+1643,Bajaj CT 100 Spoke 2016,2016,28800 Km,first owner,bangalore, 67 kmpl,8.10 bhp
+1644,Bajaj Avenger Street 150 2017,2017,30971 Km,first owner,mumbai, 45 kmpl,14.30 bhp
+1645,Bajaj Pulsar NS160 2018,2018,11000 Km,second owner,delhi, ,15.5 PS
+1646,Bajaj Dominar 400 ABS 2017,2017,Mileage 28 Kms,first owner,bangalore, 28 Kms,34.50 bhp
+1647,Hero Hunk 150cc 2007,2007,57000 Km,first owner,ghaziabad, 53kmpl,14 bhp
+1648,Bajaj Avenger Street 220 2016,2016,18600 Km,first owner,meerut, 53 kmpl,19 bhp
+1649,Royal Enfield Classic 350cc 2017,2017,24000 Km,first owner,bikaner, 35 kmpl,19.80 bhp
+1650,Hero CD Deluxe 100cc 2012,2012,59000 Km,first owner,gorakhpur, 65 kmpl,7.70 bhp
+1651,Royal Enfield Classic 350cc-Redditch Edition 2017,2017,10000 Km,first owner,rohtak, 35 kmpl,19.80 bhp
+1652,KTM RC 390cc 2016,2016,20000 Km,second owner,mumbai, 26kmpl,42.30 bhp
+1653,Yamaha FZ S V 2.0 150cc 2015,2015,Mileage 58 Kmpl,first owner,pune, 58 Kmpl,13 bhp
+1654,KTM RC 200cc 2015,2015,56000 Km,first owner,hyderabad, 35 kmpl,25 bhp
+1655,TVS Apache RTR 200 4V Carburetor 2017,2017,Mileage 40 Kmpl,first owner,mumbai, 40 Kmpl,20.70 bhp
+1656,TVS Star City 110cc 2009,2009,39888 Km,first owner,chennai, 85 kmpl,8.2 bhp
+1657,Royal Enfield Classic 350cc 2016,2016,13000 Km,first owner,delhi, 35 kmpl,19.80 bhp
+1658,Hero Splendor iSmart 110cc 2016,2016,24000 Km,second owner,delhi, 55 kmpl,9.30 bhp
+1659,Bajaj Discover 125cc 2017,2017,22000 Km,first owner,jaipur, 65 kmpl,12.5 ps
+1660,Honda Dream Neo 110cc 2013,2013,Mileage 84 Kmpl,first owner,jaipur, 84 Kmpl,8.25 bhp
+1661,Bajaj Avenger Cruise 220 2019,2019,5000 Km,first owner,jaipur, 35 kmpl,19 bhp
+1662,Bajaj Dominar 400 2017,2017,Mileage 28 Kms,first owner,patna, 28 Kms,34.50 bhp
+1663,Honda CB Shine 125cc 2014,2014,Mileage 65 Kmpl,first owner,kolkata, 65 Kmpl,10 bhp
+1664,Hero CBZ Xtreme 150cc 2011,2011,9500 Km,first owner,delhi, 65kmpl,14.4PS
+1665,Bajaj Platina 125cc 2011,2011,Mileage 82 Kmpl,first owner,vadodara, 82 Kmpl,8.20 bhp
+1666,KTM RC 200cc ABS 2020,2020,3843 Km,first owner,bangalore, 35 kmpl,25.10 bhp
+1667,Royal Enfield Classic Desert Storm 500cc 2014,2014,26000 Km,first owner,hyderabad, 32 kmpl,27.20 bhp
+1668,Royal Enfield Classic Gunmetal Grey 350cc ABS Alloy BS6 2020,2020,1387 Km,first owner,kolkata, 35 kmpl,19.1 bhp
+1669,Hero Splendor Plus 100cc 2017,2017,20000 Km,first owner,chalthan, 81 kmpl,8.20 bhp
+1670,Royal Enfield Classic 350cc-Redditch Edition Dual Disc 2018,2018,31000 Km,first owner,indore, 35 kmpl,19.80 bhp
+1671,Hero Splendor iSmart 110cc 2017,2017,16000 Km,first owner,bangalore, 55 kmpl,9.30 bhp
+1672,Bajaj Pulsar 180cc 2015,2015,50000 Km,third owner,muddebihal, 45 kmpl,17 bhp
+1673,Honda CB Unicorn 150cc 2013,2013,Mileage 60 Kmpl,first owner,mumbai, 60 Kmpl,14 bhp
+1674,Bajaj Pulsar 180cc 2013,2013,15000 Km,first owner,delhi, 65 kmpl,15 bhp
+1675,KTM Duke 125cc 2019,2019,12000 Km,first owner,chandigarh, ,14.3 bhp
+1676,Bajaj Platina  Alloy ES-100cc 2019,2019,Mileage 104 Kmpl,first owner,faridabad, 104 Kmpl,8.20 bhp
+1677,Bajaj Pulsar 150cc 2016,2016,Mileage 65 Kmpl,first owner,jaipur, 65 Kmpl,15 bhp
+1678,Bajaj V15 150cc 2016,2016,12315 Km,first owner,faridabad, 57 kmpl,11.80 bhp
+1679,Bajaj Avenger 220cc 2014,2014,23500 Km,second owner,ahmedabad, 40 kmpl,19 bhp
+1680,Bajaj Pulsar RS200 2016,2016,Mileage 35 Kmpl,first owner,ahmedabad, 35 Kmpl,24.50 bhp
+1681,Royal Enfield Classic 350cc 2018,2018,6300 Km,first owner,delhi, 35 kmpl,19.80 bhp
+1682,Royal Enfield Thunderbird 350cc 2018,2018,18000 Km,first owner,chennai, 40 kmpl,19.80 bhp
+1683,Hero Passion Pro 100cc 2016,2016,17465 Km,first owner,bangalore, 5 kmpl,8.2 Bhp
+1684,Hero Splendor iSmart 110cc 2016,2016,16278 Km,first owner,faridabad, 55 kmpl,9.30 bhp
+1685,Harley-Davidson Street 750 2017,2017,6400 Km,first owner,delhi, 20 kmpl,47 bhp
+1686,TVS Apache RTR 160 4V Disc 2018,2018,7000 Km,first owner,delhi, ,16.10 bhp
+1687,Hero Splendor 100cc 2013,2013,30768 Km,first owner,mumbai, 45-60 kmpl,6.15kW (8.36 Ps)
+1688,Royal Enfield Thunderbird 350cc 2014,2014,6742 Km,first owner,chennai, 40 kmpl,19.80 bhp
+1689,Bajaj Pulsar 220cc 2016,2016,15000 Km,first owner,jalgaon, 38 kmpl,21 bhp
+1690,Royal Enfield Classic 350cc 2015,2015,20000 Km,first owner,siliguri, 35 kmpl,19.80 Bhp
+1691,Yamaha YZF-R15 150cc 2011,2011,57000 Km,third owner,jhajjar, 42 kmpl,16 bhp
+1692,Bajaj Pulsar 150cc 2013,2013,Mileage 65 Kmpl,first owner,lucknow, 65 Kmpl,14.85 bhp
+1693,Honda CB Unicorn 150cc 2012,2012,Mileage 60 Kmpl,first owner,gurgaon, 60 Kmpl,14 bhp
+1694,Bajaj Avenger Street 220 2016,2016,40000 Km,first owner,nashik, 53 kmpl,19 bhp
+1695,Royal Enfield Classic Squadron Blue 500cc 2017,2017,2000 Km,first owner,bangalore, 25 kmpl,27.20 bhp
+1696,Royal Enfield Thunderbird 350cc 2014,2014,20000 Km,first owner,mumbai, 40 kmpl,19.80 bhp
+1697,Hero Passion Xpro Disc 2018,2018,16200 Km,first owner,delhi, 55 kmpl,8 bhp
+1698,Yamaha YZF-R15 150cc 2013,2013,2191 Km,first owner,delhi, 42 kmpl,16 bhp
+1699,Honda Livo 110cc 2016,2016,Mileage 55-60 Kmpl,first owner,ludhiana, 55-60 Kmpl,8.25 Bhp
+1700,Hero Xtreme 160R Dual Disc BS6 2020,2020,34000 Km,first owner,jaipur, 55.47 kmpl,15 bhp
+1701,Yamaha YZF-R15 150cc 2012,2012,24000 Km,first owner,chandigarh, 42 kmpl,16 bhp
+1702,Hero Passion Xpro 110cc 2018,2018,5411 Km,first owner,mumbai, 55 kmpl,6.72 KW (9.1 Ps)
+1703,Royal Enfield Bullet 500cc 2018,2018,13000 Km,first owner,rajahmundry, 25 kmpl,26.10 bhp
+1704,Royal Enfield Classic Gunmetal Grey 350cc ABS Spoke BS6 2020,2020,5059 Km,first owner,noida, 35 kmpl,19.1 bhp
+1705,Suzuki Gixxer 150cc Dual Tone Rear Disc 2018,2018,4800 Km,first owner,wardha, 63kmpl,14 bhp
+1706,TVS Apache RTR 160cc Rear Disc 2017,2017,Mileage 60 Kmpl,first owner,lucknow, 60 Kmpl,15.2 bhp
+1707,Yamaha YZF-R15 150cc 2016,2016,18000 Km,first owner,ambala, 42 kmpl,16 bhp
+1708,Honda CBR 250R 2014,2014,Mileage 38 Kmpl,first owner,delhi, 38 Kmpl,26.15 bhp
+1709,Royal Enfield Thunderbird 500cc 2015,2015,45000 Km,first owner,margao, 25 kmpl,27.20 bhp
+1710,Bajaj Discover 150cc 2013,2013,Mileage 70 Kmpl,first owner,bathinda, 70 Kmpl,13.0 PS
+1711,Royal Enfield Thunderbird X 350cc ABS 2019,2019,5000 Km,first owner,meerut, ,19.80 bhp
+1712,Bajaj Discover 100cc 2009,2009,Mileage 80 Kmpl,first owner,delhi, 80 Kmpl,7.7
+1713,Bajaj Pulsar RS200 ABS 2015,2015,Mileage 35 Kmpl,first owner,gurgaon, 35 Kmpl,24.16 bhp
+1714,Bajaj Pulsar 180cc 2009,2009,28000 Km,first owner,pune, 65 kmpl,15 bhp
+1715,Hero Passion Plus 100cc 2007,2007,80000 Km,first owner,sehore, 55 kmpl,7.5 Bhp
+1716,Honda CBR 150R 150cc 2013,2013,51000 Km,second owner,rajkot, 38 kmpl,18.28 bhp
+1717,TVS Apache RTR 160 4V FI 2018,2018,95000 Km,second owner,pali, ,16.10 bhp
+1718,Royal Enfield Interceptor 650cc 2019,2019,4800 Km,first owner,hyderabad, ,47 bhp
+1719,Yamaha FZ S V 2.0 150cc Rear Disc 2018,2018,Mileage 58 Kmpl,first owner,patna, 58 Kmpl,13 bhp
+1720,Kawasaki Ninja 300cc 2015,2015,9400 Km,first owner,thane, 25 kmpl,39 bhp
+1721,Yamaha FZ 150cc 2009,2009,Mileage 58 Kmpl,first owner,kolkata, 58 Kmpl,13 bhp
+1722,Hero Karizma R 223cc 2015,2015,42000 Km,first owner,bangalore, 40 kmpl,17 bhp
+1723,Royal Enfield Bullet 500cc 2017,2017,20000 Km,first owner,angul, 25 kmpl,26.37 PS
+1724,Hero Xtreme 150cc 2016,2016,6000 Km,first owner,chandigarh, 50 kmpl,14.20 bhp
+1725,Yamaha FZ 150cc 2013,2013,Mileage 58 Kmpl,first owner,burdwan, 58 Kmpl,13 bhp
+1726,Royal Enfield Thunderbird 350cc 2017,2017,8900 Km,first owner,mumbai, 40 kmpl,19.80 bhp
+1727,Bajaj  Pulsar 180cc 2009,2009,60000 Km,second owner,delhi, 45 kmpl,17 bhp
+1728,KTM RC 390cc 2018,2018,18000 Km,first owner,delhi, 26kmpl,42.30 bhp
+1729,UM Renegade Commando Classic 2017,2017,7200 Km,first owner,vadodara, 35 kmpl,25 bhp
+1730,Bajaj Pulsar 135LS 2014,2014,10000 Km,first owner,gurgaon, 64 kmpl,13 bhp
+1731,Jawa Forty Two 295CC 2019,2019,3200 Km,first owner,ghaziabad, Liquid Cooled,27 bhp
+1732,Bajaj CT 100 100cc 2001,2001,60000 Km,second owner,manpur, 89 kmpl,8.10 bhp
+1733,Royal Enfield Classic 350cc ABS Stormrider Sand BS6 2020,2020,1900 Km,first owner,bangalore, 35 kmpl,19.1 bhp
+1734,Bajaj Pulsar NS200 2018,2018,Mileage 42 Kmpl,fourth owner or more,delhi, 42 Kmpl,23.20 bhp
+1735,Hero Splendor Plus 100 CC 2014,2014,15632 Km,first owner,chennai, ,
+1736,TVS Apache RTR 160cc 2012,2012,Mileage 60 Kmpl,second owner,rohtak, 60 Kmpl,15.2 bhp
+1737,Bajaj Pulsar 150cc 2005,2005,Mileage 65 Kmpl,second owner,ghaziabad, 65 Kmpl,14.85 bhp
+1738,Bajaj Pulsar NS200 2013,2013,Mileage 35 Kmpl,first owner,delhi, 35 Kmpl,23.19 bhp
+1739,Yamaha FZs 150cc 2012,2012,61200 Km,second owner,zirakpur, 45 kmpl,13 bhp
+1740,Bajaj Avenger Cruise 220 2016,2016,11000 Km,first owner,belgaum, 35 kmpl,19 bhp
+1741,KTM Duke 125cc 2019,2019,25000 Km,first owner,hyderabad, ,14.3 bhp
+1742,Hero Passion Plus 100cc 2005,2005,30000 Km,first owner,delhi, 55 kmpl,7.5 Bhp
+1743,KTM Duke 250cc ABS 2020,2020,5000 Km,first owner,dehradun, ,29.60 bhp
+1744,TVS Apache RTR 200 4V Dual Channel ABS BS6 2020,2020,Mileage 40 Kmpl,first owner,bangalore, 40 Kmpl,20.2 bhp
+1745,Royal Enfield Classic 350cc ABS 2019,2019,11735 Km,first owner,delhi, 35 kmpl,19.80 bhp
+1746,Bajaj Pulsar 125cc Disc BS6 2020,2020,67000 Km,second owner,delhi, 62 kmpl,11.64 bhp
+1747,Yamaha YZF-R15 2.0 150cc 2017,2017,7018 Km,first owner,delhi, 42 kmpl,16.70 bhp
+1748,TVS Radeon 110cc Drum SBT 2019,2019,8632 Km,first owner,delhi, ,8.2 bhp
+1749,TVS Apache RTR 180cc ABS BS6 2021,2021,Mileage 45 Kmpl,first owner,haridwar, 45 Kmpl,16.3 bhp
+1750,KTM Duke 200cc 2012,2012,1600 Km,first owner,mumbai, 35 kmpl,25 bhp
+1751,Bajaj Pulsar 220cc 2016,2016,31651 Km,first owner,faridabad, 38 kmpl,21 bhp
+1752,TVS Apache RTR 200 4V ABS Race Edition 2018,2018,Mileage 40 Kmpl,first owner,mumbai, 40 Kmpl,20.23 BHP
+1753,UM Renegade Commando 2017,2017,5411 Km,second owner,gurgaon, 35 kmpl,24.80 bhp
+1754,Hero Splendor Pro 100cc 2015,2015,30000 Km,first owner,jaipur, 81 kmpl,8.20 bhp
+1755,TVS Apache RTR 200 4V ABS Race Edition 2019,2019,Mileage 40 Kmpl,first owner,delhi, 40 Kmpl,20.23 BHP
+1756,Bajaj Pulsar 150cc 2014,2014,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,14.85 bhp
+1757,Bajaj Pulsar 200 NS 200cc 2014,2014,23000 Km,first owner,lakhimpur kheri, 40 kmpl,24.2 BHP
+1758,Royal Enfield Thunderbird 350cc ABS 2019,2019,7000 Km,first owner,vasai, 40 kmpl,19.80 bhp
+1759,Honda CB Shine 125cc 2015,2015,Mileage 65 Kmpl,first owner,bangalore, 65 Kmpl,10 bhp
+1760,TVS Apache RTR 160 4V FI 2019,2019,95000 Km,second owner,delhi, ,16.10 bhp
+1761,Bajaj  Pulsar 180cc 2011,2011,620010 Km,third owner,kolkata, 45 kmpl,17 bhp
+1762,Bajaj Platina  Alloy ES-100cc 2017,2017,Mileage 104 Kmpl,first owner,faridabad, 104 Kmpl,8.20 bhp
+1763,Bajaj Pulsar 150cc 2015,2015,Mileage 65 Kmpl,second owner,sonipat, 65 Kmpl,14.85 bhp
+1764,KTM Duke 125cc 2018,2018,11000 Km,first owner,mumbai, ,14.3 bhp
+1765,Hero HF Deluxe 100cc 2014,2014,38000 Km,first owner,hyderabad, 83 kmpl,7.70 bhp
+1766,Bajaj Pulsar 220F 2011,2011,50000 Km,first owner,mumbai, 38 kmpl,21 bhp
+1767,Yamaha FZs 150cc 2014,2014,65000 Km,first owner,nadiad, 45 kmpl,13 bhp
+1768,Bajaj Pulsar RS200 ABS 2015,2015,Mileage 35 Kmpl,first owner,gurgaon, 35 Kmpl,24.16 bhp
+1769,Royal Enfield Thunderbird X 350cc ABS 2019,2019,8748 Km,first owner,mumbai, ,19.80 bhp
+1770,Bajaj Pulsar 180cc 2018,2018,30000 Km,first owner,delhi, 65 kmpl,17 bhp
+1771,Bajaj Dominar 400 ABS 2017,2017,Mileage 28 Kms,first owner,mumbai, 28 Kms,34.50 bhp
+1772,Royal Enfield Thunderbird 350cc 2009,2009,24900 Km,first owner,gurgaon, 35 kmpl,19.80 bhp
+1773,Royal Enfield Thunderbird 350cc 2018,2018,29000 Km,first owner,pune, 40 kmpl,19.80 bhp
+1774,Yamaha FZ25 ABS 250cc 2019,2019,3900 Km,first owner,chennai, 43 kmpl,20.30 bhp
+1775,Suzuki Intruder 150cc 2018,2018,2500 Km,first owner,deoria, ,14.60 bhp
+1776,Hero Passion Pro i3S Disc 100cc 2017,2017,20050 Km,first owner,delhi, 84 kmpl,8.20 bhp
+1777,Royal Enfield Classic 350cc 2017,2017,12000 Km,first owner,rajkot, 35 kmpl,19.80 bhp
+1778,Bajaj Pulsar 220F 2018,2018,32000 Km,first owner,raipur, 38 kmpl,21 bhp
+1779,Bajaj Discover 135cc 2007,2007,58000 Km,first owner,ghaziabad, 65 kmpl,9.64 kw
+1780,Bajaj Discover 135cc 2008,2008,21985 Km,first owner,delhi, ,9.64 kw
+1781,Hero Glamour i3s 125cc BS6 2020,2020,9500 Km,first owner,kolkata, 55 kmpl,10.72 bhp
+1782,Hero Splendor Pro 100cc 2012,2012,25000 Km,second owner,tirunelveli, 81 kmpl,8.20 bhp
+1783,Honda CB ShineSP 125cc 2016,2016,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,10 bhp
+1784,Kawasaki Ninja 1000 2018,2018,9500 Km,second owner,delhi, 15 kmpl,140 bhp
+1785,Royal Enfield Thunderbird 350cc 2011,2011,15000 Km,first owner,delhi, 35 kmpl,19.80 bhp
+1786,Bajaj Pulsar 180cc ABS 2019,2019,20000 Km,first owner,varanasi, 65 kmpl,17 bhp
+1787,Hyosung GT250R 2012,2012,21000 Km,first owner,nashik, 30 kmpl,28 bhp
+1788,TVS Victor 110cc 2018,2018,Mileage 74 Kmpl,first owner,delhi, 74 Kmpl,9.4 bhp
+1789,Yamaha YZF-R15 V3 150CC ABS 2019,2019,5500 Km,first owner,delhi, ,18.70 bhp
+1790,Yamaha Gladiator 125cc 2009,2009,22000 Km,first owner,bhopal, 64 kmpl,10.8ps
+1791,UM Renegade Commando 2017,2017,1500 Km,first owner,delhi, 35 kmpl,24.80 bhp
+1792,Royal Enfield Classic 350cc 2016,2016,13000 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+1793,Bajaj Pulsar 200cc 2012,2012,Mileage 42 Kmpl,first owner,mumbai, 42 Kmpl,23.17 bhp
+1794,Bajaj Avenger Street 220 2015,2015,42000 Km,first owner,howrah, 53 kmpl,19 bhp
+1795,Bajaj Pulsar 180cc 2017,2017,36000 Km,first owner,delhi, 65 kmpl,17 bhp
+1796,Yamaha FZs 150cc 2013,2013,37000 Km,second owner,chennai, 45 kmpl,13 bhp
+1797,Bajaj Avenger 220cc 2016,2016,25000 Km,second owner,visakhapatnam, 40 kmpl,19 bhp
+1798,Bajaj CT110 KS Alloy 2019,2019,6555 Km,first owner,mumbai, ,8.6 bhp
+1799,Royal Enfield Himalayan 410cc 2016,2016,1500 Km,first owner,lucknow, 32 kmpl,24.50 bhp
+1800,TVS Apache RTR 160cc 2015,2015,Mileage 60 Kmpl,first owner,mumbai, 60 Kmpl,15.2 bhp
+1801,Yamaha FZ-FI V 3.0 150cc 2019,2019,6000 Km,first owner,bangalore, ,13 bhp
+1802,Royal Enfield Classic 350cc 2014,2014,38000 Km,first owner,jaipur, 35 kmpl,19.80 Bhp
+1803,Bajaj Avenger 220cc 2014,2014,23500 Km,first owner,pune, 40 kmpl,19 bhp
+1804,Honda CB Shine 125cc Disc 2018,2018,Mileage 65 Kmpl,first owner,bangalore, 65 Kmpl,10 bhp
+1805,Royal Enfield Thunderbird 350cc 2017,2017,14500 Km,first owner,chennai, 40 kmpl,19.80 bhp
+1806,Hero Passion Pro 100cc 2013,2013,35000 Km,first owner,delhi, 5 kmpl,8.2 Bhp
+1807,Royal Enfield Classic Chrome 500cc 2012,2012,24800 Km,first owner,malappuram, 32 kmpl,27.20 bhp
+1808,KTM RC 200cc 2018,2018,15000 Km,first owner,mumbai, 35 kmpl,25.10 bhp
+1809,Suzuki Gixxer SF 150cc 2015,2015,70000 Km,first owner,jaipur, 40 kmpl,14.60 bhp
+1810,Royal Enfield Classic 350cc 2013,2013,46031 Km,first owner,jind, 35 kmpl,19.80 Bhp
+1811,Royal Enfield Interceptor 650cc 2018,2018,11000 Km,first owner,thane, ,47 bhp
+1812,Bajaj Avenger Street 150 2016,2016,9430 Km,first owner,faridabad, 50 kmpl,14.30 bhp
+1813,Yamaha YZF-R15 S 150cc 2018,2018,60000 Km,first owner,delhi, 42 kmpl,16 bhp
+1814,Honda X-Blade 160cc 2019,2019,17700 Km,first owner,bangalore, ,13.93 bhp
+1815,Hero Honda Splendor 100cc 2011,2011,18895 Km,first owner,kolkata, 45-60 kmpl,6.15kW (8.36 Ps)
+1816,Royal Enfield Bullet 500cc 2017,2017,17600 Km,first owner,ahmedabad, 25 kmpl,26.37 PS
+1817,Husqvarna Svartpilen 250 2021,2021,2700 Km,first owner,mumbai, 31.85 kmpl,29.63 bhp
+1818,TVS Apache RTR 160cc 2020,2020,Mileage 60 Kmpl,first owner,delhi, 60 Kmpl,15.2 bhp
+1819,TVS Apache 150cc 2012,2012,Mileage 45 Kmpl,second owner,chandigarh, 45 Kmpl,13.7 Bhp
+1820,Bajaj Pulsar 150cc 2010,2010,Mileage 65 Kmpl,second owner,gorakhpur, 65 Kmpl,14.85 bhp
+1821,Bajaj Pulsar 150cc 2016,2016,Mileage 65 Kmpl,first owner,bangalore, 65 Kmpl,15 bhp
+1822,Bajaj Dominar 400 ABS 2018,2018,Mileage 28 Kms,first owner,mumbai, 28 Kms,34.50 bhp
+1823,KTM RC 200cc ABS BS6 2021,2021,5700 Km,first owner,mumbai, 35 kmpl,24.6 bhp
+1824,Bajaj Pulsar 220cc 2015,2015,52000 Km,second owner,rewa, 38 kmpl,21 bhp
+1825,Bajaj Platina 110 H Gear Disc 2019,2019,10000 Km,first owner,chennai, ,8.6 PS
+1826,Royal Enfield Bullet 350cc ES EFI BS6 2020,2020,Mileage 37 Kmpl,first owner,delhi, 37 Kmpl,19.80 bhp
+1827,Yamaha FZ S V 2.0 150cc 2016,2016,Mileage 58 Kmpl,first owner,faridabad, 58 Kmpl,13 bhp
+1828,TVS Apache RTR 160cc 2016,2016,Mileage 60 Kmpl,first owner,mumbai, 60 Kmpl,15.2 bhp
+1829,Royal Enfield Classic 500cc 2014,2014,10000 Km,first owner,24 pargana, 32 kmpl,27.20 bhp
+1830,Suzuki Gixxer 150cc ABS 2017,2019,7000 Km,first owner,mumbai, 63kmpl,14 bhp
+1831,Honda CB Unicorn 160 STD 2015,2015,Mileage 52 Kmpl,first owner,bangalore, 52 Kmpl,13.82 Bhp
+1832,Bajaj Discover 100cc  2012,2012,Mileage 80 Kmpl,first owner,ludhiana, 80 Kmpl,7.7
+1833,KTM Duke 125cc 2019,2019,21950 Km,first owner,pune, ,14.3 bhp
+1834,Royal Enfield Thunderbird 350cc 2017,2017,9000 Km,first owner,bangalore, 40 kmpl,19.80 bhp
+1835,Royal Enfield Classic 500cc 2018,2018,11820 Km,first owner,bangalore, 35 kmpl,27.20 bhp
+1836,KTM RC 200cc ABS 2019,2019,95000 Km,fourth owner or more,bangalore, 35 kmpl,25.10 bhp
+1837,Royal Enfield Thunderbird 350cc 2015,2015,32000 Km,second owner,chennai, 40 kmpl,19.80 bhp
+1838,Royal Enfield‎ Bullet 350cc 2014,2014,5000 Km,first owner,delhi, 37 kmpl,19.80 bhp
+1839,TVS Apache RTR 200 4V Carburetor 2017,2017,Mileage 40 Kmpl,second owner,bangalore, 40 Kmpl,20.70 bhp
+1840,Bajaj Pulsar 150cc 2012,2012,Mileage 65 Kmpl,first owner,chennai, 65 Kmpl,14.85 bhp
+1841,Bajaj Pulsar 150cc 2017,2017,Mileage 65 Kmpl,first owner,delhi, 65 Kmpl,15 bhp
+1842,Bajaj Discover 125cc 2012,2012,34000 Km,first owner,mumbai, 65 kmpl,12.5 ps
+1843,Bajaj Pulsar 220cc 2016,2016,310000 Km,first owner,mumbai, 38 kmpl,21 bhp
+1844,Hyosung GT650R 2013,2013,210 Km,first owner,anekal, 20 kmpl,72.68 bhp
+1845,Bajaj Dominar 400 ABS 2019,2019,Mileage 28 Kms,first owner,hazaribagh, 28 Kms,34.50 bhp
+1846,Royal Enfield Classic 350cc 2018,2018,16000 Km,second owner,noida, 35 kmpl,19.80 bhp
+1847,Royal Enfield Classic 500cc 2018,2018,2800 Km,first owner,mumbai, 35 kmpl,27.20 bhp
+1848,Kawasaki Ninja 1000 2019,2019,5929 Km,first owner,ranchi, 15 kmpl,140 bhp
+1849,Bajaj Pulsar AS200 2015,2015,Mileage 42 Kmpl,second owner,delhi, 42 Kmpl,23.20 bhp
+1850,Bajaj Pulsar 150cc 2018,2018,Mileage 65 Kmpl,first owner,mumbai, 65 Kmpl,15 bhp
+1851,Royal Enfield Classic 500cc 2016,2016,7000 Km,first owner,mumbai, 32 kmpl,27.20 bhp
+1852,Royal Enfield Bullet 350cc KS EFI Black BS6 2020,2020,Mileage 37 Kmpl,first owner,ahmedabad, 37 Kmpl,19.80 bhp
+1853,Yamaha FZ25 250cc 2017,2017,25000 Km,first owner,mumbai, 43 kmpl,20.30 bhp
+1854,KTM RC 200cc 2016,2016,13000 Km,first owner,thane, 35 kmpl,25.10 bhp
+1855,Hero Achiever Disc 150cc 2019,2019,6750 Km,first owner,ahmednagar, 45-55,13 bhp
+1856,Bajaj V12 125cc 2017,2017,7500 Km,first owner,ahmedabad, 57 kmpl,12bhp
+1857,TVS Apache RTR 200 4V Carburetor 2017,2017,Mileage 40 Kmpl,first owner,gurgaon, 40 Kmpl,20.70 bhp
+1858,KTM RC 200cc 2018,2018,5000 Km,first owner,bulandshahr, 35 kmpl,25.10 bhp
+1859,Bajaj Pulsar 220cc 2017,2017,20864 Km,first owner,delhi, 38 kmpl,21 bhp
+1860,Bajaj Pulsar RS200 ABS 2018,2018,Mileage 35 Kmpl,first owner,ghaziabad, 35 Kmpl,24.50 bhp
+1861,Royal Enfield Classic 350cc 2015,2015,21000 Km,first owner,dehradun, 35 kmpl,19.80 Bhp
+1862,Royal Enfield Himalayan 410cc 2016,2016,980 Km,first owner,delhi, 32 kmpl,24.50 bhp
+1863,Hero Passion Plus 100cc 2006,2006,20313 Km,first owner,delhi, 55 kmpl,7.5 Bhp
+1864,Bajaj Pulsar NS200 2015,2015,78000 Km,first owner,jaipur, 40 kmpl,24.2 BHP
+1865,Bajaj Pulsar 150cc 2010,2010,Mileage 65 Kmpl,first owner,gurgaon, 65 Kmpl,14.85 bhp
+1866,Yamaha Fazer 150cc 2010,2010,Mileage 45 Kmpl,first owner,ashok nagar, 45 Kmpl,13 bhp
+1867,Hero Splendor Plus Kick Alloy 100cc 2017,2017,22000 Km,first owner,delhi, 81 kmpl,8.20 bhp
+1868,Honda CB ShineSP 125cc 2016,2016,Mileage 65 Kmpl,first owner,pilibhit, 65 Kmpl,10 bhp
+1869,Hero CBZ 150cc 2009,2009,28195 Km,second owner,gurgaon, 65kmpl,12.8ps
+1870,Bajaj Pulsar 220cc 2013,2013,2600 Km,first owner,ahmedabad, 38 kmpl,21 bhp
+1871,Yamaha YZF-R3 320cc 2016,2016,9000 Km,first owner,mumbai, 22 kmpl,41.40 bhp
+1872,Bajaj Pulsar RS200 2015,2015,Mileage 35 Kmpl,first owner,faridabad, 35 Kmpl,24.16 bhp
+1873,Royal Enfield Classic 350cc 2014,2014,48000 Km,first owner,vadodara, 35 kmpl,19.80 Bhp
+1874,KTM Duke 390cc 2014,2014,53000 Km,first owner,mumbai, 25 kmpl,44 bhp
+1875,Hyosung GT250R 2016,2016,21000 Km,first owner,thane, 30 kmpl,28 bhp
+1876,Hero Splendor NXG 100cc 2011,2011,50000 Km,first owner,katni, 65 kmpl,7 bhp
+1877,Honda CB Shine 125cc CBS 2019,2019,Mileage 65 Kmpl,first owner,vadodara, 65 Kmpl,10 bhp
+1878,Hero Passion Plus 100cc 2008,2008,35000 Km,first owner,tiruvallur, 55 kmpl,7.5 Bhp
+1879,Hero Achiever Disc 150cc 2017,2017,13400 Km,first owner,rajahmundry, 45-55,13 bhp
+1880,Royal Enfield Meteor 350 Fireball 2021,2021,1100 Km,first owner,mumbai, ,20.2 bhp
+1881,Bajaj Pulsar 135LS 2010,2010,80000 Km,second owner,hyderabad, 64 kmpl,13 bhp
+1882,Royal Enfield Classic 500cc 2011,2011,15000 Km,first owner,buldhana, 32 kmpl,27.20 bhp
+1883,Honda CB Hornet 160R CBS 2017,2017,Mileage 52 Kmpl,second owner,vapi, 52 Kmpl,15.44 bhp
+1884,Honda CBR 150R 150cc 2012,2012,32000 Km,fourth owner or more,navi mumbai, 38 kmpl,18.28 bhp
+1885,TVS Apache RTR 160 4V DISC ABS BS6 2021,2021,15 Km,first owner,delhi, ,15.6 bhp
+1886,Bajaj Pulsar NS200 2019,2019,Mileage 42 Kmpl,first owner,chandigarh, 42 Kmpl,23.20 bhp
+1887,Royal Enfield Bullet Electra 350cc 2008,2008,25000 Km,third owner,delhi, 30 kmpl,19.8 Bhp
+1888,Honda CB Trigger 150cc 2013,2013,Mileage 60 Kmpl,first owner,bangalore, 60 Kmpl,14 bhp
+1889,Bajaj Pulsar RS200 ABS 2018,2018,Mileage 35 Kmpl,first owner,kota, 35 Kmpl,24.50 bhp
+1890,Honda CB Unicorn 150cc 2013,2013,Mileage 60 Kmpl,first owner,pune, 60 Kmpl,14 bhp
+1891,Suzuki Gixxer SF 150cc 2015,2015,50000 Km,first owner,noida, 40 kmpl,14.60 bhp
+1892,Bajaj Pulsar 220cc 2014,2014,38000 Km,third owner,mumbai, 38 kmpl,21 bhp
+1893,TVS Apache RTR 200 4V Fi 2016,2016,Mileage 40 Kmpl,first owner,ahmedabad, 40 Kmpl,20.23 BHP
+1894,Royal Enfield Classic 350cc 2015,2015,43000 Km,first owner,thrissur, 35 kmpl,19.80 Bhp
+1895,Royal Enfield Classic 350cc 2011,2011,63000 Km,first owner,chennai, 35 kmpl,19.80 Bhp
+1896,Yamaha YZF-R15 V3 150cc 2018,2018,18400 Km,first owner,warangal, ,18.70 bhp
+1897,Royal Enfield Classic 500cc 2012,2012,6000 Km,first owner,bangalore, 32 kmpl,27.20 bhp
+1898,Royal Enfield Classic 350cc 2014,2014,60000 Km,first owner,ludhiana, 35 kmpl,19.80 Bhp
+1899,Honda CB Shine 125cc 2012,2012,Mileage 65 Kmpl,first owner,vadodara, 65 Kmpl,10 bhp
+1900,Honda CB Shine 125cc 2015,2015,Mileage 65 Kmpl,first owner,chennai, 65 Kmpl,10 bhp
+1901,Royal Enfield Thunderbird X 350cc 2019,2019,21500 Km,first owner,hyderabad, ,19.80 bhp
+1902,KTM RC 125CC BS6 2021,2021,1000 Km,first owner,mumbai, ,14.5 bhp
+1903,Royal Enfield Himalayan 410cc 2016,2016,7300 Km,first owner,bangalore, 32 kmpl,24.50 bhp
+1904,Yamaha FZ S V 2.0 150cc 2017,2017,Mileage 58 Kmpl,first owner,pune, 58 Kmpl,13 bhp
+1905,Bajaj Pulsar 180cc 2010,2010,10000 Km,first owner,gurgaon, 65 kmpl,15 bhp
+1906,Harley-Davidson Iron 883 2015,2015,25000 Km,first owner,mumbai, 20 kmpl,50 bhp
+1907,Suzuki Gixxer SF 150cc 2016,2016,68000 Km,first owner,ghaziabad, 40 kmpl,14.60 bhp
+1908,Royal Enfield Classic 350cc 2016,2016,20671 Km,first owner,delhi, 35 kmpl,19.80 bhp
+1909,Royal Enfield Classic 350cc 2017,2017,2750 Km,first owner,gurgaon, 35 kmpl,19.80 bhp
+1910,Royal Enfield Classic 350cc 2015,2015,28000 Km,second owner,mahboobnagar, 35 kmpl,19.80 Bhp
+1911,Royal Enfield Classic Squadron Blue 500cc 2016,2016,36000 Km,first owner,chennai, 25 kmpl,27.20 bhp
+1912,Bajaj V15 150cc 2017,2017,8564 Km,first owner,delhi, 57 kmpl,11.80 bhp
+1913,Hero CBZ Xtreme 150cc 2010,2010,90000 Km,first owner,durg, 65kmpl,14.4PS
+1914,Honda CB Shine 125cc 2013,2013,Mileage 65 Kmpl,second owner,rewari, 65 Kmpl,10 bhp
+1915,KTM RC 390cc 2016,2016,7980 Km,first owner,mumbai, 26kmpl,42.30 bhp
+1916,Bajaj Pulsar 200 NS 200cc 2014,2014,25000 Km,first owner,chennai, 40 kmpl,24.2 BHP
+1917,Hero Passion Pro 100cc 2014,2014,13654 Km,first owner,chennai, 5 kmpl,8.2 Bhp
+1918,Harley-Davidson Sportster 883 2013,2013,25000 Km,second owner,delhi, 15 kmpl,50 bhp
+1919,Royal Enfield Standard 350cc 2019,2019,Mileage 30 Kmpl,first owner,chandigarh, 30 Kmpl,18 bhp
+1920,Hero Hunk 150cc 2014,2014,35700 Km,second owner,kheda, 53kmpl,14 bhp
+1921,Royal Enfield Standard 350cc 2019,2019,Mileage 30 Kmpl,first owner,chandigarh, 30 Kmpl,18 bhp
+1922,Hero Splendor Plus 100cc 2011,2011,20003 Km,first owner,sirsa, 81 kmpl,8.20 bhp
+1923,Hyosung GT650R 2013,2013,16150 Km,second owner,dadra & nagar haveli, 20 kmpl,72.68 bhp
+1924,Royal Enfield Classic Stealth Black 500cc 2018,2018,3000 Km,first owner,kollam, 32 kmpl,27.20 bhp
+1925,Yamaha FZs 150cc 2018,2018,53800 Km,first owner,gurgaon, 45 kmpl,13 bhp
+1926,Royal Enfield Electra 350cc 2017,2017,27000 Km,first owner,pune, 25 kmpl,19.80 bhp
+1927,TVS Apache RR310 BS6 2021,2021,1000 Km,first owner,delhi, 22 kmpl,33 bhp
+1928,Royal Enfield Thunderbird X 350cc ABS 2019,2019,14800 Km,first owner,mumbai, ,19.80 bhp
+1929,Royal Enfield Thunderbird 350cc ABS 2019,2019,12400 Km,first owner,ghaziabad, 40 kmpl,19.80 bhp
+1930,Royal Enfield Standard 350cc 2005,2005,Mileage 30 Kmpl,second owner,chandigarh, 30 Kmpl,18 bhp
+1931,Royal Enfield Thunderbird 350cc ABS 2019,2019,5800 Km,first owner,mumbai, 40 kmpl,19.80 bhp
+1932,KTM RC 390cc 2015,2015,7965 Km,first owner,delhi, 26kmpl,43 bhp
+1933,Royal Enfield Bullet Electra 350cc 2011,2011,35000 Km,first owner,mumbai, 40 kmpl,19.8 Bhp
+1934,Honda CB Hornet 160R STD 2016,2016,Mileage 52 Kmpl,first owner,kolkata, 52 Kmpl,15.44 bhp
+1935,Suzuki Intruder 150cc 2018,2018,28000 Km,first owner,vellore, ,14.60 bhp
+1936,Bajaj Pulsar 150cc 2010,2010,Mileage 65 Kmpl,first owner,ghaziabad, 65 Kmpl,14.85 bhp
+1937,Bajaj V15 150cc 2017,2017,19346 Km,first owner,gurgaon, 57 kmpl,11.80 bhp
+1938,KTM Duke 200cc 2013,2013,40000 Km,first owner,bangalore, 35 kmpl,25 bhp
+1939,Hero Splendor ISmart Self Drum Alloy 2016,2016,30671 Km,first owner,panipat, 45-55 kmpl,7 Kw
+1940,Yamaha FZs 150cc 2013,2013,22363 Km,first owner,bangalore, 45 kmpl,13 bhp
+1941,Bajaj CT 100 100cc 2016,2016,15745 Km,first owner,bangalore, 89 kmpl,8.10 bhp
+1942,Suzuki Gixxer SF 150cc 2015,2015,16000 Km,first owner,delhi, 40 kmpl,14.60 bhp
+1943,Royal Enfield Thunderbird 500cc 2016,2016,13000 Km,first owner,chennai, 25 kmpl,27.20 bhp
+1944,TVS Apache RTR 160 4V Disc 2019,2019,86000 Km,first owner,jaipur, ,16.10 bhp
+1945,KTM Duke 390cc 2018,2018,12000 Km,first owner,kanpur nagar, 25 kmpl,42.90 bhp
+1946,Bajaj Pulsar 220cc 2016,2016,22000 Km,first owner,bangalore, 38 kmpl,21 bhp
+1947,Bajaj Dominar 400 ABS 2019,2019,Mileage 28 Kms,first owner,mumbai, 28 Kms,34.50 bhp
+1948,Yamaha FZ25 250cc 2018,2018,17000 Km,first owner,bangalore, 43 kmpl,20.30 bhp
+1949,Royal Enfield Thunderbird 350cc 2015,2015,19286 Km,first owner,delhi, 40 kmpl,19.80 bhp
+1950,Bajaj Pulsar 220F ABS FI BS6 2020,2020,94000 Km,third owner,delhi, 38.5 kmpl,20.11 bhp
+1951,Royal Enfield Interceptor 650cc BS6 2020,2020,Mileage 25 Kmpl,first owner,delhi, 25 Kmpl,47 bhp
+1952,Yamaha YZF-R15 150cc 2017,2017,4508 Km,first owner,mumbai, 42 kmpl,16 bhp
+1953,Bajaj Pulsar NS200 ABS 2017,2017,Mileage 42 Kmpl,first owner,bangalore, 42 Kmpl,23.20 bhp
+1954,Yamaha YZF-R15 V3 150cc 2019,2019,9186 Km,first owner,delhi, ,18.70 bhp
+1955,Bajaj Pulsar NS160 2018,2018,54000 Km,second owner,delhi, ,15.5 PS
+1956,Triumph Bonneville T100 900cc 2017,2017,7500 Km,second owner,delhi, 25 kmpl,54 bhp
+1957,Royal Enfield Classic 350cc 2018,2018,21000 Km,first owner,mumbai, 35 kmpl,19.80 bhp
+1958,Yamaha FZ16 150cc 2013,2013,Mileage 58 Kmpl,first owner,mumbai, 58 Kmpl,13 bhp
+1959,Hero Splendor Plus i3s 2019,2019,22455 Km,first owner,delhi, 81 kmpl,8.20 bhp
+1960,KTM RC 200cc ABS 2020,2020,6000 Km,first owner,ahmednagar, 35 kmpl,25.10 bhp
+1961,Honda CB 1000R 2015,2015,17000 Km,first owner,delhi, 16 kmpl,178.11 PS
+1962,Jawa Perak 330cc 2020,2020,3000 Km,first owner,ghaziabad, ,30 bhp
+1963,Bajaj Discover 135cc 2010,2010,52000 Km,first owner,agra, 65 kmpl,9.64 kw
+1964,Yamaha YZF-R15 2.0 150cc 2012,2012,9400 Km,first owner,delhi, 42 kmpl,16.70 bhp
